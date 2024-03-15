@@ -2,21 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/tag/academic/</link>
-      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/academic/</link>
+      <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/tag/academic/</link>
+      <link>http://localhost:1313/tag/academic/</link>
     </image>
     
     <item>
+      <title>Как прошла моя неделя?</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h2 id=&#34;понедельник---день-тяжёлый&#34;&gt;Понедельник - день тяжёлый&lt;/h2&gt;
+&lt;p&gt;С субботы я гостил у родителей. Подключился на онлайн лекции, но вместо того, чтобы отправиться спать, как сделал бы каждый добропорядочный студент, проявил инициативу высшего уровня и презентовал доклад о процессах в операционных системах.&lt;/p&gt;
+&lt;p&gt;Днём я возвращался в Москву. Больше пригородной электрички я ненавижу только 2 пригородные электрички. Запах фантомных фекалий, куда бы не сел, провинциалы, спорящие о том, какое пиво они откроют после следующей остановки, великое переселение зайцев в соседние вагоны, когда заходят кондукторы, агрессивные бабули, приватизировавшие 2 ряда и восхваляющие авторитарный режим, установившийся в стране (во времена Сталина, конечно). Чтобы как-то вынести подобные проявления вышеупомянутой массы, я надеваю наушники и это спасает&amp;hellip; Но не надолго: через каждые 2 станции в начале вагона начинают появляться уездные коммерасанты с громкоговорителями, от которых, барабанные перепонки лопаются как воздушные шарики, запущенные у Кремля, а уши скручиваются в трубочку. Кажется, у них есть всё: дождевик, полотенце, плавки, сварочный аппарат, мороженое, наушники, пистолет Макарова и средства контрацепции (я думаю, самое нужное для вагонного контингента) - как говорится, всё: от батона до гондона, и всё это по сто рублей. По-моему, единственное, чего у них нет, - это ещё одного торгаша.&lt;/p&gt;
+&lt;p&gt;Вытерпев час в электричке и полчаса в автобусе, я оказываюсь дома, где перевожу дух и сажусь за домашние задания.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;вторник-и-среда---дни-тяжёлые&#34;&gt;Вторник и Среда - дни тяжёлые&lt;/h2&gt;
+&lt;p&gt;Накануне вечером решив, что надо что-то менять в жизни, я встал в 6 утра, поспав рекордные за последнюю неделю 5 часов. С закрытыми глазами сделал кофе и лабу. Съездил на волейбол и вечером встретился с братом по ремеслу - другом-&lt;del&gt;мазохистом&lt;/del&gt; программистом. Ночь напролет мы писали на java. После 1.5-часового сна приехал в университет, где умирал 2 пары подряд. Не выдержав, уехал домой отсыпаться, но поскольку дел много, а в сутках всего 24 часа (какой гений это придумал!?), дневной сон составил пару часов, после чего я делал дз.&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;четверг---тоже-день-тяжёлый&#34;&gt;Четверг - тоже день тяжёлый&lt;/h2&gt;
+&lt;p&gt;Съездил на пары, после которых преподавал математику своему ученику-садисту. Коротко о нём: тварь эта не обделена чувством юмора, а потому все 2 часа я был вскипающим чайником с красными глазами (от недосыпа!). Да-да, приходилось редактировать все задачки, в которых ответ хотя бы косвенно напоминал число 300. Вы себе просто не представляете, какой неописуемый восторг испытывало это прекрасное создание каждый раз, когда напоминало мне, что за убийство дают от 8 до 20 лет, ибо это единственное, что заставляло меня усидеть на месте после идиотских тезисов типа &amp;lsquo;2^{0,5} = 1&amp;rsquo;, &amp;ldquo;детей бить нельзя&amp;rdquo; и тому подобных.&lt;/p&gt;
+&lt;p&gt;Героически пройдя через вышеперечисленные испытания, я измотанный лёг спать.&lt;/p&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;пятница---вот-и-дожили&#34;&gt;Пятница - вот и дожили&lt;/h2&gt;
+&lt;p&gt;Безмерно счастливый, так как осознаю, что рабочая неделя закончилась и начались рабочие выходные.&lt;/p&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Каюсь, грешен. Мог бы сделать гораздо больше, если бы грамотно распланировал своё время и восстановил режим. Но чтобы это сделать, надо сделать все лабы, а чтобы успеть сделать все лабы, надо найти на них время, а чтобы найти на них время, надо сделать все лабы, а чтобы сделать все лабы, надо&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Всем мира и добра!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;

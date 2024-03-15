@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>http://localhost:1313/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>http://localhost:1313/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,10 +33,36 @@
     </item>
     
     <item>
+      <title>Как прошла моя неделя?</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h2 id=&#34;понедельник---день-тяжёлый&#34;&gt;Понедельник - день тяжёлый&lt;/h2&gt;
+&lt;p&gt;С субботы я гостил у родителей. Подключился на онлайн лекции, но вместо того, чтобы отправиться спать, как сделал бы каждый добропорядочный студент, проявил инициативу высшего уровня и презентовал доклад о процессах в операционных системах.&lt;/p&gt;
+&lt;p&gt;Днём я возвращался в Москву. Больше пригородной электрички я ненавижу только 2 пригородные электрички. Запах фантомных фекалий, куда бы не сел, провинциалы, спорящие о том, какое пиво они откроют после следующей остановки, великое переселение зайцев в соседние вагоны, когда заходят кондукторы, агрессивные бабули, приватизировавшие 2 ряда и восхваляющие авторитарный режим, установившийся в стране (во времена Сталина, конечно). Чтобы как-то вынести подобные проявления вышеупомянутой массы, я надеваю наушники и это спасает&amp;hellip; Но не надолго: через каждые 2 станции в начале вагона начинают появляться уездные коммерасанты с громкоговорителями, от которых, барабанные перепонки лопаются как воздушные шарики, запущенные у Кремля, а уши скручиваются в трубочку. Кажется, у них есть всё: дождевик, полотенце, плавки, сварочный аппарат, мороженое, наушники, пистолет Макарова и средства контрацепции (я думаю, самое нужное для вагонного контингента) - как говорится, всё: от батона до гондона, и всё это по сто рублей. По-моему, единственное, чего у них нет, - это ещё одного торгаша.&lt;/p&gt;
+&lt;p&gt;Вытерпев час в электричке и полчаса в автобусе, я оказываюсь дома, где перевожу дух и сажусь за домашние задания.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;вторник-и-среда---дни-тяжёлые&#34;&gt;Вторник и Среда - дни тяжёлые&lt;/h2&gt;
+&lt;p&gt;Накануне вечером решив, что надо что-то менять в жизни, я встал в 6 утра, поспав рекордные за последнюю неделю 5 часов. С закрытыми глазами сделал кофе и лабу. Съездил на волейбол и вечером встретился с братом по ремеслу - другом-&lt;del&gt;мазохистом&lt;/del&gt; программистом. Ночь напролет мы писали на java. После 1.5-часового сна приехал в университет, где умирал 2 пары подряд. Не выдержав, уехал домой отсыпаться, но поскольку дел много, а в сутках всего 24 часа (какой гений это придумал!?), дневной сон составил пару часов, после чего я делал дз.&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;четверг---тоже-день-тяжёлый&#34;&gt;Четверг - тоже день тяжёлый&lt;/h2&gt;
+&lt;p&gt;Съездил на пары, после которых преподавал математику своему ученику-садисту. Коротко о нём: тварь эта не обделена чувством юмора, а потому все 2 часа я был вскипающим чайником с красными глазами (от недосыпа!). Да-да, приходилось редактировать все задачки, в которых ответ хотя бы косвенно напоминал число 300. Вы себе просто не представляете, какой неописуемый восторг испытывало это прекрасное создание каждый раз, когда напоминало мне, что за убийство дают от 8 до 20 лет, ибо это единственное, что заставляло меня усидеть на месте после идиотских тезисов типа &amp;lsquo;2^{0,5} = 1&amp;rsquo;, &amp;ldquo;детей бить нельзя&amp;rdquo; и тому подобных.&lt;/p&gt;
+&lt;p&gt;Героически пройдя через вышеперечисленные испытания, я измотанный лёг спать.&lt;/p&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;пятница---вот-и-дожили&#34;&gt;Пятница - вот и дожили&lt;/h2&gt;
+&lt;p&gt;Безмерно счастливый, так как осознаю, что рабочая неделя закончилась и начались рабочие выходные.&lt;/p&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Каюсь, грешен. Мог бы сделать гораздо больше, если бы грамотно распланировал своё время и восстановил режим. Но чтобы это сделать, надо сделать все лабы, а чтобы успеть сделать все лабы, надо найти на них время, а чтобы найти на них время, надо сделать все лабы, а чтобы сделать все лабы, надо&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Всем мира и добра!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -61,7 +87,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -81,9 +107,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -161,9 +187,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -263,7 +289,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-649187253&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-791256843&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +299,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-649187253&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-791256843&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -555,9 +581,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -569,9 +595,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -694,9 +720,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>http://localhost:1313/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>http://localhost:1313/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -707,17 +733,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>http://localhost:1313/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>http://localhost:1313/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -734,9 +760,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
