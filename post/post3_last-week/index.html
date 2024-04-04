@@ -279,12 +279,12 @@
 
   
 
-<meta name="description" content="В данном посте я расскажу о системе контроля версий git." />
+<meta name="description" content="Сейчас я расскажу, чем я занимался на этой неделе и проанализирую события." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://example.com/post/post2_git/" />
-<link rel="canonical" href="https://example.com/post/post2_git/" />
+<link rel="alternate" hreflang="en-us" href="https://example.com/post/post3_last-week/" />
+<link rel="canonical" href="https://example.com/post/post3_last-week/" />
 
 
 
@@ -326,18 +326,18 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Academic" />
-<meta property="og:url" content="https://example.com/post/post2_git/" />
-<meta property="og:title" content="Управление версиями Git | Academic" />
-<meta property="og:description" content="В данном посте я расскажу о системе контроля версий git." /><meta property="og:image" content="https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://example.com/post/post3_last-week/" />
+<meta property="og:title" content="Как прошла моя неделя? x2 | Academic" />
+<meta property="og:description" content="Сейчас я расскажу, чем я занимался на этой неделе и проанализирую события." /><meta property="og:image" content="https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2024-03-15T00:00:00&#43;00:00"
+      content="2024-03-29T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2024-03-15T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-03-29T00:00:00&#43;00:00">
   
 
 
@@ -363,12 +363,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://example.com/post/post2_git/"
+    "@id": "https://example.com/post/post3_last-week/"
   },
-  "headline": "Управление версиями Git",
+  "headline": "Как прошла моя неделя? x2",
   
-  "datePublished": "2024-03-15T00:00:00Z",
-  "dateModified": "2024-03-15T00:00:00Z",
+  "datePublished": "2024-03-29T00:00:00Z",
+  "dateModified": "2024-03-29T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -383,7 +383,7 @@
       "url": "https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "В данном посте я расскажу о системе контроля версий git."
+  "description": "Сейчас я расскажу, чем я занимался на этой неделе и проанализирую события."
 }
 </script>
 
@@ -405,7 +405,7 @@
 
 
   
-  <title>Управление версиями Git | Academic</title>
+  <title>Как прошла моя неделя? x2 | Academic</title>
 
   
   
@@ -425,7 +425,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="58d7550e5042cd731e56ca255aaf453a" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="7fe42093968ead35c8325b7d749e0b15" >
 
   
   
@@ -839,10 +839,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>Управление версиями Git</h1>
+  <h1>Как прошла моя неделя? x2</h1>
 
   
-  <p class="page-subtitle">В данном посте я расскажу о системе контроля версий git.</p>
+  <p class="page-subtitle">Сейчас я расскажу, чем я занимался на этой неделе и проанализирую события.</p>
   
 
   
@@ -870,7 +870,7 @@
     
       
     
-    Mar 15, 2024
+    Mar 29, 2024
   </span>
   
 
@@ -879,7 +879,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    1 min read
   </span>
   
 
@@ -911,22 +911,9 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="о-системе-контроля-версий">О системе контроля версий</h2>
-<p>Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.</p>
-<h2 id="локальные-системы-контроля-версий">Локальные системы контроля версий</h2>
-<p>Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он
-невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.</p>
-<p>Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.</p>
-<img src="1.png" alt="drawing" width=55%/>
-<h2 id="централизованные-системы-контроля-версий">Централизованные системы контроля версий</h2>
-<p>Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.</p>
-<p>Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.</p>
-<p>Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.</p>
-<img src="2.png" alt="drawing" width=55%/>
-<h2 id="распределённые-системы-контроля-версий">Распределённые системы контроля версий</h2>
-<p>Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.</p>
-<p>Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.</p>
-<img src="3.png" alt="drawing" width=55%/>
+      <h2 id="лонгрида-не-будет">Лонгрида не будет</h2>
+<p>Моя неделя прошла супер непродуктивно, а все попытки прерывания прокрастинации выливались лишь в рефлексию на тему &ldquo;На что я трачу свою жизнь&rdquo;. Грустно и невкусно. Единственное, что как-то скрашивало бренность бытия - несколько встреч с друзьями. На этом и закончим.</p>
+<img src="1.jpeg" alt="drawing" width=55%/>
 
     </div>
 
@@ -959,7 +946,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost3_last-week%2F&amp;text=%D0%9A%D0%B0%D0%BA&#43;%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0&#43;%D0%BC%D0%BE%D1%8F&#43;%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%3F&#43;x2" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -976,7 +963,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;t=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost3_last-week%2F&amp;t=%D0%9A%D0%B0%D0%BA&#43;%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0&#43;%D0%BC%D0%BE%D1%8F&#43;%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%3F&#43;x2" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -995,7 +982,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8%20Git&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%20%D0%BC%D0%BE%D1%8F%20%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%3F%20x2&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost3_last-week%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1012,7 +999,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost3_last-week%2F&amp;title=%D0%9A%D0%B0%D0%BA&#43;%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0&#43;%D0%BC%D0%BE%D1%8F&#43;%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%3F&#43;x2" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1029,7 +1016,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git%20https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=%D0%9A%D0%B0%D0%BA&#43;%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0&#43;%D0%BC%D0%BE%D1%8F&#43;%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%3F&#43;x2%20https%3A%2F%2Fexample.com%2Fpost%2Fpost3_last-week%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1046,7 +1033,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost3_last-week%2F&amp;title=%D0%9A%D0%B0%D0%BA&#43;%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0&#43;%D0%BC%D0%BE%D1%8F&#43;%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%3F&#43;x2" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
