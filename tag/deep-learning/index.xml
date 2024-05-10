@@ -17,7 +17,7 @@
       <link>https://example.com/project/project1_soft_eng_lab1/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/project1_soft_eng_lab1/</guid>
-      <description>&lt;h1 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
 &lt;p&gt;Написать компьютерную программу, содержащую&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Описание структуры, содержащей поля типа string, int, double;&lt;/li&gt;
@@ -33,10 +33,10 @@
 &lt;/li&gt;
 &lt;li&gt;Функцию main, содержащую сценарий работы со списком, использующий разработанный инструментарий.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;превью-проекта&#34;&gt;Превью проекта&lt;/h1&gt;
+&lt;h2 id=&#34;превью-проекта&#34;&gt;Превью проекта&lt;/h2&gt;
 &lt;p&gt;В данном проекте мной был создан односвязный список, каждый узел которого хранит в себе данные определённого человека: имя, рост и вес. Само собой был реализован набор функций, указанных в цели проекта.&lt;/p&gt;
-&lt;p&gt;Весь проект можно будет лицезреть в самое ближайшее время &lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;как-же-всё-таки-мне-это-удалось&#34;&gt;Как же всё-таки мне это удалось?&lt;/h1&gt;
+&lt;p&gt;Весь проект можно будет лицезреть в самое ближайшее время &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;как-же-всё-таки-мне-это-удалось&#34;&gt;Как же всё-таки мне это удалось?&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Объявляем структуру узла, содержащую в себе 3 поля (string, int, double) и ссылку на следующий элемент.&lt;/li&gt;
 &lt;/ol&gt;
@@ -203,7 +203,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;И в конце хотелось бы напомнить, что весь проект можно будет лицезреть в самое ближайшее время &lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;И в конце хотелось бы напомнить, что весь проект можно будет лицезреть в самое ближайшее время &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
