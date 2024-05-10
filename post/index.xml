@@ -5,12 +5,22 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Как прошла моя неделя? x4</title>
+      <link>https://example.com/post/post7_last-week/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post7_last-week/</guid>
+      <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+</description>
+    </item>
     
     <item>
       <title>Оформление отчёта</title>
@@ -183,7 +193,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-546192837&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-291467538&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -193,7 +203,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-546192837&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-291467538&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
