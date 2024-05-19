@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Academic</title>
-    <link>https://example.com/tag/deep-learning/</link>
-      <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Deep Learning | Murashov I.V.</title>
+    <link>https://neve7mind.github.io/tag/deep-learning/</link>
+      <atom:link href="https://neve7mind.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
+      <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>https://example.com/tag/deep-learning/</link>
+      <link>https://neve7mind.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Implementation of Simply Linked Lists in C&#43;&#43;</title>
-      <link>https://example.com/project/project1_soft_eng_lab1/</link>
+      <link>https://neve7mind.github.io/project/project1_soft_eng_lab1/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/project1_soft_eng_lab1/</guid>
+      <guid>https://neve7mind.github.io/project/project1_soft_eng_lab1/</guid>
       <description>&lt;h2 id=&#34;the-aim-of-the-project&#34;&gt;The aim of the project&lt;/h2&gt;
 &lt;p&gt;Write a computer program containing&lt;/p&gt;
 &lt;ul&gt;

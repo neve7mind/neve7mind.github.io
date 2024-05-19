@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Murashov I.V.</title>
+    <link>https://neve7mind.github.io/ru/project/</link>
+      <atom:link href="https://neve7mind.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
+      <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://neve7mind.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Реализация односвязных списков в C&#43;&#43;</title>
-      <link>https://example.com/ru/project/project1_soft_eng_lab1/</link>
+      <link>https://neve7mind.github.io/ru/project/project1_soft_eng_lab1/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/project1_soft_eng_lab1/</guid>
+      <guid>https://neve7mind.github.io/ru/project/project1_soft_eng_lab1/</guid>
       <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
 &lt;p&gt;Написать компьютерную программу, содержащую&lt;/p&gt;
 &lt;ul&gt;

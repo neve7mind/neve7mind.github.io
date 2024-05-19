@@ -2,480 +2,480 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/example-talk/</loc>
+    <loc>https://neve7mind.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/talk/example-talk/"
+                href="https://neve7mind.github.io/ru/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/talk/example-talk/"
+                href="https://neve7mind.github.io/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://neve7mind.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/event/"
+                href="https://neve7mind.github.io/ru/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/"
+                href="https://neve7mind.github.io/event/"
                 />
   </url><url>
-    <loc>https://example.com/tag/academic/</loc>
+    <loc>https://neve7mind.github.io/tag/academic/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tag/academic/"
+                href="https://neve7mind.github.io/ru/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/academic/"
+                href="https://neve7mind.github.io/tag/academic/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://neve7mind.github.io/categories/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/categories/"
+                href="https://neve7mind.github.io/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/"
+                href="https://neve7mind.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tag/deep-learning/</loc>
+    <loc>https://neve7mind.github.io/tag/deep-learning/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tag/deep-learning/"
+                href="https://neve7mind.github.io/ru/tag/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/deep-learning/"
+                href="https://neve7mind.github.io/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://example.com/category/demo/</loc>
+    <loc>https://neve7mind.github.io/category/demo/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/category/demo/"
+                href="https://neve7mind.github.io/ru/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/category/demo/"
+                href="https://neve7mind.github.io/category/demo/"
                 />
   </url><url>
-    <loc>https://example.com/post/post7_last-week/</loc>
+    <loc>https://neve7mind.github.io/post/post7_last-week/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post7_last-week/"
+                href="https://neve7mind.github.io/ru/post/post7_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post7_last-week/"
+                href="https://neve7mind.github.io/post/post7_last-week/"
                 />
   </url><url>
-    <loc>https://example.com/project/project1_soft_eng_lab1/</loc>
+    <loc>https://neve7mind.github.io/project/project1_soft_eng_lab1/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/project/project1_soft_eng_lab1/"
+                href="https://neve7mind.github.io/ru/project/project1_soft_eng_lab1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/project1_soft_eng_lab1/"
+                href="https://neve7mind.github.io/project/project1_soft_eng_lab1/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://neve7mind.github.io/post/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/"
+                href="https://neve7mind.github.io/ru/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/"
+                href="https://neve7mind.github.io/post/"
                 />
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://neve7mind.github.io/project/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/project/"
+                href="https://neve7mind.github.io/ru/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/"
+                href="https://neve7mind.github.io/project/"
                 />
   </url><url>
-    <loc>https://example.com/post/post8_sci_prog.lang/</loc>
+    <loc>https://neve7mind.github.io/post/post8_sci_prog.lang/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post8_sci_prog.lang/"
+                href="https://neve7mind.github.io/ru/post/post8_sci_prog.lang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post8_sci_prog.lang/"
+                href="https://neve7mind.github.io/post/post8_sci_prog.lang/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://neve7mind.github.io/tags/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/"
+                href="https://neve7mind.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://neve7mind.github.io/tags/"
                 />
   </url><url>
-    <loc>https://example.com/post/post6_report_decor/</loc>
+    <loc>https://neve7mind.github.io/post/post6_report_decor/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post6_report_decor/"
+                href="https://neve7mind.github.io/ru/post/post6_report_decor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post6_report_decor/"
+                href="https://neve7mind.github.io/post/post6_report_decor/"
                 />
   </url><url>
-    <loc>https://example.com/post/post5_last-week/</loc>
+    <loc>https://neve7mind.github.io/post/post5_last-week/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post5_last-week/"
+                href="https://neve7mind.github.io/ru/post/post5_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post5_last-week/"
+                href="https://neve7mind.github.io/post/post5_last-week/"
                 />
   </url><url>
-    <loc>https://example.com/post/post3_last-week/</loc>
+    <loc>https://neve7mind.github.io/post/post3_last-week/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post3_last-week/"
+                href="https://neve7mind.github.io/ru/post/post3_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post3_last-week/"
+                href="https://neve7mind.github.io/post/post3_last-week/"
                 />
   </url><url>
-    <loc>https://example.com/post/post4_markdown/</loc>
+    <loc>https://neve7mind.github.io/post/post4_markdown/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post4_markdown/"
+                href="https://neve7mind.github.io/ru/post/post4_markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post4_markdown/"
+                href="https://neve7mind.github.io/post/post4_markdown/"
                 />
   </url><url>
-    <loc>https://example.com/post/post2_git/</loc>
+    <loc>https://neve7mind.github.io/post/post2_git/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post2_git/"
+                href="https://neve7mind.github.io/ru/post/post2_git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post2_git/"
+                href="https://neve7mind.github.io/post/post2_git/"
                 />
   </url><url>
-    <loc>https://example.com/post/post1_last-week/</loc>
+    <loc>https://neve7mind.github.io/post/post1_last-week/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/post1_last-week/"
+                href="https://neve7mind.github.io/ru/post/post1_last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/post1_last-week/"
+                href="https://neve7mind.github.io/post/post1_last-week/"
                 />
   </url><url>
-    <loc>https://example.com/post/blog-with-jupyter/</loc>
+    <loc>https://neve7mind.github.io/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/blog-with-jupyter/"
+                href="https://neve7mind.github.io/ru/post/blog-with-jupyter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/blog-with-jupyter/"
+                href="https://neve7mind.github.io/post/blog-with-jupyter/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://neve7mind.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/"
+                href="https://neve7mind.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://neve7mind.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>https://neve7mind.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/getting-started/"
+                href="https://neve7mind.github.io/ru/post/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/getting-started/"
+                href="https://neve7mind.github.io/post/getting-started/"
                 />
   </url><url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://neve7mind.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+                href="https://neve7mind.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+                href="https://neve7mind.github.io/tag/%E5%BC%80%E6%BA%90/"
                 />
   </url><url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://neve7mind.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+                href="https://neve7mind.github.io/ru/category/%E6%95%99%E7%A8%8B/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+                href="https://neve7mind.github.io/category/%E6%95%99%E7%A8%8B/"
                 />
   </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
+    <loc>https://neve7mind.github.io/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/preprint/"
+                href="https://neve7mind.github.io/ru/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/preprint/"
+                href="https://neve7mind.github.io/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/article/</loc>
+    <loc>https://neve7mind.github.io/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication-type/article/"
+                href="https://neve7mind.github.io/ru/publication-type/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/article/"
+                href="https://neve7mind.github.io/publication-type/article/"
                 />
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://neve7mind.github.io/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication_types/"
+                href="https://neve7mind.github.io/ru/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/"
+                href="https://neve7mind.github.io/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>https://neve7mind.github.io/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/"
+                href="https://neve7mind.github.io/ru/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/"
+                href="https://neve7mind.github.io/publication/"
                 />
   </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
+    <loc>https://neve7mind.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tag/source-themes/"
+                href="https://neve7mind.github.io/ru/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/source-themes/"
+                href="https://neve7mind.github.io/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>https://neve7mind.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/slides/"
+                href="https://neve7mind.github.io/ru/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/slides/"
+                href="https://neve7mind.github.io/slides/"
                 />
   </url><url>
-    <loc>https://example.com/slides/example/</loc>
+    <loc>https://neve7mind.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/slides/example/"
+                href="https://neve7mind.github.io/ru/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/slides/example/"
+                href="https://neve7mind.github.io/slides/example/"
                 />
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
+    <loc>https://neve7mind.github.io/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/journal-article/"
+                href="https://neve7mind.github.io/ru/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/journal-article/"
+                href="https://neve7mind.github.io/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/article-journal/</loc>
+    <loc>https://neve7mind.github.io/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication-type/article-journal/"
+                href="https://neve7mind.github.io/ru/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/article-journal/"
+                href="https://neve7mind.github.io/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
+    <loc>https://neve7mind.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/conference-paper/"
+                href="https://neve7mind.github.io/ru/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/conference-paper/"
+                href="https://neve7mind.github.io/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/publication-type/paper-conference/</loc>
+    <loc>https://neve7mind.github.io/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication-type/paper-conference/"
+                href="https://neve7mind.github.io/ru/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/paper-conference/"
+                href="https://neve7mind.github.io/publication-type/paper-conference/"
                 />
   </url>
 </urlset>

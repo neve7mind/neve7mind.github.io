@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Demo | Murashov I.V.</title>
+    <link>https://neve7mind.github.io/category/demo/</link>
+      <atom:link href="https://neve7mind.github.io/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
+      <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>https://neve7mind.github.io/category/demo/</link>
     </image>
     
     <item>
       <title>How was my week? x4</title>
-      <link>https://example.com/post/post7_last-week/</link>
+      <link>https://neve7mind.github.io/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post7_last-week/</guid>
+      <guid>https://neve7mind.github.io/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
 &lt;p&gt;Not to say that something out of the ordinary happened last week. I read &amp;ldquo;No change on the Western Front&amp;rdquo; Remark. Fatalism strengthened, so to speak. Went to my family in the area. Tired of your self-reflection, so just look at this beauty from our site).&lt;/p&gt;
 &lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Science programming languages</title>
-      <link>https://example.com/post/post8_sci_prog.lang/</link>
+      <link>https://neve7mind.github.io/post/post8_sci_prog.lang/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post8_sci_prog.lang/</guid>
+      <guid>https://neve7mind.github.io/post/post8_sci_prog.lang/</guid>
       <description>&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
 &lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
@@ -80,9 +80,9 @@ is a relatively new language, so the number of libraries in this language is rel
     
     <item>
       <title>Report design</title>
-      <link>https://example.com/post/post6_report_decor/</link>
+      <link>https://neve7mind.github.io/post/post6_report_decor/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post6_report_decor/</guid>
+      <guid>https://neve7mind.github.io/post/post6_report_decor/</guid>
       <description>&lt;h2 id=&#34;rules-of-decorating-in-accordance-with-гост-15-2001-and-гост-71-2003&#34;&gt;Rules of decorating in accordance with ГОСТ 1.5-2001 and ГОСТ 7.1-2003&lt;/h2&gt;
 &lt;p&gt;The actual text of the report should be typed on the computer in Times New Roman font size 14 pt. (Microsoft Word text editor is used for text design). It is recommended that the font used in the illustrative material (tables and figures) be reduced to 12 pt. The line spacing in the main text is one-and-a-half. In the illustrative material, it is recommended to make the line spacing single. Page margins should be:&lt;/p&gt;
 &lt;ul&gt;
@@ -119,9 +119,9 @@ is a relatively new language, so the number of libraries in this language is rel
     
     <item>
       <title>How was my week? x3</title>
-      <link>https://example.com/post/post5_last-week/</link>
+      <link>https://neve7mind.github.io/post/post5_last-week/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post5_last-week/</guid>
+      <guid>https://neve7mind.github.io/post/post5_last-week/</guid>
       <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
 &lt;p&gt;DD.MM.YY Пн&lt;/p&gt;
 &lt;p&gt;[00:24]&lt;/p&gt;
@@ -134,9 +134,9 @@ is a relatively new language, so the number of libraries in this language is rel
     
     <item>
       <title>How was my week? x2</title>
-      <link>https://example.com/post/post3_last-week/</link>
+      <link>https://neve7mind.github.io/post/post3_last-week/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3_last-week/</guid>
+      <guid>https://neve7mind.github.io/post/post3_last-week/</guid>
       <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
 &lt;p&gt;My week has been super unproductive, and all attempts to interrupt procrastination have resulted only in a reflection on the topic &amp;ldquo;What am I wasting my life on&amp;rdquo;. Sad and tasteless. The only thing that somehow brightened the fragility of being - a few meetings with friends. That’s all.&lt;/p&gt;
 &lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
@@ -145,9 +145,9 @@ is a relatively new language, so the number of libraries in this language is rel
     
     <item>
       <title>Git version control</title>
-      <link>https://example.com/post/post2_git/</link>
+      <link>https://neve7mind.github.io/post/post2_git/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2_git/</guid>
+      <guid>https://neve7mind.github.io/post/post2_git/</guid>
       <description>&lt;h2 id=&#34;about-version-control&#34;&gt;About Version Control&lt;/h2&gt;
 &lt;p&gt;What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
 &lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local Version Control Systems&lt;/h2&gt;
@@ -168,9 +168,9 @@ is a relatively new language, so the number of libraries in this language is rel
     
     <item>
       <title>How was my week?</title>
-      <link>https://example.com/post/post1_last-week/</link>
+      <link>https://neve7mind.github.io/post/post1_last-week/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1_last-week/</guid>
+      <guid>https://neve7mind.github.io/post/post1_last-week/</guid>
       <description>&lt;h2 id=&#34;monday-is-a-hard-day&#34;&gt;Monday is a hard day&lt;/h2&gt;
 &lt;p&gt;I’ve been visiting my parents since Saturday. Joined an online lecture, but instead of going to bed like every good student would, he took the initiative at the top and presented a report on operating system processes.&lt;/p&gt;
 &lt;p&gt;In the afternoon I returned to Moscow. More suburban train I hate only 2 commuter trains. The smell of phantom feces, wherever they sit, the provincials arguing about what beers they will open after the next stop, the great relocation of hares to neighboring carriages when conductors, aggressive grannies, privatized 2 rows and praising the authoritarian regime, established in the country (during the time of Stalin, of course). In order to somehow endure such manifestations of the aforementioned mass, I put on headphones and it saves&amp;hellip; But not for long: every 2 stations at the beginning of the car begin to appear county commentators with loudspeakers, from which, the eardrums burst like balloons launched at the Kremlin, and ears twisted into a tube. They seem to have everything: a raincoat, a towel, swimming trunks, a welding machine, ice cream, headphones, a Makarov pistol and contraceptives (I think the most necessary for the carriage contingent) - as they say, everything - from a loaf to a condom, and all of a hundred rubles. I think the only thing they don’t have is another salesman.&lt;/p&gt;
@@ -194,9 +194,9 @@ is a relatively new language, so the number of libraries in this language is rel
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://neve7mind.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://neve7mind.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;

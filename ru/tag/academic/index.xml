@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/ru/tag/academic/</link>
-      <atom:link href="https://example.com/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Academic | Murashov I.V.</title>
+    <link>https://neve7mind.github.io/ru/tag/academic/</link>
+      <atom:link href="https://neve7mind.github.io/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
+      <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/ru/tag/academic/</link>
+      <link>https://neve7mind.github.io/ru/tag/academic/</link>
     </image>
     
     <item>
       <title>Как прошла моя неделя? x4</title>
-      <link>https://example.com/ru/post/post7_last-week/</link>
+      <link>https://neve7mind.github.io/ru/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post7_last-week/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;лонгрида-не-будет&#34;&gt;Лонгрида не будет&lt;/h2&gt;
 &lt;p&gt;Не сказать, что на неделе произошло что-то из ряда вон выходящее. Прочитал &amp;ldquo;На Западном фронте без перемен&amp;rdquo; Ремарка. Фатализм крепчал, так сказать. Съездил к родным в область. Устал от этой вашей саморефлексии, поэтому просто посмотрите на эту красоту с нашего участка)&lt;/p&gt;
 &lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/post8_sci_prog.lang/</link>
+      <link>https://neve7mind.github.io/ru/post/post8_sci_prog.lang/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post8_sci_prog.lang/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post8_sci_prog.lang/</guid>
       <description>&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
 &lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
@@ -80,9 +80,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Оформление отчёта</title>
-      <link>https://example.com/ru/post/post6_report_decor/</link>
+      <link>https://neve7mind.github.io/ru/post/post6_report_decor/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post6_report_decor/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post6_report_decor/</guid>
       <description>&lt;h2 id=&#34;правила-оформления-в-соответствии-с-гост-15-2001-и-гост-71-2003&#34;&gt;Правила оформления в соответствии с ГОСТ 1.5-2001 и ГОСТ 7.1-2003&lt;/h2&gt;
 &lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
 &lt;ul&gt;
@@ -121,9 +121,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Как прошла моя неделя? x3</title>
-      <link>https://example.com/ru/post/post5_last-week/</link>
+      <link>https://neve7mind.github.io/ru/post/post5_last-week/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post5_last-week/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post5_last-week/</guid>
       <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
 &lt;p&gt;DD.MM.YY Пн&lt;/p&gt;
 &lt;p&gt;[00:24]&lt;/p&gt;
@@ -136,9 +136,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Как прошла моя неделя? x2</title>
-      <link>https://example.com/ru/post/post3_last-week/</link>
+      <link>https://neve7mind.github.io/ru/post/post3_last-week/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post3_last-week/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post3_last-week/</guid>
       <description>&lt;h2 id=&#34;лонгрида-не-будет&#34;&gt;Лонгрида не будет&lt;/h2&gt;
 &lt;p&gt;Моя неделя прошла супер непродуктивно, а все попытки прерывания прокрастинации выливались лишь в рефлексию на тему &amp;ldquo;На что я трачу свою жизнь&amp;rdquo;. Грустно и невкусно. Единственное, что как-то скрашивало бренность бытия - несколько встреч с друзьями. На этом и закончим.&lt;/p&gt;
 &lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
@@ -147,9 +147,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Как прошла моя неделя?</title>
-      <link>https://example.com/ru/post/post1_last-week/</link>
+      <link>https://neve7mind.github.io/ru/post/post1_last-week/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post1_last-week/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post1_last-week/</guid>
       <description>&lt;h2 id=&#34;понедельник---день-тяжёлый&#34;&gt;Понедельник - день тяжёлый&lt;/h2&gt;
 &lt;p&gt;С субботы я гостил у родителей. Подключился на онлайн лекции, но вместо того, чтобы отправиться спать, как сделал бы каждый добропорядочный студент, проявил инициативу высшего уровня и презентовал доклад о процессах в операционных системах.&lt;/p&gt;
 &lt;p&gt;Днём я возвращался в Москву. Больше пригородной электрички я ненавижу только 2 пригородные электрички. Запах фантомных фекалий, куда бы не сел, провинциалы, спорящие о том, какое пиво они откроют после следующей остановки, великое переселение зайцев в соседние вагоны, когда заходят кондукторы, агрессивные бабули, приватизировавшие 2 ряда и восхваляющие авторитарный режим, установившийся в стране (во времена Сталина, конечно). Чтобы как-то вынести подобные проявления вышеупомянутой массы, я надеваю наушники и это спасает&amp;hellip; Но не надолго: через каждые 2 станции в начале вагона начинают появляться уездные коммерасанты с громкоговорителями, от которых, барабанные перепонки лопаются как воздушные шарики, запущенные у Кремля, а уши скручиваются в трубочку. Кажется, у них есть всё: дождевик, полотенце, плавки, сварочный аппарат, мороженое, наушники, пистолет Макарова и средства контрацепции (я думаю, самое нужное для вагонного контингента) - как говорится, всё: от батона до гондона, и всё это по сто рублей. По-моему, единственное, чего у них нет, - это ещё одного торгаша.&lt;/p&gt;
@@ -173,9 +173,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/ru/post/post2_git/</link>
+      <link>https://neve7mind.github.io/ru/post/post2_git/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/post2_git/</guid>
+      <guid>https://neve7mind.github.io/ru/post/post2_git/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
 &lt;h2 id=&#34;локальные-системы-контроля-версий&#34;&gt;Локальные системы контроля версий&lt;/h2&gt;
@@ -197,9 +197,9 @@ B Julia pеализована возможность JIT - компиляции 
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://neve7mind.github.io/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://neve7mind.github.io/ru/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
