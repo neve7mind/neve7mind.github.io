@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 10, 2024 --><html lang="en-us" >
+<!-- Last Published: May 19, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -271,7 +271,7 @@
 
 
 
-  <meta name="author" content="Мурашов И.В." />
+  <meta name="author" content="Murashov I.V." />
 
 
 
@@ -279,9 +279,11 @@
 
   
 
-<meta name="description" content="В данном посте я расскажу о системе контроля версий git." />
+<meta name="description" content="In this post I will talk about the git version control system." />
 
 
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/post2_git/" />
 
 <link rel="alternate" hreflang="en-us" href="https://example.com/post/post2_git/" />
 <link rel="canonical" href="https://example.com/post/post2_git/" />
@@ -327,8 +329,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Academic" />
 <meta property="og:url" content="https://example.com/post/post2_git/" />
-<meta property="og:title" content="Управление версиями Git | Academic" />
-<meta property="og:description" content="В данном посте я расскажу о системе контроля версий git." /><meta property="og:image" content="https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Git version control | Academic" />
+<meta property="og:description" content="In this post I will talk about the git version control system." /><meta property="og:image" content="https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -365,14 +367,14 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/post2_git/"
   },
-  "headline": "Управление версиями Git",
+  "headline": "Git version control",
   
   "datePublished": "2024-03-15T00:00:00Z",
   "dateModified": "2024-03-15T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Мурашов И.В."
+    "name": "Murashov I.V."
   },
   
   "publisher": {
@@ -383,7 +385,7 @@
       "url": "https://example.com/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "В данном посте я расскажу о системе контроля версий git."
+  "description": "In this post I will talk about the git version control system."
 }
 </script>
 
@@ -405,7 +407,7 @@
 
 
   
-  <title>Управление версиями Git | Academic</title>
+  <title>Git version control | Academic</title>
 
   
   
@@ -795,6 +797,22 @@
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/post2_git/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -832,10 +850,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>Управление версиями Git</h1>
+  <h1>Git version control</h1>
 
   
-  <p class="page-subtitle">В данном посте я расскажу о системе контроля версий git.</p>
+  <p class="page-subtitle">In this post I will talk about the git version control system.</p>
   
 
   
@@ -852,7 +870,7 @@
     
 
   <span class="author-highlighted">
-      Мурашов И.В.</span>
+      Murashov I.V.</span>
   </div>
   
   
@@ -904,21 +922,20 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="о-системе-контроля-версий">О системе контроля версий</h2>
-<p>Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.</p>
-<h2 id="локальные-системы-контроля-версий">Локальные системы контроля версий</h2>
-<p>Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он
-невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.</p>
-<p>Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.</p>
+      <h2 id="about-version-control">About Version Control</h2>
+<p>What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.</p>
+<h2 id="local-version-control-systems">Local Version Control Systems</h2>
+<p>Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.</p>
+<p>To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.</p>
 <img src="1.png" alt="drawing" width=55%/>
-<h2 id="централизованные-системы-контроля-версий">Централизованные системы контроля версий</h2>
-<p>Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.</p>
-<p>Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.</p>
-<p>Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.</p>
+<h2 id="centralized-version-control-systems">Centralized Version Control Systems</h2>
+<p>The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.</p>
+<p>This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.</p>
+<p>However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.</p>
 <img src="2.png" alt="drawing" width=55%/>
-<h2 id="распределённые-системы-контроля-версий">Распределённые системы контроля версий</h2>
-<p>Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.</p>
-<p>Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.</p>
+<h2 id="distributed-version-control-systems">Distributed Version Control Systems</h2>
+<p>This is where Distributed Version Control Systems (DVCSs) step in. In a DVCS (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.</p>
+<p>Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.</p>
 <img src="3.png" alt="drawing" width=55%/>
 
     </div>
@@ -952,7 +969,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;text=Git&#43;version&#43;control" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -969,7 +986,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;t=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;t=Git&#43;version&#43;control" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -988,7 +1005,7 @@
         
       
       <li>
-        <a href="mailto:?subject=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8%20Git&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Git%20version%20control&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1005,7 +1022,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;title=Git&#43;version&#43;control" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1022,7 +1039,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git%20https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Git&#43;version&#43;control%20https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1039,7 +1056,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;title=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5&#43;%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8&#43;Git" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Fpost2_git%2F&amp;title=Git&#43;version&#43;control" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1073,13 +1090,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu1d9d504cccef89334f180209f3fa396b_4148388_270x270_fill_q75_lanczos_center.jpg" alt="Мурашов И.В."></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu1d9d504cccef89334f180209f3fa396b_4148388_270x270_fill_q75_lanczos_center.jpg" alt="Murashov I.V."></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://example.com/">Мурашов И.В.</a></h5>
-      <h6 class="card-subtitle">Студент ФФМиЕН РУДН</h6>
-      <p class="card-text">Меня увлекают музыка, математика, программирование и размышления о бренности бытия.</p>
+      <h5 class="card-title"><a href="https://example.com/">Murashov I.V.</a></h5>
+      <h6 class="card-subtitle">Student</h6>
+      <p class="card-text">I’m fascinated by music, math, programming, and thinking about the fragility of existence.</p>
       <ul class="network-icon" aria-hidden="true">
   
     

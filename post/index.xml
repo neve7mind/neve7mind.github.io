@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>Как прошла моя неделя? x4</title>
+      <title>How was my week? x4</title>
       <link>https://example.com/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post7_last-week/</guid>
-      <description>&lt;h2 id=&#34;лонгрида-не-будет&#34;&gt;Лонгрида не будет&lt;/h2&gt;
-&lt;p&gt;Не сказать, что на неделе произошло что-то из ряда вон выходящее. Прочитал &amp;ldquo;На Западном фронте без перемен&amp;rdquo; Ремарка. Фатализм крепчал, так сказать. Съездил к родным в область. Устал от этой вашей саморефлексии, поэтому просто посмотрите на эту красоту с нашего участка)&lt;/p&gt;
+      <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
+&lt;p&gt;Not to say that something out of the ordinary happened last week. I read &amp;ldquo;No change on the Western Front&amp;rdquo; Remark. Fatalism strengthened, so to speak. Went to my family in the area. Tired of your self-reflection, so just look at this beauty from our site).&lt;/p&gt;
 &lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
 &lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
 &lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
@@ -27,7 +27,7 @@
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
+      <title>Science programming languages</title>
       <link>https://example.com/post/post8_sci_prog.lang/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post8_sci_prog.lang/</guid>
@@ -39,88 +39,86 @@
 &lt;li&gt;Язык программирования Julia&lt;/li&gt;
 &lt;li&gt;Язык программирования Octave&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;язык-разметки-latex&#34;&gt;Язык разметки LaTeX&lt;/h2&gt;
-&lt;p&gt;LaTeX (произносится /ˈlɑːtɛx/ или /ˈleɪtɛx/[1]) — наиболее популярный набор макрорасширений (или макропакет) системы компьютерной вёрстки TeX, который облегчает набор сложных документов.&lt;/p&gt;
-&lt;p&gt;Этот инструмент используется повсеместно для создания научных документов, написания книг, а также многих других форм публикаций. Он позволяет не только создавать красиво оформленные документы, но также дает пользователям возможность очень быстро реализовывать такие сложные элементы печатного набора, как математические выражения, таблицы, ссылки и библиографии, получая согласованную разметку по всем разделам.&lt;/p&gt;
-&lt;p&gt;Благодаря доступности большого числа открытых библиотек (об этом чуть позже) возможности LaTEX становятся практически безграничны. Эти библиотеки расширяют возможности пользователей еще больше, позволяя добавлять сноски, рисовать схемы и пр.&lt;/p&gt;
-&lt;p&gt;Одна из наиболее веских причин, по которой многие используют LaTeX, заключается в отделении содержания документа от его стиля. Это означает, что после написания содержимого, можно с легкостью изменять его внешний вид. Аналогичным образом, можно создать один стиль документа и использовать его для стандартизации внешнего вида других.&lt;/p&gt;
-&lt;p&gt;Это позволяет научным журналам создавать шаблоны для предлагаемых на рассмотрение материалов. Такие шаблоны имеют заданную разметку, в результате чего добавить остается лишь содержание. На деле существуют сотни подобных шаблонов, начиная с различных резюме и заканчивая презентациями слайдов.&lt;/p&gt;
-&lt;h2 id=&#34;язык-программирования-julia&#34;&gt;Язык программирования Julia.&lt;/h2&gt;
-&lt;p&gt;Язык Julia - это кросс-платформенный компилируемый свободно распространяемый язык программирования (лицензия MIT) с динамической типизацией, который имеет ряд достоинств и недостатков.
-B Julia pеализована возможность JIT - компиляции на основе LLVM. Компиляция Just-in-Time (JIT) позволяет обеспечить одновременно выразительность современных интерпретируемых языков и производительность таких языков, как С и Fortran. Компилятор JIT выполняет компиляцию во время первого запуска программы, извлекая из текста информацию, не указанную явно программистом, и используя эту информацию для оптимизации создаваемого машинного кода.&lt;/p&gt;
-&lt;p&gt;К достоинствам языка Julia можно отнести следующее:&lt;/p&gt;
+&lt;h2 id=&#34;latex-markup-language&#34;&gt;LaTeX markup language&lt;/h2&gt;
+&lt;p&gt;LaTeX (pronounced /liquidlɑːtɛx/ or /uraleɪtɛx/[1]) is the most popular set of macro extensions (or macro-packets) of the TeX computer layout system that facilitates the set of complex documents.&lt;/p&gt;
+&lt;p&gt;This tool is widely used for creating scientific documents, writing books, and many other forms of publications. Not only does it allow you to create beautifully designed documents, but it also allows users to implement very quickly such complex elements of a printed set as mathematical expressions, tables, links and bibliographies, getting a consistent layout across all sections.&lt;/p&gt;
+&lt;p&gt;With the availability of a large number of open libraries (a little bit later), LaTEX’s capabilities are almost limitless. These libraries empower users even more by allowing you to add footnotes, draw diagrams, etc.&lt;/p&gt;
+&lt;p&gt;One of the most compelling reasons many people use LaTeX is to separate the content of a document from its style. This means that after writing the content, you can easily change its appearance. Similarly, one document style can be created and used to standardize the appearance of others.&lt;/p&gt;
+&lt;p&gt;This allows scientific journals to create templates for the proposed materials. Such templates have a given markup, leaving only the content to be added. In fact, there are hundreds of such templates, from various resumes to slide presentations.&lt;/p&gt;
+&lt;h2 id=&#34;julia-programming-language&#34;&gt;Julia programming language&lt;/h2&gt;
+&lt;p&gt;The Julia language is a cross-platform compiled, freely distributed programming language (MIT license) with dynamic typing, which has a number of advantages and disadvantages.
+The B Julia is a JIT-based compilation. The Just-in-Time (JIT) compilation allows both expressiveness of modern interpreted languages and performance of languages such as C and Fortran. The JIT compiler performs the compilation during the first run of the program, extracting from the text information not explicitly specified by the programmer, and using this information to optimize the generated machine code.&lt;/p&gt;
+&lt;p&gt;The advantages of the Julia language include the following:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Простота интуитивно понятный язык, синтаксис которого напоминает синтаксис Python и MATLAB;&lt;/li&gt;
-&lt;li&gt;быстродействие вычислений программ, написанных на Julia, сопоставимо с быстродействием программ, написанных на С или Fortran;&lt;/li&gt;
-&lt;li&gt;эффективная векторизация и распараллеливание вычислений, большое число типов данных, включая рациональный и комплексные числа;&lt;/li&gt;
-&lt;li&gt;проведение расчетов при отсутствии некоторых данных (есть тип дан ных missing);&lt;/li&gt;
-&lt;li&gt;задание точности вычислений (тип данных BigFloat, функция setprecision);&lt;/li&gt;
-&lt;li&gt;реализация символьных вычислений с помощью макро команд;&lt;/li&gt;
-&lt;li&gt;использование библиотек, написанных на С и Fortran, и обмен библиотеками с Python и R;&lt;/li&gt;
-&lt;li&gt;интеграция с СУБД (PostgreSQL, MySQL, JSON).;&lt;/li&gt;
-&lt;li&gt;поддержка символов Unicode;&lt;/li&gt;
-&lt;li&gt;использование парадигмы множественной диспетчеризации - вызов функции слабо зависит от типа параметров функции (параметрический полиморфизм);&lt;/li&gt;
-&lt;li&gt;наличие хорошей встроенной математической библиотеки с функциями линейной алгебры.&lt;/li&gt;
+&lt;li&gt;Simplicity is an intuitive language whose syntax resembles that of Python and MATLAB;&lt;/li&gt;
+&lt;li&gt;the performance of programs written in Julia is comparable to that of programs written in C or Fortran;&lt;/li&gt;
+&lt;li&gt;effective vectoring and parallelization of calculations, a large number of data types, including rational and complex numbers;&lt;/li&gt;
+&lt;li&gt;calculation in the absence of some data (there is a type given missing);&lt;/li&gt;
+&lt;li&gt;calculation precision setting (BigFloat data type, setprecision function);&lt;/li&gt;
+&lt;li&gt;the implementation of symbolic calculations using macro commands;&lt;/li&gt;
+&lt;li&gt;using libraries written in C and Fortran, and sharing libraries with Python and R;&lt;/li&gt;
+&lt;li&gt;integration with DBMS (PostgreSQL, MySQL, JSON). ;&lt;/li&gt;
+&lt;li&gt;support for Unicode characters;&lt;/li&gt;
+&lt;li&gt;the use of the multiple dispatch paradigm - the call of the function depends little on the type of parameters of the function (parametric polymorphism);&lt;/li&gt;
+&lt;li&gt;a good built-in mathematical library with linear algebra functions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Julia - это полноценный язык программирования, в котором есть целочисленная арифметика, операции с плавающей точкой, циклы, работа с С-подобными структурами и даже аналог оператора goto. Вместе с тем в языке существует очень удобная возможность векторизации расчетов, которая характерна для языков высокого уровня.&lt;/p&gt;
+&lt;p&gt;Julia is a full programming language that has integer arithmetic, floating point operations, cycles, C-like structures, and even a goto operator analogue. However, in the language there is a very convenient possibility of vectoring calculations, which is characteristic of high-level languages.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Если говорить о недостатках языка Julia, то следует отметить , что время компиляции больших программ может быть довольно заметным (минуты);&lt;/li&gt;
-&lt;li&gt;язык относительно новый , поэтому число библиотек на этом языке относительно невелико ( по сравнению с Python );&lt;/li&gt;
-&lt;li&gt;невозможно создать отдельно испролняемую программу - программы на языке Julia работают только в среде Julia.&lt;/li&gt;
+&lt;li&gt;If we talk about the shortcomings of the Julia language, it should be noted that the compilation time of large programs can be quite noticeable (minutes);
+is a relatively new language, so the number of libraries in this language is relatively small ( compared to Python );&lt;/li&gt;
+&lt;li&gt;cannot create separately tested program - Julia programs work only in Julia environment.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;язык-программирования-octave&#34;&gt;Язык программирования Octave&lt;/h2&gt;
-&lt;p&gt;MGNU Octave — свободная система для математических вычислений[1], использующая совместимый с MATLAB язык высокого уровня.&lt;/p&gt;
-&lt;p&gt;Octave представляет интерактивный командный интерфейс для решения линейных и нелинейных математических задач, а также проведения других численных экспериментов. Кроме того, Octave можно использовать для пакетной обработки. Язык Octave оперирует арифметикой вещественных и комплексных скаляров, векторов и матриц, имеет расширения для решения линейных алгебраических задач, нахождения корней систем нелинейных алгебраических уравнений, работы с полиномами, решения различных дифференциальных уравнений, интегрирования систем дифференциальных и дифференциально-алгебраических уравнений первого порядка, интегрирования функций на конечных и бесконечных интервалах. Этот список можно легко расширить, используя язык Octave (или используя динамически загружаемые модули, созданные на языках C, C++, Фортран и др.).&lt;/p&gt;
-&lt;p&gt;Исследователи из Университета Мэриленда в США провели сравнительный анализ математических вычислений, используя MATLAB, Octave, SciLab и FreeMat в простом сценарии и в сложном. В первом случае решали систему линейных уравнений а в втором — конечно-разностную дискретизацию уравнения Пуассона в двухмерном пространстве. Основной вывод — GNU Octave справляется с задачами лучше остальных открытых математических пакетов, демонстрируя результат (страницы 23 и 25) сопоставимый с матлабовским.&lt;/p&gt;
-&lt;p&gt;Научные расчеты, выполненные с использованием открытого ПО имеют дополнительный «уровень защиты», ведь при желании любой может повторить прогнать те же самые расчеты и проверить валидность результатов. Те же самые вычисления, выполненные на дорогущем ПО, частично отсекают возможность проверки результатов. Проблема на самом деле гораздо шире (английский текст) и дело не только в открытых или проприетарных математических программах. Не секрет, что научные журналы как правило не требуют от авторов предоставить данные и методику, достаточные для гарантированного повтора результатов эксперимента, проверки модели. Особенно часто этим грешат экономисты и финансисты, попросту засекречивая свои данные. Проверка расчетов и выводов среди выборки из массива статей с «засекреченными» данными дала неожиданные результаты (английский текст). Наука, как и софт, должна быть открытой, вот почему открытые математические пакеты имеют ценность для всего общества.&lt;/p&gt;
-&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
-&lt;p&gt;В научном программировании используется много языков программирования и математических систем, но перечисленные в данной статье, на мой взгляд, наиболее удобные и эффективные.&lt;/p&gt;
+&lt;h2 id=&#34;octave-programming-language&#34;&gt;Octave programming language&lt;/h2&gt;
+&lt;p&gt;MGNU Octave is a free system for mathematical computing[1] that uses a high-level MATLAB compatible language.&lt;/p&gt;
+&lt;p&gt;Octave introduces an interactive command interface to solve linear and nonlinear mathematical problems, as well as other numerical experiments. In addition, Octave can be used for batch processing. Octave uses arithmetic of real and complex scalars, vectors and matrices, has extensions for solving linear algebraic problems, finding the roots of systems of nonlinear algebraic equations, working with polynomials, solving various differential equations, integration of systems of differential and differential algebraic equations of the first order, integration of functions on finite and infinite intervals. This list can be easily expanded using the Octave language (or using dynamically downloadable modules created in C, C++, Fortran, etc.).&lt;/p&gt;
+&lt;p&gt;Researchers at the University of Maryland in the United States performed comparative analysis of mathematical computing using MATLAB, Octave, SciLab and FreeMat in a simple and complex scenario. In the first case the system of linear equations was solved and in the second - the finite-differential discretization of the Poisson equation in two-dimensional space. The main conclusion is that GNU Octave performs better than other open mathematical packages, demonstrating a comparable result (pages 23 and 25) than Matlab.&lt;/p&gt;
+&lt;p&gt;Scientific calculations made using open software have an additional «level of protection», because anyone can repeat the same calculations and check the validity of the results. The same calculations made on expensive software partially cut off the possibility of checking the results. The problem is actually much wider (English text) and it’s not just open or proprietary mathematics. It is no secret that scientific journals usually do not require authors to provide data and methods sufficient to guarantee the repetition of experimental results, model verification. Economists and financiers in particular often do this by simply keeping their data secret. Verification of calculations and conclusions among the sample of the array of articles with «classified» data gave unexpected results (English text). Science, like software, has to be open, which is why open math packs have value to society.&lt;/p&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;In scientific programming many languages and mathematical systems are used, but listed in this article, in my opinion, the most convenient and effective.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оформление отчёта</title>
+      <title>Report design</title>
       <link>https://example.com/post/post6_report_decor/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post6_report_decor/</guid>
-      <description>&lt;h2 id=&#34;правила-оформления-в-соответствии-с-гост-15-2001-и-гост-71-2003&#34;&gt;Правила оформления в соответствии с ГОСТ 1.5-2001 и ГОСТ 7.1-2003&lt;/h2&gt;
-&lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;rules-of-decorating-in-accordance-with-гост-15-2001-and-гост-71-2003&#34;&gt;Rules of decorating in accordance with ГОСТ 1.5-2001 and ГОСТ 7.1-2003&lt;/h2&gt;
+&lt;p&gt;The actual text of the report should be typed on the computer in Times New Roman font size 14 pt. (Microsoft Word text editor is used for text design). It is recommended that the font used in the illustrative material (tables and figures) be reduced to 12 pt. The line spacing in the main text is one-and-a-half. In the illustrative material, it is recommended to make the line spacing single. Page margins should be:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;левое поле - 30 мм;&lt;/p&gt;
+&lt;p&gt;left field - 30 mm;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;правое поле - 10 мм;&lt;/p&gt;
+&lt;p&gt;right field - 10 mm;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;верхнее и нижнее поле - 20 мм.&lt;/p&gt;
+&lt;p&gt;top and bottom margin - 20 mm.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Каждый абзац должен начинаться с красной строки. Отступ абзаца - 12,5 мм. от левой границы текста.&lt;/p&gt;
-&lt;p&gt;Каждый раздел отчета должен начинаться с новой страницы. Наименование структурных элементов отчета «СОДЕРЖАНИЕ», «ВВЕДЕНИЕ», «ЗАКЛЮЧЕНИЕ», «СПИСОК ЛИТЕРАТУРЫ», «ПРИЛОЖЕНИЕ», а также заголовки разделов должны быть напечатаны прописными буквами и располагаться посередине строки. Разделы нумеруются арабскими цифрами (1, 2, 3). Точка в конце заголовков не ставится.&lt;/p&gt;
-&lt;p&gt;Допускается выделение заголовков разделов жирным шрифтом. Не допускается использование подчеркивания в заголовках, использование двух и более типов выделения в заголовках (например, курсив и жирный шрифт, курсив и другой цвет, отличный от основного текста), перенос слов в заголовках глав, а также использование в тексте отчета нестандартных символов, в заголовках применение сокращений. В тексте отчета сокращения терминов допустимы только после введения содержательного определения данного термина. Все страницы отчета (кроме приложений) должны быть пронумерованы, начиная с «Введения», которое нумеруется цифрой 3. Номера страниц располагаются в центре нижней части листа без точки.&lt;/p&gt;
-&lt;p&gt;Иллюстративный материал (таблицы, рисунки, формулы) включается в отчет с целью наглядности аргументации и обоснования выводов, полученных студентом. Таким образом, в основную часть отчета помещается только тот материал, который способствует лучшему обоснованию выводов, полученных студентом. Таблицы, отчетные формы и другой фактический материал, который представляет собой исходные данные, на основании которых производилось исследование, в основной текст работы не включаются, но могут быть вынесены в приложение. Таблицы и рисунки, построенные на основе исходных фактических данных, рекомендуется включать непосредственно в основной текст отчета. Весь иллюстративный материал должен, по возможности, помещаться после первого упоминания о нем в тексте.&lt;/p&gt;
-&lt;p&gt;Иллюстрации нумеруются в пределах разделов. Номер иллюстрации состоит из номера раздела и порядкового номера иллюстрации, разделенных точкой. В конце точка не ставится. Если таблица заимствована из книги или статьи другого автора, на нее в конце заголовка должна быть оформлена ссылка с учетом требований настоящих методических рекомендаций. В графах таблицы не допускается оставлять свободные ячейки. Если соответствующие данные отсутствуют, в графе проставляется прочерк. К цифровым табличным данным должны быть указаны единицы измерения. Если данные таблицы имеют разные единицы измерения, то они указываются в соответствующих заголовках граф или строк таблицы. Если все табличные данные имеют одну и ту же единицу измерения, то данную единицу, начиная с предлога «в», приводят над таблицей после названия через запятую (например, в тыс. руб., в га, в кв. м., в процентах и т.п.).&lt;/p&gt;
-&lt;p&gt;При необходимости таблицу можно переносить на другую страницу. В этом случае применяется следующий вариант оформления. Заголовки столбцов (или строк) таблицы пронумеровываются, и на следующей странице не повторяется текст заголовков, а проставляется только соответствующий номер столбца (строки). Над продолжением таблицы сверху справа печатаются слова «Продолжение таблицы 1.1». Название таблицы на новой странице не повторяется. Не допускается начинать таблицу внизу страницы, если после названия таблицы остается только заголовочная часть, либо заголовочная часть плюс одна-две строки содержания, а основная часть таблицы при этом оказывается на следующем листе. Не допускается перенос таблицы на следующую страницу, если на следующую страницу переносятся одна-две строки содержания таблицы. В этом случае следует либо несколько уменьшить размер шрифта, используемый в таблице, чтобы таблица поместилась целиком на предыдущем листе; либо немного увеличить интервалы между строками таблицы, чтобы таблица располагалась на страницах более равномерно. К рисункам относятся рисунки, схемы, диаграммы, графики и т.д. Если таблица или рисунок по объему занимают более одной страницы, то их необходимо вынести в приложение к отчету. Размещение рисунков в отчете такое же, как и для другого иллюстративного материала, то есть либо сразу же после ссылки на него, либо на ближайшей к этой ссылке странице. Рисунки следует размещать в тексте так, чтобы их можно было рассматривать без поворота работы. Все рисунки должны быть пронумерованы в пределах разделов арабскими цифрами: Рисунок 2.1. Непосредственно после обозначения нумерации рисунка следует содержательный заголовок. Номер рисунка и заголовок размещаются внизу рисунка, по центру относительно рисунка.&lt;/p&gt;
-&lt;p&gt;Уравнения и формулы следует выделять из текста в отдельную строку. В формулах в качестве символов следует применять обозначения, установленные соответствующими государственными стандартами, и отраженные в формате формул.&lt;/p&gt;
-&lt;p&gt;Использованные в процессе написания отчета литературные источники указываются в конце работы перед приложением.&lt;/p&gt;
-&lt;p&gt;Пример оформления библиографического описания:&lt;/p&gt;
-&lt;p&gt;Нормативные правовые акты Конституция Российской Федерации: офиц. текст. - М.: Маркетинг, 2017. - 39 с. Семейный кодекс Российской Федерации: [федер. закон: принят Гос. Думой 8 дек. 1995 г.: по состоянию на 3 янв. 2001 г.]. - СПб.: Стаун-кантри, 2001. - 94 с.&lt;/p&gt;
-&lt;p&gt;Однотомная книга одного автора: Глазунов В.А. Пространственные механизмы параллельной структуры. М.: Наука, 1991. 94 с.&lt;/p&gt;
-&lt;p&gt;Однотомная книга двух и более авторов: Абалакин В.К., Аксенов Е.П., Гребеников Е.А., Демин В.Г., Рябов Ю.А. Справочное руководство по небесной механике и астродинамике / под ред. Г.Н. Дубошина. М.: Наука, 1976. 864 с. Маршак И.С., Дойников А.С., Жильцов В.П., Кирсанов В.П., Ровинский Р.Е., Щукин Л.Н., Фейгенбаум М.Г. Импульсные источники света / под общ. ред. И.С. Маршака. 2-е изд., перераб. и доп. М.: Энергия, 1978. 472 с. Переводная книга: Себехей В. Теория орбит: ограниченная задача трех тел: пер. с англ. / под ред. Г.Н. Дубошина. М.: Наука, 1982. 656 с. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967.]. Дейт К.Дж. Введение в системы баз данных: пер. с англ. М.: Вильямс, 2006. 1328 с. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
-&lt;p&gt;Отдельный том многотомного издания: Сварка и свариваемые материалы: справочник. В 3 т. Т. 1. Свариваемость материалов / ред. Э.Л. Макаров. М.: Металлургия, 1991. 258 с. Диссертация: Пнев А.Б. Оптико-электронные измерительные системы на основе квазираспределенных волоконно-оптических брэгговских датчиков: дис. … канд. техн. наук. М., 2008. 176 с.&lt;/p&gt;
-&lt;p&gt;Автореферат диссертации: Вишняков И.В. Модели и методы оценки коммерческих банков в условиях неопределенности: автореф. дис. … канд. экон. наук. М., 2002. 15 с. Аналитический обзор: Экономика и политика России и государств ближнего зарубежья: аналит. обзор, апр. 2007 / Рос. акад. наук, Ин-т мировой экономики и междунар. отношений. М.,: ИМЭМО, 2007. 39 с.&lt;/p&gt;
-&lt;p&gt;Депонированная научная работа: Громов Ю.Ю., Деревуз М.М., Земской Н.А., Иванова О.Г., Мосягина Н.Г. Алгоритм численного решения жестких дифференциальных уравнений / Тамбовский государственный технический университет. Тамбов, 1999. 8 с. Деп. в ВИНИТИ 04.03.1999, № 669-В1999. Стандарт: ГОСТ Р 517721-2001. Аппаратура радиоэлектронная бытовая. Входные и выходные параметры и типы соединений.&lt;/p&gt;
-&lt;p&gt;Технические требования. Введ. 2002- 01-01. М.: Изд-во стандартов, 2001. 27 с. Патент: Чугаева В.И. Приемопередающее устройство: пат. 2187888 Российская Федерация. 2002. Бюл. № 23 (2 ч.). 3 с.&lt;/p&gt;
-&lt;p&gt;Статья в периодическом издании: Чайковский М.М., Ядыкин И.Б. Оптимальная настройка ПИДрегуляторов для многосвязных билинейных объектов управления // Автоматика и телемеханика. 2009. № 1. С. 130-146. Звягин Ф.В. Об одном классе орбит в задачах трех и четырех тел // Вестник МГТУ им. Н.Э. Баумана. Сер. Приборостроение. 2010. № 2. С. 105– 113. Станкевич И.В., Яковлев М.Е., Си Ту Хтет. Разработка алгоритма контактного взаимодействия на основе альтернирующего метода // Вестник МГТУ им. Н.Э. Баумана. Сер. Естественные науки. 2011. Спец. вып. «Прикладная математика». С. 134–141.&lt;/p&gt;
-&lt;p&gt;Статья в сборнике: Двинянинова Г.С. Комплимент: Коммуникативный статус или стратегия в дискурсе // Социальная власть языка: сб. науч. тр. Воронеж, 2001. С. 42-49. Орлик А.Г., Коберник Н.В. Получение износостойких антиабразивных покрытий // Труды МГТУ им. Н. Э. Баумана. 2010. № 602: Математическое моделирование сложных технических систем. С. 34–38. Статья в продолжающемся издании: Белова Г.Д. Некоторые вопросы уголовной ответственности за нарушение налогового законодательства // Актуал. проблемы прокурор. надзора. 2001. Вып. 5: Прокурорский надзор за исполнением уголовного и уголовно- процессуального законодательства. Организация деятельности прокуратуры. С. 46–49. Живописцев В.П., Пятосин Л.П. Комплексные соединения тория с диантипирилметаном // Учен. зап. / Перм. ун-т. 1970. № 207. С. 184–191. Работа в материалах конференции: Карпенко А.П., Селиверстов Е.Ю. Глобальная оптимизация методом роя частиц на графических процессорах // Всерос. суперкомпьютерная конференция «Научный сервис в сети Интернет: масштабируемость, параллельность, эффективность»: труды. М.: Изд-во МГУ, 2009. С. 188–191. Симонов А. Очистка сточных вод: проектирование технических устройств // 7-я региональная конференция молодых исследователей Волгоградской области (Волгоград, 12–15 мая 2002 г.): тез. докл. Волгоград, 2002. С. 13–15.&lt;/p&gt;
-&lt;p&gt;Глава в книге: Берлинер Э.М., Глазырина И.Б., Глазырин Б.Э. Автоматизация выполнения отдельных операций в Word 2000 // Office 2000: 5 кн. в 1: самоучитель. 2-е изд., перераб. М., 2002. Гл. 14. С. 281–298. Статья в многотомном издании: Кулаков В.А. Викторианский стиль // БРЭ. М., 2006. Т. 5. С. 308–309.&lt;/p&gt;
-&lt;p&gt;В отчете не рекомендуется пересказывать содержание учебников, учебных пособий, нормативной и специальной литературы. Эта информация должна быть переработана и представлена в содержании работы. Недопустимо прямое заимствование из источников без ссылки на автора или нормативный документ. При использовании цифровых данных, положений из официальных документов, цитат и других опубликованных материалов студент должен указывать источник и делать ссылку в квадратных скобках. Пример: [12, с. 34], что означает: 12 - номер источника в списке литературы, 34 - номер страницы. В приложение помещаются материалы, дополняющие текст отчета. Например, использованные для расчетов данные; промежуточные таблицы и диаграммы, которые повлияли на построение окончательных таблиц и рисунков; промежуточные расчеты, показывающие динамику развития доказательств студента; описание алгоритмов; таблицы и рисунки нестандартного формата и т.д. Приложения помещаются в работе после списка литературы. Каждое приложение последовательно нумеруется арабскими цифрами. Если приложение больше одной страницы, то оно переносится на другую страницу и вверху обозначается как «Продолжение приложения …». В тексте отчета на все приложения должны быть приведены ссылки. Расположение приложений в конце документа должно соответствовать порядку появления ссылок на них в тексте. Каждое приложение начинается с новой страницы. В верхнем правом углу страницы указывается слово «ПРИЛОЖЕНИЕ» и ставится его порядковый номер (например, «ПРИЛОЖЕНИЕ 1»). Каждое приложение должно иметь заголовок, который указывается на следующей строке после слова «ПРИЛОЖЕНИЕ», и этот заголовок центруется относительно текста. Если документы имеют большой формат, они должны быть сложены по формату А4. При этом одна страница такой нестандартной величины нумеруется как одна страница приложения (без учета ее сложения).&lt;/p&gt;
+&lt;p&gt;Each paragraph should start with a red line. The indentation of the paragraph is 12.5 mm. from the left border of the text.&lt;/p&gt;
+&lt;p&gt;Each section of the report should start with a new page. The name of the structural elements of the report «CONTENTS», «INTRODUCTION», «CONCLUSION», «LIST OF LITERATURE», «ANNEX», as well as the headings of the sections should be printed in capital letters and be located in the middle of the line. Sections are numbered with Arabic numerals (1, 2, 3). No dot at the end of headings.&lt;/p&gt;
+&lt;p&gt;The headings of sections may be highlighted in bold. It is not allowed to use underlining in headings, use of two or more types of highlighting in headers (for example, italics and bold font, italics and other color other than the main text), moving words in chapter headings, as well as the use of non-standard characters in the report text, the use of abbreviations in headers. In the text of the report, abbreviations of terms are allowed only after the introduction of a meaningful definition of the term. All pages of the report (except the applications) should be numbered, starting with «Introduction», which is numbered with the digit 3. Page numbers are located in the center of the bottom of the sheet without a dot.&lt;/p&gt;
+&lt;p&gt;Illustrative material (tables, drawings, formulas) is included in the report in order to visualize the argumentation and substantiation of the conclusions received by the student. Thus, the main part of the report is only the material that contributes to a better substantiation of the conclusions reached by the student. Tables, reporting forms and other factual material, which are the raw data from which the study was based, are not included in the main body of work but may be annexed. It is recommended that tables and figures based on actual baseline data be included directly in the main body of the report. All illustrative material should, if possible, be placed after the first reference to it in the text.&lt;/p&gt;
+&lt;p&gt;Equations and formulas should be separated from the text into a separate row. Formulae should use as symbols the symbols established by the relevant state standards and reflected in the format of formulae.&lt;/p&gt;
+&lt;p&gt;Literary sources used in the report writing process are specified at the end of the work before the application.&lt;/p&gt;
+&lt;p&gt;Example of the design of the bibliographic description:&lt;/p&gt;
+&lt;p&gt;Normative legal acts Constitution of the Russian Federation: offc. text. - M.: Marketing, 2017. - 39 p. Family Code of the Russian Federation: [feder. Law: adopted by the State. Duma 8 dec. 1995: as of 3 Jan. 2001]. - SPb.: Staun Country, 2001. - 94 pp.&lt;/p&gt;
+&lt;p&gt;One-volume book by one author: Glasunov V.A. Spatial mechanisms of parallel structure. M.: Science, 1991. 94 p.&lt;/p&gt;
+&lt;p&gt;The one-volume book of two authors: Abalakin V.K., Aksenov E.P., Grebenikov E.A., Demin V.G., Ryabov Y.A. Reference manual of celestial mechanics and Astrodynamics / under Rev. G.N. Duboshina. M.: Science, 1976. 864 p. Marshak I.S., Doynikov A.S., Giltsov V.P., Kirsanov V.P., Rovinsky R.E., Shchukin L.N., Feigenbaum M.G. Impulsive sources of light / under the district. J.S. Marshak. 2nd d. , recycled. and dop. M.: Energy, 1978. 472 p. Translation Book: Sebehey B. Theory of Orbits: Limited Problem of Three Tel: Per. c. c. under G.N. Duboshina. M.: Science, 1982. 656 p. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967. ]. Data K.J. Introduction to Database Systems: M. 1. Williams, 2006. 1328 p. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
+&lt;p&gt;Separate volume of multi-volume edition: Welding and welded materials: reference book. In 3 t. T. 1. Weldability of materials / ed. E.L. Makarov. M.: Metallurgy, 1991. 258 p. Dissertation: Pnev A.B. Optical-electronic measuring systems based on quasi-limited fiber-optic Bragg sensors: Dis. &amp;hellip; kand. techn. of science. M., 2008. 176 p.&lt;/p&gt;
+&lt;p&gt;Autoabstract thesis: Vishnyakov I.V. Models and methods of assessment of commercial banks in the conditions of uncertainty: autoef. dis. &amp;hellip; Kand. econ. Sciences. M., 2002. 15 p. Analytical Review: The Economy and Politics of Russia and CIS States: Analyses. Review, Apr. 2007 / Ros. Acad. science, In-t world economy and international. relations. M.,: IMEMO, 2007. 39 p.&lt;/p&gt;
+&lt;p&gt;Deposited scientific work: Gromov Y.Y., Derevuz M.M., Zemskaya N.A., Ivanova O.G., Mosyagina N.G. Algorithm of numerical solution of rigid differential equations / Tambov State Technical University. Tambov, 1999. 8 p. Dep. in VINITI 04.03.1999,  669-B1999. Standard: GOST R 517721-2001. Electronic household appliances. Input and output parameters and connection types.&lt;/p&gt;
+&lt;p&gt;Technical requirements. Introduction. 2002 - 01-01. M.: Publishing standards, 2001. 27 pp. Patent: Chugaeva V.I. Transceiver: pat. 2187888 Russian Federation. 2002. Bull.   23 (2 hours). 3 p.&lt;/p&gt;
+&lt;p&gt;Article in the periodical: Tchaikovsky M.M., Yadykin I.B. Optimum adjustment of PIDs for multi-link bilinear objects of control // Automation and telemechanics. 2009.   1. P. 130-146. Zviagin F.V. About one class of orbits in three and four sol/ Bulletin of MSTU named after. N.E. Bauman. Ser. Instrumentation. 2010.   2. P. 105 - 113. Stankevich I.V., Yakovlev M.E., Si Tu Htet. Development of the algorithm of contact interaction on the basis of the alternating method // Bulletin of MSTU. N.E. Bauman. Ser. Natural Sciences. 2011. Specials. of. «Applied Mathematics». P. 134-141.&lt;/p&gt;
+&lt;p&gt;Article in the collection: Dvinyaninova G.S. Compliment: Communicative status or strategy in discourse // Social power of the language: Sat. Science. tr. Voronezh, 2001. S. 42-49. Orlik A.G., Cobernik N.V. Obtaining wear-resistant anti-abrasive coatings // Works of MGTU them. N. E. Bauman. 2010.   602: Mathematical Modeling of Complex Technical Systems. P. 34-38. Article in the ongoing edition: Belova G.D. Some issues of criminal liability for violation of tax legislation // Current. Problems Prosecutor. Supervision. 2001. Page. 5: Procuratorial supervision over the implementation of criminal and criminal procedural legislation. Organization of activities of the Prosecutor’s Office. S. 46-49. Pictorists V.P., Pyatossin L.P. Complex connections of thorium with diantipirylmethane // Scientists. Zat. / Perm. kt. 1970.   207. p. 184-191. Work in the conference materials: Karpenko A.P., Seliverstov E.Y. Global optimization by swarm of particles on graphics processors // All. supercomputer conference «Scientific Service in the Internet: Scalability, Parallelism, Efficiency»: papers. M.: Moscow State University, 2009. C. 188-191. Simonov A. Sewage treatment: design of technical devices /7th Regional Conference of Young Researchers of the Volgograd Region (Volgograd, 12-15 May 2002): Thesis. Dr. Volgograd, 2002. p. 13-15.&lt;/p&gt;
+&lt;p&gt;Chapter in the book: Berliner E.M., Glazyrine I.B., Glazyrin B.E. Automation of individual operations in Word 2000 // Office 2000: 5 kn. in 1: self-learning guide. 2nd edition. revised. M., 2002. Gl. 14. P. 281-298. Article in multi-volume edition: Kulakov V.A. Victorian style // BR. M., 2006. T. 5. P. 308-309.&lt;/p&gt;
+&lt;p&gt;The report does not recommend retelling the content of textbooks, teaching aids, normative and specialized literature. This information should be refined and presented in the content of the work. Direct borrowing from sources without reference to the author or the instrument is not acceptable. When using digital data, official documents, quotations and other published material, a student must indicate the source and make a reference in square brackets. Example: [12, pp. 34], meaning: 12 - source number in the list of literature, 34 - page number. The attachment contains material supplementing the text of the report. For example, the data used for calculations; intermediate tables and charts that influenced the construction of final tables and figures; intermediate calculations showing the dynamics of the student’s evidence; description of algorithms; tables and drawings of non-standard format, etc. Applications are placed in the work after the list of literature. Each annex is sequentially numbered with Arabic numerals. If the application is more than one page, it is moved to another page and at the top is marked as «Continuation of the application &amp;hellip;». All applications should be referenced in the report text. The location of the annexes at the end of the document should follow the order in which the links to them appear in the text. Each application starts with a new page. In the upper right corner of the page, the word «ANNEX» is indicated and its serial number is placed (for example, «ANNEX 1»). Each application should have a header that appears on the next line after «ANNEX», and this header is centered around the text. If the documents have a large format, they should be stacked in A4 format. One page of this non-standard value is numbered as one page of the application (without adding it).&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Как прошла моя неделя? x3</title>
+      <title>How was my week? x3</title>
       <link>https://example.com/post/post5_last-week/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post5_last-week/</guid>
@@ -135,12 +133,12 @@ B Julia pеализована возможность JIT - компиляции 
     </item>
     
     <item>
-      <title>Как прошла моя неделя? x2</title>
+      <title>How was my week? x2</title>
       <link>https://example.com/post/post3_last-week/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/post3_last-week/</guid>
-      <description>&lt;h2 id=&#34;лонгрида-не-будет&#34;&gt;Лонгрида не будет&lt;/h2&gt;
-&lt;p&gt;Моя неделя прошла супер непродуктивно, а все попытки прерывания прокрастинации выливались лишь в рефлексию на тему &amp;ldquo;На что я трачу свою жизнь&amp;rdquo;. Грустно и невкусно. Единственное, что как-то скрашивало бренность бытия - несколько встреч с друзьями. На этом и закончим.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
+&lt;p&gt;My week has been super unproductive, and all attempts to interrupt procrastination have resulted only in a reflection on the topic &amp;ldquo;What am I wasting my life on&amp;rdquo;. Sad and tasteless. The only thing that somehow brightened the fragility of being - a few meetings with friends. That’s all.&lt;/p&gt;
 &lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
 </description>
     </item>
@@ -249,7 +247,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-967243518&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-123675948&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -259,7 +257,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-967243518&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-123675948&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -436,71 +434,6 @@ Crash --&gt; [*]
 &lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;table class=&#34;table&#34;&gt;
-  
-    
-    
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
-  
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  
-    &lt;caption&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
 &lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
 &lt;p&gt;Academic supports a &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
@@ -518,7 +451,7 @@ Crash --&gt; [*]
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
   &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
   &lt;p&gt;You found me!&lt;/p&gt;
 &lt;/details&gt;
@@ -539,52 +472,51 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>Как прошла моя неделя?</title>
-      <link>https://example.com/post/post1_last-week/</link>
+      <title>Git version control</title>
+      <link>https://example.com/post/post2_git/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1_last-week/</guid>
-      <description>&lt;h2 id=&#34;понедельник---день-тяжёлый&#34;&gt;Понедельник - день тяжёлый&lt;/h2&gt;
-&lt;p&gt;С субботы я гостил у родителей. Подключился на онлайн лекции, но вместо того, чтобы отправиться спать, как сделал бы каждый добропорядочный студент, проявил инициативу высшего уровня и презентовал доклад о процессах в операционных системах.&lt;/p&gt;
-&lt;p&gt;Днём я возвращался в Москву. Больше пригородной электрички я ненавижу только 2 пригородные электрички. Запах фантомных фекалий, куда бы не сел, провинциалы, спорящие о том, какое пиво они откроют после следующей остановки, великое переселение зайцев в соседние вагоны, когда заходят кондукторы, агрессивные бабули, приватизировавшие 2 ряда и восхваляющие авторитарный режим, установившийся в стране (во времена Сталина, конечно). Чтобы как-то вынести подобные проявления вышеупомянутой массы, я надеваю наушники и это спасает&amp;hellip; Но не надолго: через каждые 2 станции в начале вагона начинают появляться уездные коммерасанты с громкоговорителями, от которых, барабанные перепонки лопаются как воздушные шарики, запущенные у Кремля, а уши скручиваются в трубочку. Кажется, у них есть всё: дождевик, полотенце, плавки, сварочный аппарат, мороженое, наушники, пистолет Макарова и средства контрацепции (я думаю, самое нужное для вагонного контингента) - как говорится, всё: от батона до гондона, и всё это по сто рублей. По-моему, единственное, чего у них нет, - это ещё одного торгаша.&lt;/p&gt;
-&lt;p&gt;Вытерпев час в электричке и полчаса в автобусе, я оказываюсь дома, где перевожу дух и сажусь за домашние задания.&lt;/p&gt;
-&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
-&lt;h2 id=&#34;вторник-и-среда---дни-тяжёлые&#34;&gt;Вторник и Среда - дни тяжёлые&lt;/h2&gt;
-&lt;p&gt;Накануне вечером решив, что надо что-то менять в жизни, я встал в 6 утра, поспав рекордные за последнюю неделю 5 часов. С закрытыми глазами сделал кофе и лабу. Съездил на волейбол и вечером встретился с братом по ремеслу - другом-&lt;del&gt;мазохистом&lt;/del&gt; программистом. Ночь напролет мы писали на java. После 1.5-часового сна приехал в университет, где умирал 2 пары подряд. Не выдержав, уехал домой отсыпаться, но поскольку дел много, а в сутках всего 24 часа (какой гений это придумал!?), дневной сон составил пару часов, после чего я делал дз.&lt;/p&gt;
-&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
-&lt;h2 id=&#34;четверг---тоже-день-тяжёлый&#34;&gt;Четверг - тоже день тяжёлый&lt;/h2&gt;
-&lt;p&gt;Съездил на пары, после которых преподавал математику своему ученику-садисту. Коротко о нём: тварь эта не обделена чувством юмора, а потому все 2 часа я был вскипающим чайником с красными глазами (от недосыпа!). Да-да, приходилось редактировать все задачки, в которых ответ хотя бы косвенно напоминал число 300. Вы себе просто не представляете, какой неописуемый восторг испытывало это прекрасное создание каждый раз, когда напоминало мне, что за убийство дают от 8 до 20 лет, ибо это единственное, что заставляло меня усидеть на месте после идиотских тезисов типа &amp;lsquo;2^{0,5} = 1&amp;rsquo;, &amp;ldquo;детей бить нельзя&amp;rdquo; и тому подобных.&lt;/p&gt;
-&lt;p&gt;Героически пройдя через вышеперечисленные испытания, я измотанный лёг спать.&lt;/p&gt;
-&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
-&lt;h2 id=&#34;пятница---вот-и-дожили&#34;&gt;Пятница - вот и дожили&lt;/h2&gt;
-&lt;p&gt;Безмерно счастливый, так как осознаю, что рабочая неделя закончилась и начались рабочие выходные.&lt;/p&gt;
-&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
-&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
-&lt;p&gt;Каюсь, грешен. Мог бы сделать гораздо больше, если бы грамотно распланировал своё время и восстановил режим. Но чтобы это сделать, надо сделать все лабы, а чтобы успеть сделать все лабы, надо найти на них время, а чтобы найти на них время, надо сделать все лабы, а чтобы сделать все лабы, надо&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Всем мира и добра!&lt;/p&gt;
+      <guid>https://example.com/post/post2_git/</guid>
+      <description>&lt;h2 id=&#34;about-version-control&#34;&gt;About Version Control&lt;/h2&gt;
+&lt;p&gt;What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local Version Control Systems&lt;/h2&gt;
+&lt;p&gt;Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.&lt;/p&gt;
+&lt;p&gt;To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.&lt;/p&gt;
+&lt;img src=&#34;1.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized Version Control Systems&lt;/h2&gt;
+&lt;p&gt;The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.&lt;/p&gt;
+&lt;p&gt;This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.&lt;/p&gt;
+&lt;p&gt;However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.&lt;/p&gt;
+&lt;img src=&#34;2.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed Version Control Systems&lt;/h2&gt;
+&lt;p&gt;This is where Distributed Version Control Systems (DVCSs) step in. In a DVCS (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.&lt;/p&gt;
+&lt;p&gt;Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.&lt;/p&gt;
+&lt;img src=&#34;3.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2_git/</link>
+      <title>How was my week?</title>
+      <link>https://example.com/post/post1_last-week/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2_git/</guid>
-      <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
-&lt;p&gt;Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
-&lt;h2 id=&#34;локальные-системы-контроля-версий&#34;&gt;Локальные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Многие люди в качестве метода контроля версий применяют копирование файлов в отдельный каталог (возможно даже, каталог с отметкой по времени, если они достаточно сообразительны). Данный подход очень распространён из-за его простоты, однако он
-невероятно сильно подвержен появлению ошибок. Можно легко забыть в каком каталоге вы находитесь и случайно изменить не тот файл или скопировать не те файлы, которые вы хотели.&lt;/p&gt;
-&lt;p&gt;Для того, чтобы решить эту проблему, программисты давным-давно разработали локальные VCS с простой базой данных, которая хранит записи о всех изменениях в файлах, осуществляя тем самым контроль ревизий.&lt;/p&gt;
-&lt;img src=&#34;1.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
-&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Следующая серьёзная проблема, с которой сталкиваются люди, — это необходимость взаимодействовать с другими разработчиками. Для того, чтобы разобраться с ней, были разработаны централизованные системы контроля версий (Centralized Version Control System, далее CVCS). Такие системы, как CVS, Subversion и Perforce, используют единственный сервер, содержащий все версии файлов, и некоторое количество клиентов, которые получают файлы из этого централизованного хранилища. Применение CVCS являлось стандартом на протяжении многих лет.&lt;/p&gt;
-&lt;p&gt;Такой подход имеет множество преимуществ, особенно перед локальными VCS. Например, все разработчики проекта в определённой степени знают, чем занимается каждый из них. Администраторы имеют полный контроль над тем, кто и что может делать, и гораздо проще администрировать CVCS, чем оперировать локальными базами данных на каждом клиенте.&lt;/p&gt;
-&lt;p&gt;Несмотря на это, данный подход тоже имеет серьёзные минусы. Самый очевидный минус — это единая точка отказа, представленная централизованным сервером. Если этот сервер выйдет из строя на час, то в течение этого времени никто не сможет использовать контроль версий для сохранения изменений, над которыми работает, а также никто не сможет обмениваться этими изменениями с другими разработчиками. Если жёсткий диск, на котором хранится центральная БД, повреждён, а своевременные бэкапы отсутствуют, вы потеряете всё — всю историю проекта, не считая единичных снимков репозитория, которые сохранились на локальных машинах разработчиков. Локальные VCS страдают от той же самой проблемы: когда вся история проекта хранится в одном месте, вы рискуете потерять всё.&lt;/p&gt;
-&lt;img src=&#34;2.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
-&lt;h2 id=&#34;распределённые-системы-контроля-версий&#34;&gt;Распределённые системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.&lt;/p&gt;
-&lt;p&gt;Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
-&lt;img src=&#34;3.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+      <guid>https://example.com/post/post1_last-week/</guid>
+      <description>&lt;h2 id=&#34;monday-is-a-hard-day&#34;&gt;Monday is a hard day&lt;/h2&gt;
+&lt;p&gt;I’ve been visiting my parents since Saturday. Joined an online lecture, but instead of going to bed like every good student would, he took the initiative at the top and presented a report on operating system processes.&lt;/p&gt;
+&lt;p&gt;In the afternoon I returned to Moscow. More suburban train I hate only 2 commuter trains. The smell of phantom feces, wherever they sit, the provincials arguing about what beers they will open after the next stop, the great relocation of hares to neighboring carriages when conductors, aggressive grannies, privatized 2 rows and praising the authoritarian regime, established in the country (during the time of Stalin, of course). In order to somehow endure such manifestations of the aforementioned mass, I put on headphones and it saves&amp;hellip; But not for long: every 2 stations at the beginning of the car begin to appear county commentators with loudspeakers, from which, the eardrums burst like balloons launched at the Kremlin, and ears twisted into a tube. They seem to have everything: a raincoat, a towel, swimming trunks, a welding machine, ice cream, headphones, a Makarov pistol and contraceptives (I think the most necessary for the carriage contingent) - as they say, everything - from a loaf to a condom, and all of a hundred rubles. I think the only thing they don’t have is another salesman.&lt;/p&gt;
+&lt;p&gt;After an hour on the train and half an hour on the bus, I find myself at home, where I translate my spirit and sit down to do my homework.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;tuesday-and-wednesday-are-hard-days&#34;&gt;Tuesday and Wednesday are hard days&lt;/h2&gt;
+&lt;p&gt;The night before, having decided to make a difference in my life, I got up at 6:00 in the morning, sleeping the most five hours in the last week. With closed eyes he made coffee and a lab. I went to volleyball and in the evening I met my brother in the craft - a friend-&lt;del&gt;masochist&lt;/del&gt; programmer. Overnight we wrote in Java. After a 1.5-hour sleep, he came to the university, where he died two couples in a row. Having failed, he went home to sleep, but since there is a lot of work, and in a day of only 24 hours (which genius came up with this!?), the day’s sleep made up a couple of hours, after which I did my hw.&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;thursday-is-a-hard-day-either&#34;&gt;Thursday is a hard day either&lt;/h2&gt;
+&lt;p&gt;I went to couples, after which I taught mathematics to my sadistic student. Briefly about him: this creature is not deprived of a sense of humor, and therefore for two hours I was a boiling kettle with red eyes (from lack of sleep!). Yes, yes, I had to edit all the puzzles in which the answer resembled at least the number 300. You just can’t imagine how much excitement this beautiful creature has had every time it’s reminded me that killing is worth eight to 20 years, because that’s the only thing that’s kept me sitting in place since these stupid theses like &amp;lsquo;2 {0.5} = 1&amp;rsquo;, &amp;ldquo;You can’t hit kids&amp;rdquo; and all that crap.&lt;/p&gt;
+&lt;p&gt;Having heroically gone through these trials, I went to bed exhausted.&lt;/p&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;friday---so-we-survived&#34;&gt;Friday - so we survived&lt;/h2&gt;
+&lt;p&gt;Extremely happy, since I realize that the work week has ended and the working weekend has begun.&lt;/p&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;I repent, I am sinful. I could have done much more if I had planned my time correctly and restored the regime. But in order to do that, we have to do all the labs, and in order to do all the labs, we have to find time for them, and in order to do them, we have to do all the labs, we have to&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I wish everyone peace and goodness.&lt;/p&gt;
 </description>
     </item>
     

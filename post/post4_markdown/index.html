@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 10, 2024 --><html lang="en-us" >
+<!-- Last Published: May 19, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -274,7 +274,7 @@
 
 
 
-  <meta name="author" content="Мурашов И.В." />
+  <meta name="author" content="Murashov I.V." />
 
 
 
@@ -286,6 +286,8 @@
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation." />
 
 
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/post4_markdown/" />
 
 <link rel="alternate" hreflang="en-us" href="https://example.com/post/post4_markdown/" />
 <link rel="canonical" href="https://example.com/post/post4_markdown/" />
@@ -380,7 +382,7 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
   
   "author": {
     "@type": "Person",
-    "name": "Мурашов И.В."
+    "name": "Murashov I.V."
   },
   
   "publisher": {
@@ -803,6 +805,22 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
 
         
         
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/post4_markdown/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
 
       </ul>
 
@@ -1010,7 +1028,7 @@ data.head()
 
 
 
-<div id="chart-967243518" class="chart"></div>
+<div id="chart-123675948" class="chart"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -1020,7 +1038,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-967243518', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-123675948', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1197,71 +1215,6 @@ Crash --> [*]
 <p>Save your spreadsheet as a CSV file in your page&rsquo;s folder and then render it by adding the <em>Table</em> shortcode to your page:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">table</span> <span class="nx">path</span><span class="p">=</span><span class="s">&#34;results.csv&#34;</span> <span class="nx">header</span><span class="p">=</span><span class="s">&#34;true&#34;</span> <span class="nx">caption</span><span class="p">=</span><span class="s">&#34;Table 1: My results&#34;</span> <span class="p">&gt;}}</span>
 </span></span></code></pre></div><p>renders as</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-<table class="table">
-  
-    
-    
-    <tr>  <th>customer_id</th>  <th>score</th>  </tr>
-  
-  
-    <tr>
-      
-        
-          <td data-table-dtype="number">1</td>
-        
-      
-        
-          <td data-table-dtype="number">0</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td data-table-dtype="number">2</td>
-        
-      
-        
-          <td data-table-dtype="text">0.5</td>
-        
-      
-    </tr>
-  
-    <tr>
-      
-        
-          <td data-table-dtype="number">3</td>
-        
-      
-        
-          <td data-table-dtype="number">1</td>
-        
-      
-    </tr>
-  
-  
-    <caption>Table 1: My results</caption>
-  
-</table>
-
 <h3 id="callouts">Callouts</h3>
 <p>Academic supports a <a href="https://docs.hugoblox.com/content/writing-markdown-latex/#callouts" target="_blank" rel="noopener">shortcode for callouts</a>, also referred to as <em>asides</em>, <em>hints</em>, or <em>alerts</em>. By wrapping a paragraph in <code>{{% callout note %}} ... {{% /callout %}}</code>, it will render as an aside.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{% callout note %}}
@@ -1279,7 +1232,7 @@ Crash --> [*]
 </span></span><span class="line"><span class="cl">You found me!
 </span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">spoiler</span> <span class="p">&gt;</span>}}
 </span></span></code></pre></div><p>renders as</p>
-<details class="spoiler "  id="spoiler-6">
+<details class="spoiler "  id="spoiler-5">
   <summary>Click to view the spoiler</summary>
   <p>You found me!</p>
 </details>
@@ -1442,13 +1395,13 @@ Crash --> [*]
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu1d9d504cccef89334f180209f3fa396b_4148388_270x270_fill_q75_lanczos_center.jpg" alt="Мурашов И.В."></a>
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu1d9d504cccef89334f180209f3fa396b_4148388_270x270_fill_q75_lanczos_center.jpg" alt="Murashov I.V."></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://example.com/">Мурашов И.В.</a></h5>
-      <h6 class="card-subtitle">Студент ФФМиЕН РУДН</h6>
-      <p class="card-text">Меня увлекают музыка, математика, программирование и размышления о бренности бытия.</p>
+      <h5 class="card-title"><a href="https://example.com/">Murashov I.V.</a></h5>
+      <h6 class="card-subtitle">Student</h6>
+      <p class="card-text">I’m fascinated by music, math, programming, and thinking about the fragility of existence.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
