@@ -100,6 +100,20 @@
                 href="https://example.com/post/post7_last-week/"
                 />
   </url><url>
+    <loc>https://example.com/project/project1_soft_eng_lab1/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://example.com/ru/project/project1_soft_eng_lab1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/project/project1_soft_eng_lab1/"
+                />
+  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,20 +168,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://example.com/tags/"
-                />
-  </url><url>
-    <loc>https://example.com/project/project1_soft_eng_lab1/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/project/project1_soft_eng_lab1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/project/project1_soft_eng_lab1/"
                 />
   </url><url>
     <loc>https://example.com/post/post6_report_decor/</loc>
