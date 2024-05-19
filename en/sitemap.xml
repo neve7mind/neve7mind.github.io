@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neve7mind.github.io/talk/example-talk/</loc>
+    <loc>https://neve7mind.github.io/en/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -13,10 +13,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/talk/example-talk/"
+                href="https://neve7mind.github.io/en/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/event/</loc>
+    <loc>https://neve7mind.github.io/en/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -27,10 +27,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/event/"
+                href="https://neve7mind.github.io/en/event/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/tag/academic/</loc>
+    <loc>https://neve7mind.github.io/en/tag/academic/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -41,10 +41,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/tag/academic/"
+                href="https://neve7mind.github.io/en/tag/academic/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/categories/</loc>
+    <loc>https://neve7mind.github.io/en/categories/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -55,10 +55,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/categories/"
+                href="https://neve7mind.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/tag/deep-learning/</loc>
+    <loc>https://neve7mind.github.io/en/tag/deep-learning/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -69,10 +69,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/tag/deep-learning/"
+                href="https://neve7mind.github.io/en/tag/deep-learning/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/category/demo/</loc>
+    <loc>https://neve7mind.github.io/en/category/demo/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -83,10 +83,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/category/demo/"
+                href="https://neve7mind.github.io/en/category/demo/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post7_last-week/</loc>
+    <loc>https://neve7mind.github.io/en/post/post7_last-week/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -97,10 +97,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post7_last-week/"
+                href="https://neve7mind.github.io/en/post/post7_last-week/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/project/project1_soft_eng_lab1/</loc>
+    <loc>https://neve7mind.github.io/en/project/project1_soft_eng_lab1/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -111,10 +111,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/project/project1_soft_eng_lab1/"
+                href="https://neve7mind.github.io/en/project/project1_soft_eng_lab1/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/</loc>
+    <loc>https://neve7mind.github.io/en/post/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -125,10 +125,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/"
+                href="https://neve7mind.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/project/</loc>
+    <loc>https://neve7mind.github.io/en/project/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -139,10 +139,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/project/"
+                href="https://neve7mind.github.io/en/project/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post8_sci_prog.lang/</loc>
+    <loc>https://neve7mind.github.io/en/post/post8_sci_prog.lang/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -153,10 +153,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post8_sci_prog.lang/"
+                href="https://neve7mind.github.io/en/post/post8_sci_prog.lang/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/tags/</loc>
+    <loc>https://neve7mind.github.io/en/tags/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -167,10 +167,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/tags/"
+                href="https://neve7mind.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post6_report_decor/</loc>
+    <loc>https://neve7mind.github.io/en/post/post6_report_decor/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -181,10 +181,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post6_report_decor/"
+                href="https://neve7mind.github.io/en/post/post6_report_decor/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post5_last-week/</loc>
+    <loc>https://neve7mind.github.io/en/post/post5_last-week/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -195,10 +195,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post5_last-week/"
+                href="https://neve7mind.github.io/en/post/post5_last-week/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post3_last-week/</loc>
+    <loc>https://neve7mind.github.io/en/post/post3_last-week/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -209,10 +209,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post3_last-week/"
+                href="https://neve7mind.github.io/en/post/post3_last-week/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post4_markdown/</loc>
+    <loc>https://neve7mind.github.io/en/post/post4_markdown/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -223,10 +223,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post4_markdown/"
+                href="https://neve7mind.github.io/en/post/post4_markdown/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post2_git/</loc>
+    <loc>https://neve7mind.github.io/en/post/post2_git/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -237,10 +237,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post2_git/"
+                href="https://neve7mind.github.io/en/post/post2_git/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/post1_last-week/</loc>
+    <loc>https://neve7mind.github.io/en/post/post1_last-week/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -251,10 +251,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/post1_last-week/"
+                href="https://neve7mind.github.io/en/post/post1_last-week/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/blog-with-jupyter/</loc>
+    <loc>https://neve7mind.github.io/en/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -265,10 +265,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/blog-with-jupyter/"
+                href="https://neve7mind.github.io/en/post/blog-with-jupyter/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/</loc>
+    <loc>https://neve7mind.github.io/en/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -279,10 +279,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/"
+                href="https://neve7mind.github.io/en/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/post/getting-started/</loc>
+    <loc>https://neve7mind.github.io/en/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -293,10 +293,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/post/getting-started/"
+                href="https://neve7mind.github.io/en/post/getting-started/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://neve7mind.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -307,10 +307,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/tag/%E5%BC%80%E6%BA%90/"
+                href="https://neve7mind.github.io/en/tag/%E5%BC%80%E6%BA%90/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://neve7mind.github.io/en/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -321,10 +321,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/category/%E6%95%99%E7%A8%8B/"
+                href="https://neve7mind.github.io/en/category/%E6%95%99%E7%A8%8B/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication/preprint/</loc>
+    <loc>https://neve7mind.github.io/en/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -335,10 +335,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication/preprint/"
+                href="https://neve7mind.github.io/en/publication/preprint/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication-type/article/</loc>
+    <loc>https://neve7mind.github.io/en/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -349,10 +349,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication-type/article/"
+                href="https://neve7mind.github.io/en/publication-type/article/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication_types/</loc>
+    <loc>https://neve7mind.github.io/en/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -363,10 +363,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication_types/"
+                href="https://neve7mind.github.io/en/publication_types/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication/</loc>
+    <loc>https://neve7mind.github.io/en/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -377,10 +377,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication/"
+                href="https://neve7mind.github.io/en/publication/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/tag/source-themes/</loc>
+    <loc>https://neve7mind.github.io/en/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -391,10 +391,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/tag/source-themes/"
+                href="https://neve7mind.github.io/en/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/slides/</loc>
+    <loc>https://neve7mind.github.io/en/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -405,10 +405,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/slides/"
+                href="https://neve7mind.github.io/en/slides/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/slides/example/</loc>
+    <loc>https://neve7mind.github.io/en/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -419,10 +419,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/slides/example/"
+                href="https://neve7mind.github.io/en/slides/example/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication/journal-article/</loc>
+    <loc>https://neve7mind.github.io/en/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -433,10 +433,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication/journal-article/"
+                href="https://neve7mind.github.io/en/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication-type/article-journal/</loc>
+    <loc>https://neve7mind.github.io/en/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -447,10 +447,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication-type/article-journal/"
+                href="https://neve7mind.github.io/en/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication/conference-paper/</loc>
+    <loc>https://neve7mind.github.io/en/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -461,10 +461,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication/conference-paper/"
+                href="https://neve7mind.github.io/en/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://neve7mind.github.io/publication-type/paper-conference/</loc>
+    <loc>https://neve7mind.github.io/en/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -475,7 +475,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://neve7mind.github.io/publication-type/paper-conference/"
+                href="https://neve7mind.github.io/en/publication-type/paper-conference/"
                 />
   </url>
 </urlset>

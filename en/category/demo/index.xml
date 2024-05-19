@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Murashov I.V.</title>
+    <link>https://neve7mind.github.io/en/category/demo/</link>
+      <atom:link href="https://neve7mind.github.io/en/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
+      <title>Demo</title>
+      <link>https://neve7mind.github.io/en/category/demo/</link>
+    </image>
+    
+    <item>
+      <title>How was my week? x4</title>
+      <link>https://neve7mind.github.io/en/post/post7_last-week/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post7_last-week/</guid>
+      <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
+&lt;p&gt;Not to say that something out of the ordinary happened last week. I read &amp;ldquo;No change on the Western Front&amp;rdquo; Remark. Fatalism strengthened, so to speak. Went to my family in the area. Tired of your self-reflection, so just look at this beauty from our site).&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science programming languages</title>
+      <link>https://neve7mind.github.io/en/post/post8_sci_prog.lang/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post8_sci_prog.lang/</guid>
+      <description>&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Язык разметки LaTeX&lt;/li&gt;
+&lt;li&gt;Язык программирования Julia&lt;/li&gt;
+&lt;li&gt;Язык программирования Octave&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;latex-markup-language&#34;&gt;LaTeX markup language&lt;/h2&gt;
+&lt;p&gt;LaTeX (pronounced /liquidlɑːtɛx/ or /uraleɪtɛx/[1]) is the most popular set of macro extensions (or macro-packets) of the TeX computer layout system that facilitates the set of complex documents.&lt;/p&gt;
+&lt;p&gt;This tool is widely used for creating scientific documents, writing books, and many other forms of publications. Not only does it allow you to create beautifully designed documents, but it also allows users to implement very quickly such complex elements of a printed set as mathematical expressions, tables, links and bibliographies, getting a consistent layout across all sections.&lt;/p&gt;
+&lt;p&gt;With the availability of a large number of open libraries (a little bit later), LaTEX’s capabilities are almost limitless. These libraries empower users even more by allowing you to add footnotes, draw diagrams, etc.&lt;/p&gt;
+&lt;p&gt;One of the most compelling reasons many people use LaTeX is to separate the content of a document from its style. This means that after writing the content, you can easily change its appearance. Similarly, one document style can be created and used to standardize the appearance of others.&lt;/p&gt;
+&lt;p&gt;This allows scientific journals to create templates for the proposed materials. Such templates have a given markup, leaving only the content to be added. In fact, there are hundreds of such templates, from various resumes to slide presentations.&lt;/p&gt;
+&lt;h2 id=&#34;julia-programming-language&#34;&gt;Julia programming language&lt;/h2&gt;
+&lt;p&gt;The Julia language is a cross-platform compiled, freely distributed programming language (MIT license) with dynamic typing, which has a number of advantages and disadvantages.
+The B Julia is a JIT-based compilation. The Just-in-Time (JIT) compilation allows both expressiveness of modern interpreted languages and performance of languages such as C and Fortran. The JIT compiler performs the compilation during the first run of the program, extracting from the text information not explicitly specified by the programmer, and using this information to optimize the generated machine code.&lt;/p&gt;
+&lt;p&gt;The advantages of the Julia language include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplicity is an intuitive language whose syntax resembles that of Python and MATLAB;&lt;/li&gt;
+&lt;li&gt;the performance of programs written in Julia is comparable to that of programs written in C or Fortran;&lt;/li&gt;
+&lt;li&gt;effective vectoring and parallelization of calculations, a large number of data types, including rational and complex numbers;&lt;/li&gt;
+&lt;li&gt;calculation in the absence of some data (there is a type given missing);&lt;/li&gt;
+&lt;li&gt;calculation precision setting (BigFloat data type, setprecision function);&lt;/li&gt;
+&lt;li&gt;the implementation of symbolic calculations using macro commands;&lt;/li&gt;
+&lt;li&gt;using libraries written in C and Fortran, and sharing libraries with Python and R;&lt;/li&gt;
+&lt;li&gt;integration with DBMS (PostgreSQL, MySQL, JSON). ;&lt;/li&gt;
+&lt;li&gt;support for Unicode characters;&lt;/li&gt;
+&lt;li&gt;the use of the multiple dispatch paradigm - the call of the function depends little on the type of parameters of the function (parametric polymorphism);&lt;/li&gt;
+&lt;li&gt;a good built-in mathematical library with linear algebra functions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Julia is a full programming language that has integer arithmetic, floating point operations, cycles, C-like structures, and even a goto operator analogue. However, in the language there is a very convenient possibility of vectoring calculations, which is characteristic of high-level languages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If we talk about the shortcomings of the Julia language, it should be noted that the compilation time of large programs can be quite noticeable (minutes);
+is a relatively new language, so the number of libraries in this language is relatively small ( compared to Python );&lt;/li&gt;
+&lt;li&gt;cannot create separately tested program - Julia programs work only in Julia environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;octave-programming-language&#34;&gt;Octave programming language&lt;/h2&gt;
+&lt;p&gt;MGNU Octave is a free system for mathematical computing[1] that uses a high-level MATLAB compatible language.&lt;/p&gt;
+&lt;p&gt;Octave introduces an interactive command interface to solve linear and nonlinear mathematical problems, as well as other numerical experiments. In addition, Octave can be used for batch processing. Octave uses arithmetic of real and complex scalars, vectors and matrices, has extensions for solving linear algebraic problems, finding the roots of systems of nonlinear algebraic equations, working with polynomials, solving various differential equations, integration of systems of differential and differential algebraic equations of the first order, integration of functions on finite and infinite intervals. This list can be easily expanded using the Octave language (or using dynamically downloadable modules created in C, C++, Fortran, etc.).&lt;/p&gt;
+&lt;p&gt;Researchers at the University of Maryland in the United States performed comparative analysis of mathematical computing using MATLAB, Octave, SciLab and FreeMat in a simple and complex scenario. In the first case the system of linear equations was solved and in the second - the finite-differential discretization of the Poisson equation in two-dimensional space. The main conclusion is that GNU Octave performs better than other open mathematical packages, demonstrating a comparable result (pages 23 and 25) than Matlab.&lt;/p&gt;
+&lt;p&gt;Scientific calculations made using open software have an additional «level of protection», because anyone can repeat the same calculations and check the validity of the results. The same calculations made on expensive software partially cut off the possibility of checking the results. The problem is actually much wider (English text) and it’s not just open or proprietary mathematics. It is no secret that scientific journals usually do not require authors to provide data and methods sufficient to guarantee the repetition of experimental results, model verification. Economists and financiers in particular often do this by simply keeping their data secret. Verification of calculations and conclusions among the sample of the array of articles with «classified» data gave unexpected results (English text). Science, like software, has to be open, which is why open math packs have value to society.&lt;/p&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;In scientific programming many languages and mathematical systems are used, but listed in this article, in my opinion, the most convenient and effective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report design</title>
+      <link>https://neve7mind.github.io/en/post/post6_report_decor/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post6_report_decor/</guid>
+      <description>&lt;h2 id=&#34;rules-of-decorating-in-accordance-with-гост-15-2001-and-гост-71-2003&#34;&gt;Rules of decorating in accordance with ГОСТ 1.5-2001 and ГОСТ 7.1-2003&lt;/h2&gt;
+&lt;p&gt;The actual text of the report should be typed on the computer in Times New Roman font size 14 pt. (Microsoft Word text editor is used for text design). It is recommended that the font used in the illustrative material (tables and figures) be reduced to 12 pt. The line spacing in the main text is one-and-a-half. In the illustrative material, it is recommended to make the line spacing single. Page margins should be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;left field - 30 mm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;right field - 10 mm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;top and bottom margin - 20 mm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each paragraph should start with a red line. The indentation of the paragraph is 12.5 mm. from the left border of the text.&lt;/p&gt;
+&lt;p&gt;Each section of the report should start with a new page. The name of the structural elements of the report «CONTENTS», «INTRODUCTION», «CONCLUSION», «LIST OF LITERATURE», «ANNEX», as well as the headings of the sections should be printed in capital letters and be located in the middle of the line. Sections are numbered with Arabic numerals (1, 2, 3). No dot at the end of headings.&lt;/p&gt;
+&lt;p&gt;The headings of sections may be highlighted in bold. It is not allowed to use underlining in headings, use of two or more types of highlighting in headers (for example, italics and bold font, italics and other color other than the main text), moving words in chapter headings, as well as the use of non-standard characters in the report text, the use of abbreviations in headers. In the text of the report, abbreviations of terms are allowed only after the introduction of a meaningful definition of the term. All pages of the report (except the applications) should be numbered, starting with «Introduction», which is numbered with the digit 3. Page numbers are located in the center of the bottom of the sheet without a dot.&lt;/p&gt;
+&lt;p&gt;Illustrative material (tables, drawings, formulas) is included in the report in order to visualize the argumentation and substantiation of the conclusions received by the student. Thus, the main part of the report is only the material that contributes to a better substantiation of the conclusions reached by the student. Tables, reporting forms and other factual material, which are the raw data from which the study was based, are not included in the main body of work but may be annexed. It is recommended that tables and figures based on actual baseline data be included directly in the main body of the report. All illustrative material should, if possible, be placed after the first reference to it in the text.&lt;/p&gt;
+&lt;p&gt;Equations and formulas should be separated from the text into a separate row. Formulae should use as symbols the symbols established by the relevant state standards and reflected in the format of formulae.&lt;/p&gt;
+&lt;p&gt;Literary sources used in the report writing process are specified at the end of the work before the application.&lt;/p&gt;
+&lt;p&gt;Example of the design of the bibliographic description:&lt;/p&gt;
+&lt;p&gt;Normative legal acts Constitution of the Russian Federation: offc. text. - M.: Marketing, 2017. - 39 p. Family Code of the Russian Federation: [feder. Law: adopted by the State. Duma 8 dec. 1995: as of 3 Jan. 2001]. - SPb.: Staun Country, 2001. - 94 pp.&lt;/p&gt;
+&lt;p&gt;One-volume book by one author: Glasunov V.A. Spatial mechanisms of parallel structure. M.: Science, 1991. 94 p.&lt;/p&gt;
+&lt;p&gt;The one-volume book of two authors: Abalakin V.K., Aksenov E.P., Grebenikov E.A., Demin V.G., Ryabov Y.A. Reference manual of celestial mechanics and Astrodynamics / under Rev. G.N. Duboshina. M.: Science, 1976. 864 p. Marshak I.S., Doynikov A.S., Giltsov V.P., Kirsanov V.P., Rovinsky R.E., Shchukin L.N., Feigenbaum M.G. Impulsive sources of light / under the district. J.S. Marshak. 2nd d. , recycled. and dop. M.: Energy, 1978. 472 p. Translation Book: Sebehey B. Theory of Orbits: Limited Problem of Three Tel: Per. c. c. under G.N. Duboshina. M.: Science, 1982. 656 p. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967. ]. Data K.J. Introduction to Database Systems: M. 1. Williams, 2006. 1328 p. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
+&lt;p&gt;Separate volume of multi-volume edition: Welding and welded materials: reference book. In 3 t. T. 1. Weldability of materials / ed. E.L. Makarov. M.: Metallurgy, 1991. 258 p. Dissertation: Pnev A.B. Optical-electronic measuring systems based on quasi-limited fiber-optic Bragg sensors: Dis. &amp;hellip; kand. techn. of science. M., 2008. 176 p.&lt;/p&gt;
+&lt;p&gt;Autoabstract thesis: Vishnyakov I.V. Models and methods of assessment of commercial banks in the conditions of uncertainty: autoef. dis. &amp;hellip; Kand. econ. Sciences. M., 2002. 15 p. Analytical Review: The Economy and Politics of Russia and CIS States: Analyses. Review, Apr. 2007 / Ros. Acad. science, In-t world economy and international. relations. M.,: IMEMO, 2007. 39 p.&lt;/p&gt;
+&lt;p&gt;Deposited scientific work: Gromov Y.Y., Derevuz M.M., Zemskaya N.A., Ivanova O.G., Mosyagina N.G. Algorithm of numerical solution of rigid differential equations / Tambov State Technical University. Tambov, 1999. 8 p. Dep. in VINITI 04.03.1999,  669-B1999. Standard: GOST R 517721-2001. Electronic household appliances. Input and output parameters and connection types.&lt;/p&gt;
+&lt;p&gt;Technical requirements. Introduction. 2002 - 01-01. M.: Publishing standards, 2001. 27 pp. Patent: Chugaeva V.I. Transceiver: pat. 2187888 Russian Federation. 2002. Bull.   23 (2 hours). 3 p.&lt;/p&gt;
+&lt;p&gt;Article in the periodical: Tchaikovsky M.M., Yadykin I.B. Optimum adjustment of PIDs for multi-link bilinear objects of control // Automation and telemechanics. 2009.   1. P. 130-146. Zviagin F.V. About one class of orbits in three and four sol/ Bulletin of MSTU named after. N.E. Bauman. Ser. Instrumentation. 2010.   2. P. 105 - 113. Stankevich I.V., Yakovlev M.E., Si Tu Htet. Development of the algorithm of contact interaction on the basis of the alternating method // Bulletin of MSTU. N.E. Bauman. Ser. Natural Sciences. 2011. Specials. of. «Applied Mathematics». P. 134-141.&lt;/p&gt;
+&lt;p&gt;Article in the collection: Dvinyaninova G.S. Compliment: Communicative status or strategy in discourse // Social power of the language: Sat. Science. tr. Voronezh, 2001. S. 42-49. Orlik A.G., Cobernik N.V. Obtaining wear-resistant anti-abrasive coatings // Works of MGTU them. N. E. Bauman. 2010.   602: Mathematical Modeling of Complex Technical Systems. P. 34-38. Article in the ongoing edition: Belova G.D. Some issues of criminal liability for violation of tax legislation // Current. Problems Prosecutor. Supervision. 2001. Page. 5: Procuratorial supervision over the implementation of criminal and criminal procedural legislation. Organization of activities of the Prosecutor’s Office. S. 46-49. Pictorists V.P., Pyatossin L.P. Complex connections of thorium with diantipirylmethane // Scientists. Zat. / Perm. kt. 1970.   207. p. 184-191. Work in the conference materials: Karpenko A.P., Seliverstov E.Y. Global optimization by swarm of particles on graphics processors // All. supercomputer conference «Scientific Service in the Internet: Scalability, Parallelism, Efficiency»: papers. M.: Moscow State University, 2009. C. 188-191. Simonov A. Sewage treatment: design of technical devices /7th Regional Conference of Young Researchers of the Volgograd Region (Volgograd, 12-15 May 2002): Thesis. Dr. Volgograd, 2002. p. 13-15.&lt;/p&gt;
+&lt;p&gt;Chapter in the book: Berliner E.M., Glazyrine I.B., Glazyrin B.E. Automation of individual operations in Word 2000 // Office 2000: 5 kn. in 1: self-learning guide. 2nd edition. revised. M., 2002. Gl. 14. P. 281-298. Article in multi-volume edition: Kulakov V.A. Victorian style // BR. M., 2006. T. 5. P. 308-309.&lt;/p&gt;
+&lt;p&gt;The report does not recommend retelling the content of textbooks, teaching aids, normative and specialized literature. This information should be refined and presented in the content of the work. Direct borrowing from sources without reference to the author or the instrument is not acceptable. When using digital data, official documents, quotations and other published material, a student must indicate the source and make a reference in square brackets. Example: [12, pp. 34], meaning: 12 - source number in the list of literature, 34 - page number. The attachment contains material supplementing the text of the report. For example, the data used for calculations; intermediate tables and charts that influenced the construction of final tables and figures; intermediate calculations showing the dynamics of the student’s evidence; description of algorithms; tables and drawings of non-standard format, etc. Applications are placed in the work after the list of literature. Each annex is sequentially numbered with Arabic numerals. If the application is more than one page, it is moved to another page and at the top is marked as «Continuation of the application &amp;hellip;». All applications should be referenced in the report text. The location of the annexes at the end of the document should follow the order in which the links to them appear in the text. Each application starts with a new page. In the upper right corner of the page, the word «ANNEX» is indicated and its serial number is placed (for example, «ANNEX 1»). Each application should have a header that appears on the next line after «ANNEX», and this header is centered around the text. If the documents have a large format, they should be stacked in A4 format. One page of this non-standard value is numbered as one page of the application (without adding it).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week? x3</title>
+      <link>https://neve7mind.github.io/en/post/post5_last-week/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post5_last-week/</guid>
+      <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
+&lt;p&gt;DD.MM.YY Пн&lt;/p&gt;
+&lt;p&gt;[00:24]&lt;/p&gt;
+&lt;p&gt;        Посмотрев &amp;ldquo;Побег из Шоушенка&amp;rdquo;, я переосознал себя и свою жизнь, как часто бывает после подобных фильмов или спектаклей. Пожалуй, это временное ощущение и да, через пару дней, а может быть, даже часов это чувство снова накроется толстым беспросветным слоем рутины, которая всеобъемлюще пожирает то, что раньше было принято называть жизнью.&lt;/p&gt;
+&lt;p&gt;        Почему мы так не ценим то время, которое нам отведено? Ту, единственную для всех нас песчинку, во время которой мы можем дышать, любить и умирать за любовь. Пожалуй, сегодня время - это единственная форма материи, заставляющая человека обернуться назад и спросить себя - себя тогдашнего, не угнетаемого мелочами, не поглощённого бессмысленностью: &amp;ldquo;А так ли я представлял себе свою жизнь?&amp;rdquo;. Наверняка большинство задавшихся впервые этим вопросом с громкой уверенностью ответят: &amp;ldquo;Что? Так ли я представлял свою жизнь? Что за вздор!.. Конечно, так. Как же иначе? А что, кто-то думает, что я недоволен своей жизнью, что я несчастлив?&amp;rdquo;. Но звенящая тишина пустых комнат даст более точный ответ, и встреча с этим ответом будет неизбежна, подобно тому, как неукоснительно упал взор Гая Монтэга на вентиляционную решётку, где хранились ответы на все все вопросы, когда-либо заданные.&lt;/p&gt;
+&lt;p&gt;        Так рассуждал, потягивая сигарету, молодой студент второго курса престижного столичного университета со странноватым названием &amp;ldquo;Технический университет имени Фредерика Тэйлора&amp;rdquo;, ну или как его называли сами студенты - ТУФТа. Частенько Николай, убегая от так надоевших ему математики и программирования, погружался в подобные рассуждения, коротая одинокие ночи. И эта ночь не стала исключением. Ну вот, Коля собрался с мыслями и снова задерживает дыхание для того, чтобы нырнуть в недра своих воспоминаний, и мы безвольно следуем за ним.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week? x2</title>
+      <link>https://neve7mind.github.io/en/post/post3_last-week/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post3_last-week/</guid>
+      <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
+&lt;p&gt;My week has been super unproductive, and all attempts to interrupt procrastination have resulted only in a reflection on the topic &amp;ldquo;What am I wasting my life on&amp;rdquo;. Sad and tasteless. The only thing that somehow brightened the fragility of being - a few meetings with friends. That’s all.&lt;/p&gt;
+&lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git version control</title>
+      <link>https://neve7mind.github.io/en/post/post2_git/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post2_git/</guid>
+      <description>&lt;h2 id=&#34;about-version-control&#34;&gt;About Version Control&lt;/h2&gt;
+&lt;p&gt;What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local Version Control Systems&lt;/h2&gt;
+&lt;p&gt;Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.&lt;/p&gt;
+&lt;p&gt;To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.&lt;/p&gt;
+&lt;img src=&#34;1.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized Version Control Systems&lt;/h2&gt;
+&lt;p&gt;The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.&lt;/p&gt;
+&lt;p&gt;This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.&lt;/p&gt;
+&lt;p&gt;However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.&lt;/p&gt;
+&lt;img src=&#34;2.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed Version Control Systems&lt;/h2&gt;
+&lt;p&gt;This is where Distributed Version Control Systems (DVCSs) step in. In a DVCS (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.&lt;/p&gt;
+&lt;p&gt;Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.&lt;/p&gt;
+&lt;img src=&#34;3.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week?</title>
+      <link>https://neve7mind.github.io/en/post/post1_last-week/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post1_last-week/</guid>
+      <description>&lt;h2 id=&#34;monday-is-a-hard-day&#34;&gt;Monday is a hard day&lt;/h2&gt;
+&lt;p&gt;I’ve been visiting my parents since Saturday. Joined an online lecture, but instead of going to bed like every good student would, he took the initiative at the top and presented a report on operating system processes.&lt;/p&gt;
+&lt;p&gt;In the afternoon I returned to Moscow. More suburban train I hate only 2 commuter trains. The smell of phantom feces, wherever they sit, the provincials arguing about what beers they will open after the next stop, the great relocation of hares to neighboring carriages when conductors, aggressive grannies, privatized 2 rows and praising the authoritarian regime, established in the country (during the time of Stalin, of course). In order to somehow endure such manifestations of the aforementioned mass, I put on headphones and it saves&amp;hellip; But not for long: every 2 stations at the beginning of the car begin to appear county commentators with loudspeakers, from which, the eardrums burst like balloons launched at the Kremlin, and ears twisted into a tube. They seem to have everything: a raincoat, a towel, swimming trunks, a welding machine, ice cream, headphones, a Makarov pistol and contraceptives (I think the most necessary for the carriage contingent) - as they say, everything - from a loaf to a condom, and all of a hundred rubles. I think the only thing they don’t have is another salesman.&lt;/p&gt;
+&lt;p&gt;After an hour on the train and half an hour on the bus, I find myself at home, where I translate my spirit and sit down to do my homework.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;tuesday-and-wednesday-are-hard-days&#34;&gt;Tuesday and Wednesday are hard days&lt;/h2&gt;
+&lt;p&gt;The night before, having decided to make a difference in my life, I got up at 6:00 in the morning, sleeping the most five hours in the last week. With closed eyes he made coffee and a lab. I went to volleyball and in the evening I met my brother in the craft - a friend-&lt;del&gt;masochist&lt;/del&gt; programmer. Overnight we wrote in Java. After a 1.5-hour sleep, he came to the university, where he died two couples in a row. Having failed, he went home to sleep, but since there is a lot of work, and in a day of only 24 hours (which genius came up with this!?), the day’s sleep made up a couple of hours, after which I did my hw.&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;thursday-is-a-hard-day-either&#34;&gt;Thursday is a hard day either&lt;/h2&gt;
+&lt;p&gt;I went to couples, after which I taught mathematics to my sadistic student. Briefly about him: this creature is not deprived of a sense of humor, and therefore for two hours I was a boiling kettle with red eyes (from lack of sleep!). Yes, yes, I had to edit all the puzzles in which the answer resembled at least the number 300. You just can’t imagine how much excitement this beautiful creature has had every time it’s reminded me that killing is worth eight to 20 years, because that’s the only thing that’s kept me sitting in place since these stupid theses like &amp;lsquo;2 {0.5} = 1&amp;rsquo;, &amp;ldquo;You can’t hit kids&amp;rdquo; and all that crap.&lt;/p&gt;
+&lt;p&gt;Having heroically gone through these trials, I went to bed exhausted.&lt;/p&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;friday---so-we-survived&#34;&gt;Friday - so we survived&lt;/h2&gt;
+&lt;p&gt;Extremely happy, since I realize that the work week has ended and the working weekend has begun.&lt;/p&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;I repent, I am sinful. I could have done much more if I had planned my time correctly and restored the regime. But in order to do that, we have to do all the labs, and in order to do all the labs, we have to find time for them, and in order to do them, we have to do all the labs, we have to&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I wish everyone peace and goodness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
+      <link>https://neve7mind.github.io/en/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://hugoblox.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

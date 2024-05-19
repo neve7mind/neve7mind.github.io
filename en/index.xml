@@ -1,44 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>http://localhost:1313/en/</link>
-      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Murashov I.V.</title>
+    <link>https://neve7mind.github.io/en/</link>
+      <atom:link href="https://neve7mind.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murashov I.V.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>http://localhost:1313/en/</link>
+      <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
+      <title>Murashov I.V.</title>
+      <link>https://neve7mind.github.io/en/</link>
     </image>
     
     <item>
-      <title>Реализация односвязных списков в C&#43;&#43;</title>
-      <link>http://localhost:1313/en/project/project1_soft_eng_lab1/</link>
+      <title>Example Talk</title>
+      <link>https://neve7mind.github.io/en/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week? x4</title>
+      <link>https://neve7mind.github.io/en/post/post7_last-week/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/project1_soft_eng_lab1/</guid>
-      <description>&lt;h2 id=&#34;цель-проекта&#34;&gt;Цель проекта&lt;/h2&gt;
-&lt;p&gt;Написать компьютерную программу, содержащую&lt;/p&gt;
+      <guid>https://neve7mind.github.io/en/post/post7_last-week/</guid>
+      <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
+&lt;p&gt;Not to say that something out of the ordinary happened last week. I read &amp;ldquo;No change on the Western Front&amp;rdquo; Remark. Fatalism strengthened, so to speak. Went to my family in the area. Tired of your self-reflection, so just look at this beauty from our site).&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementation of Simply Linked Lists in C&#43;&#43;</title>
+      <link>https://neve7mind.github.io/en/project/project1_soft_eng_lab1/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/project/project1_soft_eng_lab1/</guid>
+      <description>&lt;h2 id=&#34;the-aim-of-the-project&#34;&gt;The aim of the project&lt;/h2&gt;
+&lt;p&gt;Write a computer program containing&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Описание структуры, содержащей поля типа string, int, double;&lt;/li&gt;
-&lt;li&gt;Набор функций для работы со списком на базе этой структуры:
+&lt;li&gt;Description of the structure containing fields such as string, int, double;&lt;/li&gt;
+&lt;li&gt;a set of functions to work with the list based on this structure:
 &lt;ul&gt;
-&lt;li&gt;Добавление элемента в начало списка;&lt;/li&gt;
-&lt;li&gt;Добавление элемента в конец списка;&lt;/li&gt;
-&lt;li&gt;Добавление элемента в список после заданного элемента;&lt;/li&gt;
-&lt;li&gt;Добавление элемента в список перед заданным элементом;&lt;/li&gt;
-&lt;li&gt;Удаление из списка элемента с заданным именем;&lt;/li&gt;
-&lt;li&gt;Вывод содержания списка на экран;&lt;/li&gt;
+&lt;li&gt;Add an item to the top of the list;&lt;/li&gt;
+&lt;li&gt;Add an element to the end of the list;&lt;/li&gt;
+&lt;li&gt;Add an element to the list after the specified element;&lt;/li&gt;
+&lt;li&gt;Add an item to the list before a given item;&lt;/li&gt;
+&lt;li&gt;Remove an item with a specified name from the list;&lt;/li&gt;
+&lt;li&gt;Display list contents on the screen;
+is a main function that contains a list script that uses the developed toolkit.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Функцию main, содержащую сценарий работы со списком, использующий разработанный инструментарий.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;превью-проекта&#34;&gt;Превью проекта&lt;/h2&gt;
-&lt;p&gt;В данном проекте мной был создан односвязный список, каждый узел которого хранит в себе данные определённого человека: имя, рост и вес. Само собой был реализован набор функций, указанных в цели проекта.&lt;/p&gt;
-&lt;p&gt;Весь проект можно будет лицезреть в самое ближайшее время &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;как-же-всё-таки-мне-это-удалось&#34;&gt;Как же всё-таки мне это удалось?&lt;/h2&gt;
+&lt;h2 id=&#34;project-preview&#34;&gt;Project preview&lt;/h2&gt;
+&lt;p&gt;In this project, I created a simple-linked list, each node of which stores the data of a certain person: name, height and weight. The set of functions specified in the project objectives was realized.&lt;/p&gt;
+&lt;p&gt;The whole project can be seen in the very near future &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how-did-i-do-it-anyway&#34;&gt;How did I do it anyway?&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Объявляем структуру узла, содержащую в себе 3 поля (string, int, double) и ссылку на следующий элемент.&lt;/li&gt;
+&lt;li&gt;We declare the structure of the node containing 3 fields (string, int, double) and a reference to the next element.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;struct&lt;/span&gt; &lt;span class=&#34;nc&#34;&gt;Human&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
@@ -47,7 +81,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;next&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;};&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Реализуем функцию добавления элемента в начало списка. Передаём ссылку на указатель первого элемента и поля нашей структуры (далее «базовые параметры»). Создаём новый объект типа Human, его адрес присваиваем переменной (newNode) Далее “кладём” в функцию базовые параметры, передаваемые в функции. Устанавливаем ссылку нового узла на ‘голову’ списка (pNode) и устанавливаем новый узел как ‘голову’ списка.&lt;/li&gt;
+&lt;li&gt;We can add an item to the top of the list. We transmit the link to the pointer of the first element and the field of our structure (hereinafter «basic parameters»). Create a new object of type Human, its address is assigned to the variable (newNode) Then &amp;ldquo;put&amp;rdquo; into the function basic parameters passed to functions. Set the new node link to the list’s head (pNode) and set the new node as the list head.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;AddFirst&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;growth&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;weight&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;newNode&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
@@ -58,7 +92,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;newNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Реализуем функцию добавления элемента в конец списка. Передаём ссылку на указатель первого элемента и базовые параметры. Создаём новый объект типа Human, его адрес присваиваем переменной (newNode). Далее “кладём” в функцию базовые параметры и устанавливаем ссылку нового узла на ‘голову’ списка (pNode). Если у нас пустой список, то по сути мы создаём 1ый элемент. Else мы ищем последний элемент, после чего кладем в tmp адрес последнего элемента списка.&lt;/li&gt;
+&lt;li&gt;We implement the function of adding an element to the end of the list. We pass the reference to the pointer of the first element and basic parameters. Create a new object of type Human, its address is assigned variable (newNode). Next, &amp;ldquo;put&amp;rdquo; in the function basic parameters and set the link of the new node to the list’s head (pNode). If we have an empty list, we essentially create the 1st element. Else we look for the last element, then put the tmp address of the last element of the list.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;AddLast&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;growth&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;weight&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;newNode&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
@@ -79,7 +113,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;Реализуем функцию добавления элемента после заданного. Передаём указатель на  первый элемент для создания копии внешнего объекта (pNode), строку, по которой будет происходить поиск узла и базовые параметры. Если у нас пустой список, то выводим сообщение об этом. Ищем нужный нам элемент, т.е. устанавливаем начало списка и движемся по списку. Если дошли до последнего элемента и не нашли нужный, выводим соответствующее сообщение.&lt;/li&gt;
+&lt;li&gt;We can add an element after the specified element. Pass the pointer to the first element to copy the external object (pNode), the string on which the node will be searched and the basic parameters. If we have an empty list, we will display a message about it. We are looking for the element we need, i.e. we set the top of the list and move on the list. If you have reached the last element and have not found the desired one, we will display the corresponding message.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;AddAfter&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Node&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;growth&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;weight&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
@@ -101,7 +135,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;next&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;newNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Реализуем функцию добавления элемента перед заданным. Передаём указатель на  первый элемент для создания копии внешнего объекта (pNode), строку, по которой будет происходить поиск узла и базовые параметры. Если у нас пустой список, то выводим сообщение об этом. Если первый же элемент является искомым, то вызываем функцию AddFirst. Создаём переменные, хранящие ссылки на предыдущий (prev) и последующий (tmp) элементы. Далее цикл для поиска нужного узла (Node). Если дошли до последнего элемента и не нашли нужный, выводим соответствующее сообщение. Если нашли, выполняем стандартные действия, заполняя новый узел и устанавливаем поле next на tmp, а поле next у prev устанавливаем на новый созданный узел.&lt;/li&gt;
+&lt;li&gt;We can add an element before the specified one. Pass the pointer to the first element to copy the external object (pNode), the string on which the node will be searched and the basic parameters. If we have an empty list, we will display a message about this. If the first element is the search element, we call the AddFirst function. Create variables that store references to previous (prev) and subsequent (tmp) elements. Then cycle to find the desired node (Node). If you have reached the last element and have not found the desired one, we will display the corresponding message. If found, we perform standard actions by filling the new node and setting the next field to tmp, and the next y prev field installs to the newly created node.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;AddBefore&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Node&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;growth&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;weight&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
@@ -129,7 +163,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;prev&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&amp;gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;next&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;newNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;Реализуем функцию удаления узла по имени (name). Передаём ссылку на указатель первого элемента и строку, по которой будет происходить поиск узла. Если у нас пустой список, то выводим сообщение об этом. Создаём переменную tmp, устанавливаем её на начало списка. Если первый элемент списка – искомый, то удаляяем его и переопределяем pNode (указатель на первый элемент списка). Если у нас пустой список, то выводим сообщение об этом. Создаём переменную prev и кладём в неё pNode. В tmp передаём pNode-&amp;gt;next. Далее ищем нужный элемент. Если дошли до последнего элемента и не нашли нужный, выводим соответствующее сообщение. Если нашли искомый элемент, то переопределяем prev-&amp;gt;next и  удаляем сам элемент (tmp).&lt;/li&gt;
+&lt;li&gt;We implement the node deletion function by name (name). We pass the reference to the pointer of the first element and the string on which the node will be searched. If we have an empty list, we will display a message about it. Create a variable tmp, set it to the top of the list. If the first element of the list is the search element, then remove it and override pNode (pointer to the first element of the list). If we have an empty list, we will display a message about this. Create a prev variable and put pNode in it. In tmp we will pass pNode-&amp;gt;next. Then search for the desired element. If you have reached the last element and have not found the desired one, print the corresponding message. If you find the element you are looking for, override prev-&amp;gt;next and remove the element itself (tmp).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;Del&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Node&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
@@ -164,7 +198,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;7&#34;&gt;
-&lt;li&gt;Реализуем функцию вывода списка на экран. В качестве параметра передаём указатель на  первый элемент. Если у нас пустой список, то выводим сообщение об этом. Устанавливаем tmp на начало списка. Затем выводим данные узла, переходим на следующий элемент (tmp = tmp-&amp;gt;next) и так до тех пор, пока не дойдем до последнего элемента.&lt;/li&gt;
+&lt;li&gt;We implement the function of displaying the list on the screen. As a parameter, we transmit the pointer to the first element. If we have an empty list, we will display a message about this. We will set tmp at the top of the list. Then we display the node data, we switch to the next element (tmp = tmp-&amp;gt;next) and so until we reach the last element.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;Showmen&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pNode&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
@@ -178,7 +212,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;8&#34;&gt;
-&lt;li&gt;В функции main реализуем сценарий работы со списком, использующий разработанный инструментарий. Создаём список list1. Далее последовательно выполняем ранее реализованные функции. Добавляем в начало (“Tom”), добавляем в начало (“Lisa”), добавляем после Tomа (“Fred ”), добавляем перед Fredом (“Jeff ”), удаляем (“Lisa ”), добавляем в конец (“Mary ”).&lt;/li&gt;
+&lt;li&gt;In the main function, we implement a list scenario that uses the developed toolkit. Create list1 list. Next, the previously implemented functions are performed sequentially. Add to the beginning (&amp;ldquo;Tom&amp;rdquo;), add to the beginning (&amp;ldquo;Lisa&amp;rdquo;), add after Toma (&amp;ldquo;Fred &amp;ldquo;), add before Fred (&amp;ldquo;Jeff &amp;ldquo;), remove (&amp;ldquo;Lisa &amp;ldquo;), add to the end (&amp;ldquo;Mary &amp;ldquo;).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;Human&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;list1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
@@ -203,15 +237,650 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;И в конце хотелось бы напомнить, что весь проект можно будет лицезреть в самое ближайшее время &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And in the end, I would like to remind you that the whole project can be seen in the very near future &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science programming languages</title>
+      <link>https://neve7mind.github.io/en/post/post8_sci_prog.lang/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post8_sci_prog.lang/</guid>
+      <description>&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Язык разметки LaTeX&lt;/li&gt;
+&lt;li&gt;Язык программирования Julia&lt;/li&gt;
+&lt;li&gt;Язык программирования Octave&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;latex-markup-language&#34;&gt;LaTeX markup language&lt;/h2&gt;
+&lt;p&gt;LaTeX (pronounced /liquidlɑːtɛx/ or /uraleɪtɛx/[1]) is the most popular set of macro extensions (or macro-packets) of the TeX computer layout system that facilitates the set of complex documents.&lt;/p&gt;
+&lt;p&gt;This tool is widely used for creating scientific documents, writing books, and many other forms of publications. Not only does it allow you to create beautifully designed documents, but it also allows users to implement very quickly such complex elements of a printed set as mathematical expressions, tables, links and bibliographies, getting a consistent layout across all sections.&lt;/p&gt;
+&lt;p&gt;With the availability of a large number of open libraries (a little bit later), LaTEX’s capabilities are almost limitless. These libraries empower users even more by allowing you to add footnotes, draw diagrams, etc.&lt;/p&gt;
+&lt;p&gt;One of the most compelling reasons many people use LaTeX is to separate the content of a document from its style. This means that after writing the content, you can easily change its appearance. Similarly, one document style can be created and used to standardize the appearance of others.&lt;/p&gt;
+&lt;p&gt;This allows scientific journals to create templates for the proposed materials. Such templates have a given markup, leaving only the content to be added. In fact, there are hundreds of such templates, from various resumes to slide presentations.&lt;/p&gt;
+&lt;h2 id=&#34;julia-programming-language&#34;&gt;Julia programming language&lt;/h2&gt;
+&lt;p&gt;The Julia language is a cross-platform compiled, freely distributed programming language (MIT license) with dynamic typing, which has a number of advantages and disadvantages.
+The B Julia is a JIT-based compilation. The Just-in-Time (JIT) compilation allows both expressiveness of modern interpreted languages and performance of languages such as C and Fortran. The JIT compiler performs the compilation during the first run of the program, extracting from the text information not explicitly specified by the programmer, and using this information to optimize the generated machine code.&lt;/p&gt;
+&lt;p&gt;The advantages of the Julia language include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplicity is an intuitive language whose syntax resembles that of Python and MATLAB;&lt;/li&gt;
+&lt;li&gt;the performance of programs written in Julia is comparable to that of programs written in C or Fortran;&lt;/li&gt;
+&lt;li&gt;effective vectoring and parallelization of calculations, a large number of data types, including rational and complex numbers;&lt;/li&gt;
+&lt;li&gt;calculation in the absence of some data (there is a type given missing);&lt;/li&gt;
+&lt;li&gt;calculation precision setting (BigFloat data type, setprecision function);&lt;/li&gt;
+&lt;li&gt;the implementation of symbolic calculations using macro commands;&lt;/li&gt;
+&lt;li&gt;using libraries written in C and Fortran, and sharing libraries with Python and R;&lt;/li&gt;
+&lt;li&gt;integration with DBMS (PostgreSQL, MySQL, JSON). ;&lt;/li&gt;
+&lt;li&gt;support for Unicode characters;&lt;/li&gt;
+&lt;li&gt;the use of the multiple dispatch paradigm - the call of the function depends little on the type of parameters of the function (parametric polymorphism);&lt;/li&gt;
+&lt;li&gt;a good built-in mathematical library with linear algebra functions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Julia is a full programming language that has integer arithmetic, floating point operations, cycles, C-like structures, and even a goto operator analogue. However, in the language there is a very convenient possibility of vectoring calculations, which is characteristic of high-level languages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If we talk about the shortcomings of the Julia language, it should be noted that the compilation time of large programs can be quite noticeable (minutes);
+is a relatively new language, so the number of libraries in this language is relatively small ( compared to Python );&lt;/li&gt;
+&lt;li&gt;cannot create separately tested program - Julia programs work only in Julia environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;octave-programming-language&#34;&gt;Octave programming language&lt;/h2&gt;
+&lt;p&gt;MGNU Octave is a free system for mathematical computing[1] that uses a high-level MATLAB compatible language.&lt;/p&gt;
+&lt;p&gt;Octave introduces an interactive command interface to solve linear and nonlinear mathematical problems, as well as other numerical experiments. In addition, Octave can be used for batch processing. Octave uses arithmetic of real and complex scalars, vectors and matrices, has extensions for solving linear algebraic problems, finding the roots of systems of nonlinear algebraic equations, working with polynomials, solving various differential equations, integration of systems of differential and differential algebraic equations of the first order, integration of functions on finite and infinite intervals. This list can be easily expanded using the Octave language (or using dynamically downloadable modules created in C, C++, Fortran, etc.).&lt;/p&gt;
+&lt;p&gt;Researchers at the University of Maryland in the United States performed comparative analysis of mathematical computing using MATLAB, Octave, SciLab and FreeMat in a simple and complex scenario. In the first case the system of linear equations was solved and in the second - the finite-differential discretization of the Poisson equation in two-dimensional space. The main conclusion is that GNU Octave performs better than other open mathematical packages, demonstrating a comparable result (pages 23 and 25) than Matlab.&lt;/p&gt;
+&lt;p&gt;Scientific calculations made using open software have an additional «level of protection», because anyone can repeat the same calculations and check the validity of the results. The same calculations made on expensive software partially cut off the possibility of checking the results. The problem is actually much wider (English text) and it’s not just open or proprietary mathematics. It is no secret that scientific journals usually do not require authors to provide data and methods sufficient to guarantee the repetition of experimental results, model verification. Economists and financiers in particular often do this by simply keeping their data secret. Verification of calculations and conclusions among the sample of the array of articles with «classified» data gave unexpected results (English text). Science, like software, has to be open, which is why open math packs have value to society.&lt;/p&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;In scientific programming many languages and mathematical systems are used, but listed in this article, in my opinion, the most convenient and effective.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report design</title>
+      <link>https://neve7mind.github.io/en/post/post6_report_decor/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post6_report_decor/</guid>
+      <description>&lt;h2 id=&#34;rules-of-decorating-in-accordance-with-гост-15-2001-and-гост-71-2003&#34;&gt;Rules of decorating in accordance with ГОСТ 1.5-2001 and ГОСТ 7.1-2003&lt;/h2&gt;
+&lt;p&gt;The actual text of the report should be typed on the computer in Times New Roman font size 14 pt. (Microsoft Word text editor is used for text design). It is recommended that the font used in the illustrative material (tables and figures) be reduced to 12 pt. The line spacing in the main text is one-and-a-half. In the illustrative material, it is recommended to make the line spacing single. Page margins should be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;left field - 30 mm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;right field - 10 mm;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;top and bottom margin - 20 mm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each paragraph should start with a red line. The indentation of the paragraph is 12.5 mm. from the left border of the text.&lt;/p&gt;
+&lt;p&gt;Each section of the report should start with a new page. The name of the structural elements of the report «CONTENTS», «INTRODUCTION», «CONCLUSION», «LIST OF LITERATURE», «ANNEX», as well as the headings of the sections should be printed in capital letters and be located in the middle of the line. Sections are numbered with Arabic numerals (1, 2, 3). No dot at the end of headings.&lt;/p&gt;
+&lt;p&gt;The headings of sections may be highlighted in bold. It is not allowed to use underlining in headings, use of two or more types of highlighting in headers (for example, italics and bold font, italics and other color other than the main text), moving words in chapter headings, as well as the use of non-standard characters in the report text, the use of abbreviations in headers. In the text of the report, abbreviations of terms are allowed only after the introduction of a meaningful definition of the term. All pages of the report (except the applications) should be numbered, starting with «Introduction», which is numbered with the digit 3. Page numbers are located in the center of the bottom of the sheet without a dot.&lt;/p&gt;
+&lt;p&gt;Illustrative material (tables, drawings, formulas) is included in the report in order to visualize the argumentation and substantiation of the conclusions received by the student. Thus, the main part of the report is only the material that contributes to a better substantiation of the conclusions reached by the student. Tables, reporting forms and other factual material, which are the raw data from which the study was based, are not included in the main body of work but may be annexed. It is recommended that tables and figures based on actual baseline data be included directly in the main body of the report. All illustrative material should, if possible, be placed after the first reference to it in the text.&lt;/p&gt;
+&lt;p&gt;Equations and formulas should be separated from the text into a separate row. Formulae should use as symbols the symbols established by the relevant state standards and reflected in the format of formulae.&lt;/p&gt;
+&lt;p&gt;Literary sources used in the report writing process are specified at the end of the work before the application.&lt;/p&gt;
+&lt;p&gt;Example of the design of the bibliographic description:&lt;/p&gt;
+&lt;p&gt;Normative legal acts Constitution of the Russian Federation: offc. text. - M.: Marketing, 2017. - 39 p. Family Code of the Russian Federation: [feder. Law: adopted by the State. Duma 8 dec. 1995: as of 3 Jan. 2001]. - SPb.: Staun Country, 2001. - 94 pp.&lt;/p&gt;
+&lt;p&gt;One-volume book by one author: Glasunov V.A. Spatial mechanisms of parallel structure. M.: Science, 1991. 94 p.&lt;/p&gt;
+&lt;p&gt;The one-volume book of two authors: Abalakin V.K., Aksenov E.P., Grebenikov E.A., Demin V.G., Ryabov Y.A. Reference manual of celestial mechanics and Astrodynamics / under Rev. G.N. Duboshina. M.: Science, 1976. 864 p. Marshak I.S., Doynikov A.S., Giltsov V.P., Kirsanov V.P., Rovinsky R.E., Shchukin L.N., Feigenbaum M.G. Impulsive sources of light / under the district. J.S. Marshak. 2nd d. , recycled. and dop. M.: Energy, 1978. 472 p. Translation Book: Sebehey B. Theory of Orbits: Limited Problem of Three Tel: Per. c. c. under G.N. Duboshina. M.: Science, 1982. 656 p. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967. ]. Data K.J. Introduction to Database Systems: M. 1. Williams, 2006. 1328 p. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
+&lt;p&gt;Separate volume of multi-volume edition: Welding and welded materials: reference book. In 3 t. T. 1. Weldability of materials / ed. E.L. Makarov. M.: Metallurgy, 1991. 258 p. Dissertation: Pnev A.B. Optical-electronic measuring systems based on quasi-limited fiber-optic Bragg sensors: Dis. &amp;hellip; kand. techn. of science. M., 2008. 176 p.&lt;/p&gt;
+&lt;p&gt;Autoabstract thesis: Vishnyakov I.V. Models and methods of assessment of commercial banks in the conditions of uncertainty: autoef. dis. &amp;hellip; Kand. econ. Sciences. M., 2002. 15 p. Analytical Review: The Economy and Politics of Russia and CIS States: Analyses. Review, Apr. 2007 / Ros. Acad. science, In-t world economy and international. relations. M.,: IMEMO, 2007. 39 p.&lt;/p&gt;
+&lt;p&gt;Deposited scientific work: Gromov Y.Y., Derevuz M.M., Zemskaya N.A., Ivanova O.G., Mosyagina N.G. Algorithm of numerical solution of rigid differential equations / Tambov State Technical University. Tambov, 1999. 8 p. Dep. in VINITI 04.03.1999,  669-B1999. Standard: GOST R 517721-2001. Electronic household appliances. Input and output parameters and connection types.&lt;/p&gt;
+&lt;p&gt;Technical requirements. Introduction. 2002 - 01-01. M.: Publishing standards, 2001. 27 pp. Patent: Chugaeva V.I. Transceiver: pat. 2187888 Russian Federation. 2002. Bull.   23 (2 hours). 3 p.&lt;/p&gt;
+&lt;p&gt;Article in the periodical: Tchaikovsky M.M., Yadykin I.B. Optimum adjustment of PIDs for multi-link bilinear objects of control // Automation and telemechanics. 2009.   1. P. 130-146. Zviagin F.V. About one class of orbits in three and four sol/ Bulletin of MSTU named after. N.E. Bauman. Ser. Instrumentation. 2010.   2. P. 105 - 113. Stankevich I.V., Yakovlev M.E., Si Tu Htet. Development of the algorithm of contact interaction on the basis of the alternating method // Bulletin of MSTU. N.E. Bauman. Ser. Natural Sciences. 2011. Specials. of. «Applied Mathematics». P. 134-141.&lt;/p&gt;
+&lt;p&gt;Article in the collection: Dvinyaninova G.S. Compliment: Communicative status or strategy in discourse // Social power of the language: Sat. Science. tr. Voronezh, 2001. S. 42-49. Orlik A.G., Cobernik N.V. Obtaining wear-resistant anti-abrasive coatings // Works of MGTU them. N. E. Bauman. 2010.   602: Mathematical Modeling of Complex Technical Systems. P. 34-38. Article in the ongoing edition: Belova G.D. Some issues of criminal liability for violation of tax legislation // Current. Problems Prosecutor. Supervision. 2001. Page. 5: Procuratorial supervision over the implementation of criminal and criminal procedural legislation. Organization of activities of the Prosecutor’s Office. S. 46-49. Pictorists V.P., Pyatossin L.P. Complex connections of thorium with diantipirylmethane // Scientists. Zat. / Perm. kt. 1970.   207. p. 184-191. Work in the conference materials: Karpenko A.P., Seliverstov E.Y. Global optimization by swarm of particles on graphics processors // All. supercomputer conference «Scientific Service in the Internet: Scalability, Parallelism, Efficiency»: papers. M.: Moscow State University, 2009. C. 188-191. Simonov A. Sewage treatment: design of technical devices /7th Regional Conference of Young Researchers of the Volgograd Region (Volgograd, 12-15 May 2002): Thesis. Dr. Volgograd, 2002. p. 13-15.&lt;/p&gt;
+&lt;p&gt;Chapter in the book: Berliner E.M., Glazyrine I.B., Glazyrin B.E. Automation of individual operations in Word 2000 // Office 2000: 5 kn. in 1: self-learning guide. 2nd edition. revised. M., 2002. Gl. 14. P. 281-298. Article in multi-volume edition: Kulakov V.A. Victorian style // BR. M., 2006. T. 5. P. 308-309.&lt;/p&gt;
+&lt;p&gt;The report does not recommend retelling the content of textbooks, teaching aids, normative and specialized literature. This information should be refined and presented in the content of the work. Direct borrowing from sources without reference to the author or the instrument is not acceptable. When using digital data, official documents, quotations and other published material, a student must indicate the source and make a reference in square brackets. Example: [12, pp. 34], meaning: 12 - source number in the list of literature, 34 - page number. The attachment contains material supplementing the text of the report. For example, the data used for calculations; intermediate tables and charts that influenced the construction of final tables and figures; intermediate calculations showing the dynamics of the student’s evidence; description of algorithms; tables and drawings of non-standard format, etc. Applications are placed in the work after the list of literature. Each annex is sequentially numbered with Arabic numerals. If the application is more than one page, it is moved to another page and at the top is marked as «Continuation of the application &amp;hellip;». All applications should be referenced in the report text. The location of the annexes at the end of the document should follow the order in which the links to them appear in the text. Each application starts with a new page. In the upper right corner of the page, the word «ANNEX» is indicated and its serial number is placed (for example, «ANNEX 1»). Each application should have a header that appears on the next line after «ANNEX», and this header is centered around the text. If the documents have a large format, they should be stacked in A4 format. One page of this non-standard value is numbered as one page of the application (without adding it).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week? x3</title>
+      <link>https://neve7mind.github.io/en/post/post5_last-week/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post5_last-week/</guid>
+      <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
+&lt;p&gt;DD.MM.YY Пн&lt;/p&gt;
+&lt;p&gt;[00:24]&lt;/p&gt;
+&lt;p&gt;        Посмотрев &amp;ldquo;Побег из Шоушенка&amp;rdquo;, я переосознал себя и свою жизнь, как часто бывает после подобных фильмов или спектаклей. Пожалуй, это временное ощущение и да, через пару дней, а может быть, даже часов это чувство снова накроется толстым беспросветным слоем рутины, которая всеобъемлюще пожирает то, что раньше было принято называть жизнью.&lt;/p&gt;
+&lt;p&gt;        Почему мы так не ценим то время, которое нам отведено? Ту, единственную для всех нас песчинку, во время которой мы можем дышать, любить и умирать за любовь. Пожалуй, сегодня время - это единственная форма материи, заставляющая человека обернуться назад и спросить себя - себя тогдашнего, не угнетаемого мелочами, не поглощённого бессмысленностью: &amp;ldquo;А так ли я представлял себе свою жизнь?&amp;rdquo;. Наверняка большинство задавшихся впервые этим вопросом с громкой уверенностью ответят: &amp;ldquo;Что? Так ли я представлял свою жизнь? Что за вздор!.. Конечно, так. Как же иначе? А что, кто-то думает, что я недоволен своей жизнью, что я несчастлив?&amp;rdquo;. Но звенящая тишина пустых комнат даст более точный ответ, и встреча с этим ответом будет неизбежна, подобно тому, как неукоснительно упал взор Гая Монтэга на вентиляционную решётку, где хранились ответы на все все вопросы, когда-либо заданные.&lt;/p&gt;
+&lt;p&gt;        Так рассуждал, потягивая сигарету, молодой студент второго курса престижного столичного университета со странноватым названием &amp;ldquo;Технический университет имени Фредерика Тэйлора&amp;rdquo;, ну или как его называли сами студенты - ТУФТа. Частенько Николай, убегая от так надоевших ему математики и программирования, погружался в подобные рассуждения, коротая одинокие ночи. И эта ночь не стала исключением. Ну вот, Коля собрался с мыслями и снова задерживает дыхание для того, чтобы нырнуть в недра своих воспоминаний, и мы безвольно следуем за ним.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week? x2</title>
+      <link>https://neve7mind.github.io/en/post/post3_last-week/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post3_last-week/</guid>
+      <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
+&lt;p&gt;My week has been super unproductive, and all attempts to interrupt procrastination have resulted only in a reflection on the topic &amp;ldquo;What am I wasting my life on&amp;rdquo;. Sad and tasteless. The only thing that somehow brightened the fragility of being - a few meetings with friends. That’s all.&lt;/p&gt;
+&lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://neve7mind.github.io/en/post/post4_markdown/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post4_markdown/</guid>
+      <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code&gt;syntax_highlighter&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown &lt;code&gt;markmap&lt;/code&gt; code block and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;A simple mindmap defined as a Markdown list:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - wowchemy
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - wowchemy
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;charts&#34;&gt;Charts&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive charts.&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-981327564&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        return;
+      }
+      clearInterval( a );
+
+      Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+        Plotly.plot(&#39;chart-981327564&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown. The &lt;em&gt;math&lt;/em&gt; shortcode is new in v5.5-dev.)&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as 
+
+$\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
+&lt;p&gt;Academic enables you to use a wide range of &lt;a href=&#34;https://docs.hugoblox.com/getting-started/page-builder/#icons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icons from &lt;em&gt;Font Awesome&lt;/em&gt; and &lt;em&gt;Academicons&lt;/em&gt;&lt;/a&gt; in addition to &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/#emojis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emojis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are some examples using the &lt;code&gt;icon&lt;/code&gt; shortcode to render icons:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;terminal&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fas&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Terminal  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} Python  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;r-project&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;pack&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;fab&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}} R
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Terminal&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
+
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git version control</title>
+      <link>https://neve7mind.github.io/en/post/post2_git/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post2_git/</guid>
+      <description>&lt;h2 id=&#34;about-version-control&#34;&gt;About Version Control&lt;/h2&gt;
+&lt;p&gt;What is “version control”, and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
+&lt;h2 id=&#34;local-version-control-systems&#34;&gt;Local Version Control Systems&lt;/h2&gt;
+&lt;p&gt;Many people’s version-control method of choice is to copy files into another directory (perhaps a time-stamped directory, if they’re clever). This approach is very common because it is so simple, but it is also incredibly error prone. It is easy to forget which directory you’re in and accidentally write to the wrong file or copy over files you don’t mean to.&lt;/p&gt;
+&lt;p&gt;To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control.&lt;/p&gt;
+&lt;img src=&#34;1.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized Version Control Systems&lt;/h2&gt;
+&lt;p&gt;The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.&lt;/p&gt;
+&lt;p&gt;This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.&lt;/p&gt;
+&lt;p&gt;However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.&lt;/p&gt;
+&lt;img src=&#34;2.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed Version Control Systems&lt;/h2&gt;
+&lt;p&gt;This is where Distributed Version Control Systems (DVCSs) step in. In a DVCS (such as Git, Mercurial or Darcs), clients don’t just check out the latest snapshot of the files; rather, they fully mirror the repository, including its full history. Thus, if any server dies, and these systems were collaborating via that server, any of the client repositories can be copied back up to the server to restore it. Every clone is really a full backup of all the data.&lt;/p&gt;
+&lt;p&gt;Furthermore, many of these systems deal pretty well with having several remote repositories they can work with, so you can collaborate with different groups of people in different ways simultaneously within the same project. This allows you to set up several types of workflows that aren’t possible in centralized systems, such as hierarchical models.&lt;/p&gt;
+&lt;img src=&#34;3.png&#34; alt=&#34;drawing&#34; width=55%/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my week?</title>
+      <link>https://neve7mind.github.io/en/post/post1_last-week/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/post1_last-week/</guid>
+      <description>&lt;h2 id=&#34;monday-is-a-hard-day&#34;&gt;Monday is a hard day&lt;/h2&gt;
+&lt;p&gt;I’ve been visiting my parents since Saturday. Joined an online lecture, but instead of going to bed like every good student would, he took the initiative at the top and presented a report on operating system processes.&lt;/p&gt;
+&lt;p&gt;In the afternoon I returned to Moscow. More suburban train I hate only 2 commuter trains. The smell of phantom feces, wherever they sit, the provincials arguing about what beers they will open after the next stop, the great relocation of hares to neighboring carriages when conductors, aggressive grannies, privatized 2 rows and praising the authoritarian regime, established in the country (during the time of Stalin, of course). In order to somehow endure such manifestations of the aforementioned mass, I put on headphones and it saves&amp;hellip; But not for long: every 2 stations at the beginning of the car begin to appear county commentators with loudspeakers, from which, the eardrums burst like balloons launched at the Kremlin, and ears twisted into a tube. They seem to have everything: a raincoat, a towel, swimming trunks, a welding machine, ice cream, headphones, a Makarov pistol and contraceptives (I think the most necessary for the carriage contingent) - as they say, everything - from a loaf to a condom, and all of a hundred rubles. I think the only thing they don’t have is another salesman.&lt;/p&gt;
+&lt;p&gt;After an hour on the train and half an hour on the bus, I find myself at home, where I translate my spirit and sit down to do my homework.&lt;/p&gt;
+&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;tuesday-and-wednesday-are-hard-days&#34;&gt;Tuesday and Wednesday are hard days&lt;/h2&gt;
+&lt;p&gt;The night before, having decided to make a difference in my life, I got up at 6:00 in the morning, sleeping the most five hours in the last week. With closed eyes he made coffee and a lab. I went to volleyball and in the evening I met my brother in the craft - a friend-&lt;del&gt;masochist&lt;/del&gt; programmer. Overnight we wrote in Java. After a 1.5-hour sleep, he came to the university, where he died two couples in a row. Having failed, he went home to sleep, but since there is a lot of work, and in a day of only 24 hours (which genius came up with this!?), the day’s sleep made up a couple of hours, after which I did my hw.&lt;/p&gt;
+&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;thursday-is-a-hard-day-either&#34;&gt;Thursday is a hard day either&lt;/h2&gt;
+&lt;p&gt;I went to couples, after which I taught mathematics to my sadistic student. Briefly about him: this creature is not deprived of a sense of humor, and therefore for two hours I was a boiling kettle with red eyes (from lack of sleep!). Yes, yes, I had to edit all the puzzles in which the answer resembled at least the number 300. You just can’t imagine how much excitement this beautiful creature has had every time it’s reminded me that killing is worth eight to 20 years, because that’s the only thing that’s kept me sitting in place since these stupid theses like &amp;lsquo;2 {0.5} = 1&amp;rsquo;, &amp;ldquo;You can’t hit kids&amp;rdquo; and all that crap.&lt;/p&gt;
+&lt;p&gt;Having heroically gone through these trials, I went to bed exhausted.&lt;/p&gt;
+&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;friday---so-we-survived&#34;&gt;Friday - so we survived&lt;/h2&gt;
+&lt;p&gt;Extremely happy, since I realize that the work week has ended and the working weekend has begun.&lt;/p&gt;
+&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=55%/&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;I repent, I am sinful. I could have done much more if I had planned my time correctly and restored the regime. But in order to do that, we have to do all the labs, and in order to do all the labs, we have to find time for them, and in order to do them, we have to do all the labs, we have to&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I wish everyone peace and goodness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog with Jupyter Notebooks!</title>
+      <link>https://neve7mind.github.io/en/post/blog-with-jupyter/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/blog-with-jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
+               /en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_73179593afc46954cb4c21418984f7f4.webp 400w,
+               /en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
+               /en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_73179593afc46954cb4c21418984f7f4.webp&#34;
+               width=&#34;601&#34;
+               height=&#34;203&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Welcome to Academic!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;organize-your-notebooks&#34;&gt;Organize your notebooks&lt;/h2&gt;
+&lt;p&gt;Place the notebooks that you would like to publish in a &lt;code&gt;notebooks&lt;/code&gt; folder at the root of your website.&lt;/p&gt;
+&lt;h2 id=&#34;import-the-notebooks-into-your-site&#34;&gt;Import the notebooks into your site&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pipx install academic
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;academic import &lt;span class=&#34;s1&#34;&gt;&amp;#39;notebooks/**.ipynb&amp;#39;&lt;/span&gt; content/post/ --verbose
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The notebooks will be published to the folder you specify above. In this case, they will be published to your &lt;code&gt;content/post/&lt;/code&gt; folder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
+      <link>https://neve7mind.github.io/en/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://hugoblox.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://neve7mind.github.io/en/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:1313/en/slides/example/</link>
+      <link>https://neve7mind.github.io/en/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/slides/example/</guid>
+      <guid>https://neve7mind.github.io/en/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -329,6 +998,44 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://neve7mind.github.io/en/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://neve7mind.github.io/en/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
