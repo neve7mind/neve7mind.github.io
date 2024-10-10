@@ -38,7 +38,7 @@
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://neve7mind.github.io/en/post/post7_last-week/</guid>
       <description>&lt;h2 id=&#34;there-will-be-no-longread&#34;&gt;There will be no longread&lt;/h2&gt;
-&lt;p&gt;Not to say that something out of the ordinary happened last week. I read &amp;ldquo;No change on the Western Front&amp;rdquo; Remark. Fatalism strengthened, so to speak. Went to my family in the area. Tired of your self-reflection, so just look at this beauty from our site).&lt;/p&gt;
+&lt;p&gt;Not to say that something out of the ordinary happened last week. I read &amp;ldquo;No change on the Western Front&amp;rdquo; Remark. Fatalism strengthened, so to speak. Went to my family in the area. Tired of your self-reflection, so just look at this beauty from our site)&lt;/p&gt;
 &lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
 &lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
 &lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
@@ -462,7 +462,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-851376924&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-417268593&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -472,7 +472,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-851376924&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-417268593&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
