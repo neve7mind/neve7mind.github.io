@@ -18,7 +18,7 @@
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>https://neve7mind.github.io/ru/project/project2_infosec_course/</guid>
       <description>&lt;h2 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h2&gt;
-&lt;p&gt;Выполнение контрольных заданий внешнего курса &amp;ldquo;Основы Кибербезопасности&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Выполнение контрольных заданий внешнего курса &lt;a href=&#34;https://stepik.org/course/111512/info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Основы Кибербезопасности&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;Как работает интернет: базовые сетевые протоколы&lt;/h2&gt;
 &lt;p&gt;UDP - протокол сетевого уровня
 TCP - протокол транспортного уровня
@@ -1119,7 +1119,479 @@ IP - протокол сетевого уровня,
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;И в конце хотелось бы напомнить, что весь проект можно будет лицезреть в самое ближайшее время &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;введение-в-криптографию&#34;&gt;Введение в криптографию&lt;/h2&gt;
+&lt;p&gt;Асимметричные криптографические системы подразумевают под собой то, что пара ключей есть у обоих сторон.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_a1430e5ead64fdc0f45e174983646a70.webp 400w,
+               /ru/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_1751f7dd65d6f0266008d139dca99598.webp 760w,
+               /ru/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_a1430e5ead64fdc0f45e174983646a70.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;370&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отмечены основные условия для криптографической хэш-функции.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_168ae1e37029f494e16820b1f99497d1.webp 400w,
+               /ru/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_e027558b2a6488714836e86a0f09ee40.webp 760w,
+               /ru/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_168ae1e37029f494e16820b1f99497d1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;451&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отмечены алгоритмы цифровой подписи.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_50c2ef968b9867c9970ebc6088fd6246.webp 400w,
+               /ru/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_ba4ca439c3e2762ca2bf045698ec9c70.webp 760w,
+               /ru/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_50c2ef968b9867c9970ebc6088fd6246.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В информационной безопасности аутентификация сообщения или аутентификация источника данных-это свойство, которое гарантирует, что сообщение не было изменено во время передачи (целостность данных) и что принимающая сторона может проверить источник сообщения.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_8149b8076fd0ea1e85ae5e67f47ff6aa.webp 400w,
+               /ru/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_5aee5035c86621a6b4bbbeedfff11ae0.webp 760w,
+               /ru/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_8149b8076fd0ea1e85ae5e67f47ff6aa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Определение обмена ключами Диффи-Хэллмана.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.1.5&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_f598ace18014ba6f8a4be16c594605e8.webp 400w,
+               /ru/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_cd775a99e9df14aea425fe7e84e49cb7.webp 760w,
+               /ru/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_f598ace18014ba6f8a4be16c594605e8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;цифровая-подпись&#34;&gt;Цифровая подпись&lt;/h2&gt;
+&lt;p&gt;По определению цифровой подписи протокол ЭЦП относится к протоколам с публичным ключом.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_76f8da9e7604538434dd32facc537b8e.webp 400w,
+               /ru/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_15cf0ab15b43e548bed1f956874cb969.webp 760w,
+               /ru/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_76f8da9e7604538434dd32facc537b8e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;398&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Aлгоритм верификации электронной подписи состоит в следующем. На первом этапе получатель сообщения строит собственный вариант хэш-функции подписанного документа. На втором этапе происходит расшифровка хэш-функции, содержащейся в сообщении с помощью открытого ключа отправителя. На третьем этапе производится сравнение двух хэш- функций. Их совпадение гарантирует одновременно подлинность содержимого документа и его авторства.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_2d3851b0ce01e9dbad399ea58ed0e9f0.webp 400w,
+               /ru/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_5ffb5bd238ce7d0ee42278142504af7b.webp 760w,
+               /ru/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_2d3851b0ce01e9dbad399ea58ed0e9f0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;440&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Электронная подпись обеспечивает все указанное, кроме конфиденциальности.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_d80a7dd8eec81cf44846b2461f402bf3.webp 400w,
+               /ru/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_f43a5ed91f655a17b16757a47cb29772.webp 760w,
+               /ru/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_d80a7dd8eec81cf44846b2461f402bf3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для отправки налоговой отчетности в ФНС используется усиленная квалифицированная электронная подпись.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_ea493f62b885450c808e30ed7b99fff1.webp 400w,
+               /ru/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_fe661aadf118d391c6a7b81e3cef7263.webp 760w,
+               /ru/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_ea493f62b885450c808e30ed7b99fff1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;409&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Верный ответ укзаан на изображении.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.2.5&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_2f634de355d1e7e196e6856618991df1.webp 400w,
+               /ru/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_8c74d4628dc3f96cc391539bbd22db6e.webp 760w,
+               /ru/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_2f634de355d1e7e196e6856618991df1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;415&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;электронные-платежи&#34;&gt;Электронные платежи&lt;/h2&gt;
+&lt;p&gt;Известные платежные системы - Visa, MasterCard, МИР.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.3.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_ebab1cf30f7f6e620e142426f368cf8f.webp 400w,
+               /ru/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_daae8665444fae63337c4650d5be6aac.webp 760w,
+               /ru/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_ebab1cf30f7f6e620e142426f368cf8f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;519&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Верный ответ на изображении.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.3.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_c78bb82fd6ade275ce3fac8d5be3cd40.webp 400w,
+               /ru/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_dd3d32f698fb0ebb69d993d5e39e8717.webp 760w,
+               /ru/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_c78bb82fd6ade275ce3fac8d5be3cd40.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;448&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При онлайн платежах используется многофакторная аутентификация.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.3.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_d754a3a891eeb3509ce7060c8e1465d3.webp 400w,
+               /ru/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_c7f5efc8cac8bbdd3044e00aee140395.webp 760w,
+               /ru/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_d754a3a891eeb3509ce7060c8e1465d3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;блокчейн&#34;&gt;Блокчейн&lt;/h2&gt;
+&lt;p&gt;Proof-of-Work, или PoW, (доказательство выполнения работы) — это алгоритм достижения консенсуса в блокчейне; он используется для подтверждения транзакций и создания новых блоков. С помощью PoW майнеры конкурируют друг с другом за завершение транзакций в сети и за вознаграждение.
+Пользователи сети отправляют друг другу цифровые токены, после чего все транзакции собираются в блоки и записываются в распределенный реестр, то есть в блокчейн.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.4.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_7913b0e92c8d7d9dbfac97c45411b1db.webp 400w,
+               /ru/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_f67120bc00b7894b1edee094b4425904.webp 760w,
+               /ru/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_7913b0e92c8d7d9dbfac97c45411b1db.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Консенсус блокчейна — это процедура, в ходе которой участники сети достигают согласия о текущем состоянии данных в сети. Благодаря этому алгоритмы консенсуса устанавливают надежность и доверие к самоу сети.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.4.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_0c259f29fc1005ded1842ed5618fca04.webp 400w,
+               /ru/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_b817eb2cbe5225fa78a4e7f31a192d9a.webp 760w,
+               /ru/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_0c259f29fc1005ded1842ed5618fca04.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;437&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ - цифровая подпись.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 4.4.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_c26b2bf4c8506256cd0b020660c83cdb.webp 400w,
+               /ru/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_1f363bb47e6a6bbdc4884e222312da2e.webp 760w,
+               /ru/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_c26b2bf4c8506256cd0b020660c83cdb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;395&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
+&lt;p&gt;Курс &amp;ldquo;Основы кибербезопасности&amp;rdquo; был полностью пройден. Знания получены.&lt;/p&gt;
+&lt;p&gt;И в конце хотелось бы отметить, что весь проект можно лицезреть &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/study_2024-2025_infosec/tree/master/external-course&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ссылка на курс: &lt;a href=&#34;https://stepik.org/course/111512/info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;тык&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
