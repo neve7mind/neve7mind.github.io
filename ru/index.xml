@@ -33,16 +33,1113 @@
     </item>
     
     <item>
-      <title>Как прошла моя неделя? x4</title>
-      <link>https://neve7mind.github.io/ru/post/post7_last-week/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://neve7mind.github.io/ru/post/post7_last-week/</guid>
-      <description>&lt;h2 id=&#34;лонгрида-не-будет&#34;&gt;Лонгрида не будет&lt;/h2&gt;
-&lt;p&gt;Не сказать, что на неделе произошло что-то из ряда вон выходящее. Прочитал &amp;ldquo;На Западном фронте без перемен&amp;rdquo; Ремарка. Фатализм крепчал, так сказать. Съездил к родным в область. Устал от этой вашей саморефлексии, поэтому просто посмотрите на эту красоту с нашего участка)&lt;/p&gt;
-&lt;img src=&#34;2.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
-&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
-&lt;img src=&#34;3.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
-&lt;img src=&#34;4.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
+      <title>Внешний курс. Основы Кибербезопасности</title>
+      <link>https://neve7mind.github.io/ru/project/project2_infosec_course/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/ru/project/project2_infosec_course/</guid>
+      <description>&lt;h2 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h2&gt;
+&lt;p&gt;Выполнение контрольных заданий внешнего курса &amp;ldquo;Основы Кибербезопасности&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;как-работает-интернет-базовые-сетевые-протоколы&#34;&gt;Как работает интернет: базовые сетевые протоколы&lt;/h2&gt;
+&lt;p&gt;UDP - протокол сетевого уровня
+TCP - протокол транспортного уровня
+HTTPS - протокол прикладного уровня
+IP - протокол сетевого уровня,
+поэтому ответ HTTPS.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_ac5caad090cf8205a23fca7e1e67fa2d.webp 400w,
+               /ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_372d34a2ac5c264379af210cf7906cb9.webp 760w,
+               /ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_ac5caad090cf8205a23fca7e1e67fa2d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ранее было упомянуто, что протокол TCP - transmission control protocol - работает на транспортном уровне.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_22782ec86d3e55c785eb07a00f054dbd.webp 400w,
+               /ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_b5e8163e7671927f2f4cb51e75317d3b.webp 760w,
+               /ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_22782ec86d3e55c785eb07a00f054dbd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В адресе типа IPv4 не может быть чисел больше 255, поэтому первые два варианта не подходят.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_abeb8c22386756c1ce9c3505e35dde14.webp 400w,
+               /ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_0a194d0ff2a4ff8a6615d8e58cdac7c7.webp 760w,
+               /ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_abeb8c22386756c1ce9c3505e35dde14.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;433&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;DNS-сервер, Domain name server — приложение, предназначенное для ответов на DNS-запросы по соответствующему протоколу Обязательное условие – Сопоставление сервером доменных имен доменного имени с IP-адресом называется разрешением имени и адреса.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_96ece955a034e53d340bada0003ad385.webp 400w,
+               /ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_978804ea0d1ac650211d8e89049da4b6.webp 760w,
+               /ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_96ece955a034e53d340bada0003ad385.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Распределение протоколов в модели TCP/IP:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Прикладной уровень (Application Layer): HTTP, RTSP, FTP, DNS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Транспортный уровень (Transport Layer): TCP, UDP, SCTP, DCCP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сетевой (Межсетевой) уровень (Network Layer): IP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Уровень сетевого доступа (Канальный) (Link Layer): Ethernet, IEEE 802.11, WLAN, SLIP, Token Ring, ATM и MPLS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.5&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_954c38d5053c95751be973b84dd3a3fe.webp 400w,
+               /ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_528430753047a68bf5e58c55f8875ee4.webp 760w,
+               /ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_954c38d5053c95751be973b84dd3a3fe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;325&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Протокол http передает не зашифрованные данные, а протокол https уже будет передавать зашифрованные данные.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.6&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_508ec31bbc30a4061bdd879ca8a1f967.webp 400w,
+               /ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_69e0c93897770ae133eb3abfd0f04bf1.webp 760w,
+               /ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_508ec31bbc30a4061bdd879ca8a1f967.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;https передает зашифрованные данные, одна из фаз - передача данных, другая должна быть рукопожатием.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.7&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_b8dbc8a68b15bb349e7426d07334b6cb.webp 400w,
+               /ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_665e5fb7987359d74e6a24701520df32.webp 760w,
+               /ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_b8dbc8a68b15bb349e7426d07334b6cb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;374&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TLS определяется и клиентом, и сервером, чтобы было возможно подключиться.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.8&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_3d66a0f17f470b25c0824e326a40ffa8.webp 400w,
+               /ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_8d6dcded4afb73344dc52d04d71b87c9.webp 760w,
+               /ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_3d66a0f17f470b25c0824e326a40ffa8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на изобрадении, остальные варианты в протоколе предусмотрены.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.1.9&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_15204098632d3d526b3ea8f2a64f2eeb.webp 400w,
+               /ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_ff7a6f080eb3dd2e248173857daa7e5c.webp 760w,
+               /ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_15204098632d3d526b3ea8f2a64f2eeb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;329&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;персонализация-сети&#34;&gt;Персонализация сети&lt;/h2&gt;
+&lt;p&gt;Куки точно не хранят пароли и IP-адреса, а id ceccии и идентификатор хранят.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_c58f183f1100a4eb2ab9f632a951cba7.webp 400w,
+               /ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_a3e9ef300ca9e925abf71f08c540ed6a.webp 760w,
+               /ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_c58f183f1100a4eb2ab9f632a951cba7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;440&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Конечно же, куки не делают соединение более надежным.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_83ff543cc29ceb3ca3086e8e0f7225fc.webp 400w,
+               /ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_0d61de8ce2249ba596c5e9b93a08c3ed.webp 760w,
+               /ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_83ff543cc29ceb3ca3086e8e0f7225fc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;404&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на изображении.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_c298404ffe206e0972477a7161572e78.webp 400w,
+               /ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_8ec9c336da1847af569819507f09919b.webp 760w,
+               /ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_c298404ffe206e0972477a7161572e78.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;342&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сессионные куки хранятся в течение сессии, то есть пока используется веб-сайт.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.2.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_b58575f8c986a99d38ca19db62a58763.webp 400w,
+               /ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_4972527ecc2801179260981e3188005d.webp 760w,
+               /ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_b58575f8c986a99d38ca19db62a58763.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;359&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Необходимо три узла - входной, промежуточный и выходной.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_20a00a6a51018e3970cc78d080c44336.webp 400w,
+               /ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_333580ff04c9dc37fb2f7502ca3d3dfc.webp 760w,
+               /ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_20a00a6a51018e3970cc78d080c44336.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;браузер-tor-анонимизация&#34;&gt;Браузер TOR. Анонимизация&lt;/h2&gt;
+&lt;p&gt;IP-адрес не должен быть известен охранному и промежуточному узлам.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_74208d6f323bb8ab152bb65953947ea2.webp 400w,
+               /ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_b451e1ea001f1d7f4a36b1601efca8b2.webp 760w,
+               /ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_74208d6f323bb8ab152bb65953947ea2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отправитель генерирует общий секретный ключ со узлами, через которые идет передача, то есть со всеми.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_446c78cc69fae55b01ce1511202df8bd.webp 400w,
+               /ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_8e942e7542ed41811cb9eb9caf422778.webp 760w,
+               /ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_446c78cc69fae55b01ce1511202df8bd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для получаения пакетов не нужно использовать TOR. TOR — это технология, которая позволяет с некоторым успехом скрыть личность человека в интернете.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.3.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_3596b243b49c7958a108a652f3cfd58c.webp 400w,
+               /ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_632bee3c3db6058fe947da266fdef5a2.webp 760w,
+               /ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_3596b243b49c7958a108a652f3cfd58c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;368&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:017 width=70%}&lt;/p&gt;
+&lt;h2 id=&#34;беспроводные-сети-wi-fi&#34;&gt;Беспроводные сети Wi-fi&lt;/h2&gt;
+&lt;p&gt;Действительно, это определение Wi-Fi.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_e0fe32f26882d6240dfbfb4db371e457.webp 400w,
+               /ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_ef838618bd276729605991952e4fea58.webp 760w,
+               /ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_e0fe32f26882d6240dfbfb4db371e457.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для целей работы в Интернете Wi-Fi обычно располагается как канальный уровень (эквивалентный физическому и канальному уровням модели OSI) ниже интернет-уровня интернет-протокола. Это означает, что узлы имеют связанный интернет-адрес, и при подходящем подключении это обеспечивает полный доступ в Интернет.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_3cc9ff4560ff916508e068959dc08c26.webp 400w,
+               /ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_595e6cacffdde2beb6a8343dc72127dc.webp 760w,
+               /ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_3cc9ff4560ff916508e068959dc08c26.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WEP (Wired Equivalent Privacy) – устаревший и небезопасный метод проверки подлинности. Это первый и не очень удачный метод защиты. Злоумышленники без проблем получают доступ к беспроводным сетям, которые защищены с помощью WEP, был заменен остальными представленными.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_dc26e961af8b425375a99d6ba65170a6.webp 400w,
+               /ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_c1a8210813b82f79e66b743b09d55f4f.webp 760w,
+               /ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_dc26e961af8b425375a99d6ba65170a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Нужно аутентифицировать устройства и позже передаются зашифрованные данные.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_e1489ec8edea9a2da2f8fecb9a0c32eb.webp 400w,
+               /ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_60a83f4ccb4ed5f7122176490bf3d614.webp 760w,
+               /ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_e1489ec8edea9a2da2f8fecb9a0c32eb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В целом, понятно по названию, что WPA2 Personal для личного использования, то есть для домашней сети, enterprise - для предпиятий.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 2.4.5&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1682e20c03d7ba2674f95e72e9490f72.webp 400w,
+               /ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_67bf654e7210ac21cd529f60fdaeacfb.webp 760w,
+               /ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1682e20c03d7ba2674f95e72e9490f72.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;шифрование-диска&#34;&gt;Шифрование диска&lt;/h2&gt;
+&lt;p&gt;Шифрование  диска - технология защиты информации, которая переводит данные на диске в нечитаемый код. Само собой можно зашифровать загрузочный сектор диска.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.1.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_5b7b79f65addfd9658103e02b7cd2df2.webp 400w,
+               /ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_9822b5da05cfb2f6f6000a7ba6f59f78.webp 760w,
+               /ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_5b7b79f65addfd9658103e02b7cd2df2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Шифрование диска основано на симметричном шифровании.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.1.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_e0e90f6f22c6c407f3a70dccd260051a.webp 400w,
+               /ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_453d7c0e3dd7f98f75ef63f0e01c446f.webp 760w,
+               /ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_e0e90f6f22c6c407f3a70dccd260051a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отмечены программы, с помощью которых можно зашифровать жетский диск.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.1.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_8a8fd894a579ac9534be32d0c391bad3.webp 400w,
+               /ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_cdc1c4b551a0c6ec06b8bed189e79638.webp 760w,
+               /ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_8a8fd894a579ac9534be32d0c391bad3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;пароли&#34;&gt;Пароли&lt;/h2&gt;
+&lt;p&gt;Стойкий пароль - тот, который тяжлее подобрать, он должен быть со спец. символами и длинный.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_399d6270e8603f839ff2987f7e929409.webp 400w,
+               /ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_3178808434f59832cfb9b202be13db4e.webp 760w,
+               /ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_399d6270e8603f839ff2987f7e929409.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;393&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Все варианты, кроме менеджера паролей, совершенно не надежные.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_16d13a8f5cf061c709db93727e0114f4.webp 400w,
+               /ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_a79486835870a0750d60ea004d2e4acf.webp 760w,
+               /ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_16d13a8f5cf061c709db93727e0114f4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Капча нужна для проверки на то, что за экраном &amp;ldquo;не робот&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.3&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_2ba6a57e57dcc5f438a79b1425969b86.webp 400w,
+               /ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_89062628279ab9da614ca225be6285ef.webp 760w,
+               /ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_2ba6a57e57dcc5f438a79b1425969b86.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Опасно хранить пароли в открытом виде, поэтому хранят их хэши.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.4&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_4bdbccede152b2ffcdc70b4d29ec0ad6.webp 400w,
+               /ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_96aef433993a09e842a5924664f4a8ff.webp 760w,
+               /ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_4bdbccede152b2ffcdc70b4d29ec0ad6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Соль не поможет.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.5&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_fa4f238533bbddf470a1e3f97096d7f9.webp 400w,
+               /ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_24b3f3ccab38481cbc82939a17d29537.webp 760w,
+               /ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_fa4f238533bbddf470a1e3f97096d7f9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Все приведенные меры защищают от утечек данных.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.2.6&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_52f5617da1050909d6b6d803e11a5cdb.webp 400w,
+               /ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_adba720d680541c94703d715f30a5d1f.webp 760w,
+               /ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_52f5617da1050909d6b6d803e11a5cdb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;фишинг&#34;&gt;Фишинг&lt;/h2&gt;
+&lt;p&gt;Фишинговые ссылки очень похожи на ссылки известных сервисов, но с некоторыми отличиями.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.3.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_a3845c650096618f5e9f1d50c8ab33f2.webp 400w,
+               /ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_e6b13a160324297c8a810e72ff2a0128.webp 760w,
+               /ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_a3845c650096618f5e9f1d50c8ab33f2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Да, может, например, если пользователя со знакомым адресом взломали.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.3.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_83578d490a7a9c15bca1cc92880d26a7.webp 400w,
+               /ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_211bd9b51177f667d5bb0d4c8c4195ce.webp 760w,
+               /ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_83578d490a7a9c15bca1cc92880d26a7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;354&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;вирусы-примеры&#34;&gt;Вирусы. Примеры&lt;/h2&gt;
+&lt;p&gt;Ответ дан в соответствии с определением.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.4.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_360c6e7feabfacf2eeb083d4b0b028be.webp 400w,
+               /ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_bd6ae4e003a0d8e65b3859e0ad3ce313.webp 760w,
+               /ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_360c6e7feabfacf2eeb083d4b0b028be.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Троян маскируется под обычную программу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.4.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_3509ddd523508f786575ac4ad5c10bba.webp 400w,
+               /ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_fdec7b6af56b6f8f64a9dd9d6ed8d1d4.webp 760w,
+               /ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_3509ddd523508f786575ac4ad5c10bba.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;безопасность-мессенджеров&#34;&gt;Безопасность мессенджеров&lt;/h2&gt;
+&lt;p&gt;При установке первого сообщения отправителем формируется ключ шифрования.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.5.1&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_2d6c86a4108da2db935b2024955924c7.webp 400w,
+               /ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_8f94e2a3003003e6e7935a8ae9ff2f31.webp 760w,
+               /ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_2d6c86a4108da2db935b2024955924c7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;395&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Суть сквозного шифрования состоит в том, что сообзения передаются по узлам связи в зашифрованном виде.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Вопрос 3.5.2&#34; srcset=&#34;
+               /ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_6a86eac59c14ef5ea11209df651283ab.webp 400w,
+               /ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_d836339c1c5b8845ce75b66fcfd62fad.webp 760w,
+               /ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_6a86eac59c14ef5ea11209df651283ab.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;И в конце хотелось бы напомнить, что весь проект можно будет лицезреть в самое ближайшее время &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ЗДЕСЬ&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -242,125 +1339,6 @@
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
-      <link>https://neve7mind.github.io/ru/post/post8_sci_prog.lang/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://neve7mind.github.io/ru/post/post8_sci_prog.lang/</guid>
-      <description>&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
-&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
-&lt;p&gt;В статье мы рассмотрим следующие темы:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Язык разметки LaTeX&lt;/li&gt;
-&lt;li&gt;Язык программирования Julia&lt;/li&gt;
-&lt;li&gt;Язык программирования Octave&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;язык-разметки-latex&#34;&gt;Язык разметки LaTeX&lt;/h2&gt;
-&lt;p&gt;LaTeX (произносится /ˈlɑːtɛx/ или /ˈleɪtɛx/[1]) — наиболее популярный набор макрорасширений (или макропакет) системы компьютерной вёрстки TeX, который облегчает набор сложных документов.&lt;/p&gt;
-&lt;p&gt;Этот инструмент используется повсеместно для создания научных документов, написания книг, а также многих других форм публикаций. Он позволяет не только создавать красиво оформленные документы, но также дает пользователям возможность очень быстро реализовывать такие сложные элементы печатного набора, как математические выражения, таблицы, ссылки и библиографии, получая согласованную разметку по всем разделам.&lt;/p&gt;
-&lt;p&gt;Благодаря доступности большого числа открытых библиотек (об этом чуть позже) возможности LaTEX становятся практически безграничны. Эти библиотеки расширяют возможности пользователей еще больше, позволяя добавлять сноски, рисовать схемы и пр.&lt;/p&gt;
-&lt;p&gt;Одна из наиболее веских причин, по которой многие используют LaTeX, заключается в отделении содержания документа от его стиля. Это означает, что после написания содержимого, можно с легкостью изменять его внешний вид. Аналогичным образом, можно создать один стиль документа и использовать его для стандартизации внешнего вида других.&lt;/p&gt;
-&lt;p&gt;Это позволяет научным журналам создавать шаблоны для предлагаемых на рассмотрение материалов. Такие шаблоны имеют заданную разметку, в результате чего добавить остается лишь содержание. На деле существуют сотни подобных шаблонов, начиная с различных резюме и заканчивая презентациями слайдов.&lt;/p&gt;
-&lt;h2 id=&#34;язык-программирования-julia&#34;&gt;Язык программирования Julia.&lt;/h2&gt;
-&lt;p&gt;Язык Julia - это кросс-платформенный компилируемый свободно распространяемый язык программирования (лицензия MIT) с динамической типизацией, который имеет ряд достоинств и недостатков.
-B Julia pеализована возможность JIT - компиляции на основе LLVM. Компиляция Just-in-Time (JIT) позволяет обеспечить одновременно выразительность современных интерпретируемых языков и производительность таких языков, как С и Fortran. Компилятор JIT выполняет компиляцию во время первого запуска программы, извлекая из текста информацию, не указанную явно программистом, и используя эту информацию для оптимизации создаваемого машинного кода.&lt;/p&gt;
-&lt;p&gt;К достоинствам языка Julia можно отнести следующее:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Простота интуитивно понятный язык, синтаксис которого напоминает синтаксис Python и MATLAB;&lt;/li&gt;
-&lt;li&gt;быстродействие вычислений программ, написанных на Julia, сопоставимо с быстродействием программ, написанных на С или Fortran;&lt;/li&gt;
-&lt;li&gt;эффективная векторизация и распараллеливание вычислений, большое число типов данных, включая рациональный и комплексные числа;&lt;/li&gt;
-&lt;li&gt;проведение расчетов при отсутствии некоторых данных (есть тип дан ных missing);&lt;/li&gt;
-&lt;li&gt;задание точности вычислений (тип данных BigFloat, функция setprecision);&lt;/li&gt;
-&lt;li&gt;реализация символьных вычислений с помощью макро команд;&lt;/li&gt;
-&lt;li&gt;использование библиотек, написанных на С и Fortran, и обмен библиотеками с Python и R;&lt;/li&gt;
-&lt;li&gt;интеграция с СУБД (PostgreSQL, MySQL, JSON).;&lt;/li&gt;
-&lt;li&gt;поддержка символов Unicode;&lt;/li&gt;
-&lt;li&gt;использование парадигмы множественной диспетчеризации - вызов функции слабо зависит от типа параметров функции (параметрический полиморфизм);&lt;/li&gt;
-&lt;li&gt;наличие хорошей встроенной математической библиотеки с функциями линейной алгебры.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Julia - это полноценный язык программирования, в котором есть целочисленная арифметика, операции с плавающей точкой, циклы, работа с С-подобными структурами и даже аналог оператора goto. Вместе с тем в языке существует очень удобная возможность векторизации расчетов, которая характерна для языков высокого уровня.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Если говорить о недостатках языка Julia, то следует отметить , что время компиляции больших программ может быть довольно заметным (минуты);&lt;/li&gt;
-&lt;li&gt;язык относительно новый , поэтому число библиотек на этом языке относительно невелико ( по сравнению с Python );&lt;/li&gt;
-&lt;li&gt;невозможно создать отдельно испролняемую программу - программы на языке Julia работают только в среде Julia.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;язык-программирования-octave&#34;&gt;Язык программирования Octave&lt;/h2&gt;
-&lt;p&gt;MGNU Octave — свободная система для математических вычислений[1], использующая совместимый с MATLAB язык высокого уровня.&lt;/p&gt;
-&lt;p&gt;Octave представляет интерактивный командный интерфейс для решения линейных и нелинейных математических задач, а также проведения других численных экспериментов. Кроме того, Octave можно использовать для пакетной обработки. Язык Octave оперирует арифметикой вещественных и комплексных скаляров, векторов и матриц, имеет расширения для решения линейных алгебраических задач, нахождения корней систем нелинейных алгебраических уравнений, работы с полиномами, решения различных дифференциальных уравнений, интегрирования систем дифференциальных и дифференциально-алгебраических уравнений первого порядка, интегрирования функций на конечных и бесконечных интервалах. Этот список можно легко расширить, используя язык Octave (или используя динамически загружаемые модули, созданные на языках C, C++, Фортран и др.).&lt;/p&gt;
-&lt;p&gt;Исследователи из Университета Мэриленда в США провели сравнительный анализ математических вычислений, используя MATLAB, Octave, SciLab и FreeMat в простом сценарии и в сложном. В первом случае решали систему линейных уравнений а в втором — конечно-разностную дискретизацию уравнения Пуассона в двухмерном пространстве. Основной вывод — GNU Octave справляется с задачами лучше остальных открытых математических пакетов, демонстрируя результат (страницы 23 и 25) сопоставимый с матлабовским.&lt;/p&gt;
-&lt;p&gt;Научные расчеты, выполненные с использованием открытого ПО имеют дополнительный «уровень защиты», ведь при желании любой может повторить прогнать те же самые расчеты и проверить валидность результатов. Те же самые вычисления, выполненные на дорогущем ПО, частично отсекают возможность проверки результатов. Проблема на самом деле гораздо шире (английский текст) и дело не только в открытых или проприетарных математических программах. Не секрет, что научные журналы как правило не требуют от авторов предоставить данные и методику, достаточные для гарантированного повтора результатов эксперимента, проверки модели. Особенно часто этим грешат экономисты и финансисты, попросту засекречивая свои данные. Проверка расчетов и выводов среди выборки из массива статей с «засекреченными» данными дала неожиданные результаты (английский текст). Наука, как и софт, должна быть открытой, вот почему открытые математические пакеты имеют ценность для всего общества.&lt;/p&gt;
-&lt;h2 id=&#34;выводы&#34;&gt;Выводы&lt;/h2&gt;
-&lt;p&gt;В научном программировании используется много языков программирования и математических систем, но перечисленные в данной статье, на мой взгляд, наиболее удобные и эффективные.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Оформление отчёта</title>
-      <link>https://neve7mind.github.io/ru/post/post6_report_decor/</link>
-      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://neve7mind.github.io/ru/post/post6_report_decor/</guid>
-      <description>&lt;h2 id=&#34;правила-оформления-в-соответствии-с-гост-15-2001-и-гост-71-2003&#34;&gt;Правила оформления в соответствии с ГОСТ 1.5-2001 и ГОСТ 7.1-2003&lt;/h2&gt;
-&lt;p&gt;Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;левое поле - 30 мм;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;правое поле - 10 мм;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;верхнее и нижнее поле - 20 мм.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Каждый абзац должен начинаться с красной строки. Отступ абзаца - 12,5 мм. от левой границы текста.&lt;/p&gt;
-&lt;p&gt;Каждый раздел отчета должен начинаться с новой страницы. Наименование структурных элементов отчета «СОДЕРЖАНИЕ», «ВВЕДЕНИЕ», «ЗАКЛЮЧЕНИЕ», «СПИСОК ЛИТЕРАТУРЫ», «ПРИЛОЖЕНИЕ», а также заголовки разделов должны быть напечатаны прописными буквами и располагаться посередине строки. Разделы нумеруются арабскими цифрами (1, 2, 3). Точка в конце заголовков не ставится.&lt;/p&gt;
-&lt;p&gt;Допускается выделение заголовков разделов жирным шрифтом. Не допускается использование подчеркивания в заголовках, использование двух и более типов выделения в заголовках (например, курсив и жирный шрифт, курсив и другой цвет, отличный от основного текста), перенос слов в заголовках глав, а также использование в тексте отчета нестандартных символов, в заголовках применение сокращений. В тексте отчета сокращения терминов допустимы только после введения содержательного определения данного термина. Все страницы отчета (кроме приложений) должны быть пронумерованы, начиная с «Введения», которое нумеруется цифрой 3. Номера страниц располагаются в центре нижней части листа без точки.&lt;/p&gt;
-&lt;p&gt;Иллюстративный материал (таблицы, рисунки, формулы) включается в отчет с целью наглядности аргументации и обоснования выводов, полученных студентом. Таким образом, в основную часть отчета помещается только тот материал, который способствует лучшему обоснованию выводов, полученных студентом. Таблицы, отчетные формы и другой фактический материал, который представляет собой исходные данные, на основании которых производилось исследование, в основной текст работы не включаются, но могут быть вынесены в приложение. Таблицы и рисунки, построенные на основе исходных фактических данных, рекомендуется включать непосредственно в основной текст отчета. Весь иллюстративный материал должен, по возможности, помещаться после первого упоминания о нем в тексте.&lt;/p&gt;
-&lt;p&gt;Иллюстрации нумеруются в пределах разделов. Номер иллюстрации состоит из номера раздела и порядкового номера иллюстрации, разделенных точкой. В конце точка не ставится. Если таблица заимствована из книги или статьи другого автора, на нее в конце заголовка должна быть оформлена ссылка с учетом требований настоящих методических рекомендаций. В графах таблицы не допускается оставлять свободные ячейки. Если соответствующие данные отсутствуют, в графе проставляется прочерк. К цифровым табличным данным должны быть указаны единицы измерения. Если данные таблицы имеют разные единицы измерения, то они указываются в соответствующих заголовках граф или строк таблицы. Если все табличные данные имеют одну и ту же единицу измерения, то данную единицу, начиная с предлога «в», приводят над таблицей после названия через запятую (например, в тыс. руб., в га, в кв. м., в процентах и т.п.).&lt;/p&gt;
-&lt;p&gt;При необходимости таблицу можно переносить на другую страницу. В этом случае применяется следующий вариант оформления. Заголовки столбцов (или строк) таблицы пронумеровываются, и на следующей странице не повторяется текст заголовков, а проставляется только соответствующий номер столбца (строки). Над продолжением таблицы сверху справа печатаются слова «Продолжение таблицы 1.1». Название таблицы на новой странице не повторяется. Не допускается начинать таблицу внизу страницы, если после названия таблицы остается только заголовочная часть, либо заголовочная часть плюс одна-две строки содержания, а основная часть таблицы при этом оказывается на следующем листе. Не допускается перенос таблицы на следующую страницу, если на следующую страницу переносятся одна-две строки содержания таблицы. В этом случае следует либо несколько уменьшить размер шрифта, используемый в таблице, чтобы таблица поместилась целиком на предыдущем листе; либо немного увеличить интервалы между строками таблицы, чтобы таблица располагалась на страницах более равномерно. К рисункам относятся рисунки, схемы, диаграммы, графики и т.д. Если таблица или рисунок по объему занимают более одной страницы, то их необходимо вынести в приложение к отчету. Размещение рисунков в отчете такое же, как и для другого иллюстративного материала, то есть либо сразу же после ссылки на него, либо на ближайшей к этой ссылке странице. Рисунки следует размещать в тексте так, чтобы их можно было рассматривать без поворота работы. Все рисунки должны быть пронумерованы в пределах разделов арабскими цифрами: Рисунок 2.1. Непосредственно после обозначения нумерации рисунка следует содержательный заголовок. Номер рисунка и заголовок размещаются внизу рисунка, по центру относительно рисунка.&lt;/p&gt;
-&lt;p&gt;Уравнения и формулы следует выделять из текста в отдельную строку. В формулах в качестве символов следует применять обозначения, установленные соответствующими государственными стандартами, и отраженные в формате формул.&lt;/p&gt;
-&lt;p&gt;Использованные в процессе написания отчета литературные источники указываются в конце работы перед приложением.&lt;/p&gt;
-&lt;p&gt;Пример оформления библиографического описания:&lt;/p&gt;
-&lt;p&gt;Нормативные правовые акты Конституция Российской Федерации: офиц. текст. - М.: Маркетинг, 2017. - 39 с. Семейный кодекс Российской Федерации: [федер. закон: принят Гос. Думой 8 дек. 1995 г.: по состоянию на 3 янв. 2001 г.]. - СПб.: Стаун-кантри, 2001. - 94 с.&lt;/p&gt;
-&lt;p&gt;Однотомная книга одного автора: Глазунов В.А. Пространственные механизмы параллельной структуры. М.: Наука, 1991. 94 с.&lt;/p&gt;
-&lt;p&gt;Однотомная книга двух и более авторов: Абалакин В.К., Аксенов Е.П., Гребеников Е.А., Демин В.Г., Рябов Ю.А. Справочное руководство по небесной механике и астродинамике / под ред. Г.Н. Дубошина. М.: Наука, 1976. 864 с. Маршак И.С., Дойников А.С., Жильцов В.П., Кирсанов В.П., Ровинский Р.Е., Щукин Л.Н., Фейгенбаум М.Г. Импульсные источники света / под общ. ред. И.С. Маршака. 2-е изд., перераб. и доп. М.: Энергия, 1978. 472 с. Переводная книга: Себехей В. Теория орбит: ограниченная задача трех тел: пер. с англ. / под ред. Г.Н. Дубошина. М.: Наука, 1982. 656 с. [Victor G. Szebehely. Theory of Orbits: the Restricted Problem of Three Bodies. New York : Academic Press, 1967.]. Дейт К.Дж. Введение в системы баз данных: пер. с англ. М.: Вильямс, 2006. 1328 с. [Date C.J. An Introduction to Database Systems. 8th ed. AddisonWesley, 2003. 1024 p.]&lt;/p&gt;
-&lt;p&gt;Отдельный том многотомного издания: Сварка и свариваемые материалы: справочник. В 3 т. Т. 1. Свариваемость материалов / ред. Э.Л. Макаров. М.: Металлургия, 1991. 258 с. Диссертация: Пнев А.Б. Оптико-электронные измерительные системы на основе квазираспределенных волоконно-оптических брэгговских датчиков: дис. … канд. техн. наук. М., 2008. 176 с.&lt;/p&gt;
-&lt;p&gt;Автореферат диссертации: Вишняков И.В. Модели и методы оценки коммерческих банков в условиях неопределенности: автореф. дис. … канд. экон. наук. М., 2002. 15 с. Аналитический обзор: Экономика и политика России и государств ближнего зарубежья: аналит. обзор, апр. 2007 / Рос. акад. наук, Ин-т мировой экономики и междунар. отношений. М.,: ИМЭМО, 2007. 39 с.&lt;/p&gt;
-&lt;p&gt;Депонированная научная работа: Громов Ю.Ю., Деревуз М.М., Земской Н.А., Иванова О.Г., Мосягина Н.Г. Алгоритм численного решения жестких дифференциальных уравнений / Тамбовский государственный технический университет. Тамбов, 1999. 8 с. Деп. в ВИНИТИ 04.03.1999, № 669-В1999. Стандарт: ГОСТ Р 517721-2001. Аппаратура радиоэлектронная бытовая. Входные и выходные параметры и типы соединений.&lt;/p&gt;
-&lt;p&gt;Технические требования. Введ. 2002- 01-01. М.: Изд-во стандартов, 2001. 27 с. Патент: Чугаева В.И. Приемопередающее устройство: пат. 2187888 Российская Федерация. 2002. Бюл. № 23 (2 ч.). 3 с.&lt;/p&gt;
-&lt;p&gt;Статья в периодическом издании: Чайковский М.М., Ядыкин И.Б. Оптимальная настройка ПИДрегуляторов для многосвязных билинейных объектов управления // Автоматика и телемеханика. 2009. № 1. С. 130-146. Звягин Ф.В. Об одном классе орбит в задачах трех и четырех тел // Вестник МГТУ им. Н.Э. Баумана. Сер. Приборостроение. 2010. № 2. С. 105– 113. Станкевич И.В., Яковлев М.Е., Си Ту Хтет. Разработка алгоритма контактного взаимодействия на основе альтернирующего метода // Вестник МГТУ им. Н.Э. Баумана. Сер. Естественные науки. 2011. Спец. вып. «Прикладная математика». С. 134–141.&lt;/p&gt;
-&lt;p&gt;Статья в сборнике: Двинянинова Г.С. Комплимент: Коммуникативный статус или стратегия в дискурсе // Социальная власть языка: сб. науч. тр. Воронеж, 2001. С. 42-49. Орлик А.Г., Коберник Н.В. Получение износостойких антиабразивных покрытий // Труды МГТУ им. Н. Э. Баумана. 2010. № 602: Математическое моделирование сложных технических систем. С. 34–38. Статья в продолжающемся издании: Белова Г.Д. Некоторые вопросы уголовной ответственности за нарушение налогового законодательства // Актуал. проблемы прокурор. надзора. 2001. Вып. 5: Прокурорский надзор за исполнением уголовного и уголовно- процессуального законодательства. Организация деятельности прокуратуры. С. 46–49. Живописцев В.П., Пятосин Л.П. Комплексные соединения тория с диантипирилметаном // Учен. зап. / Перм. ун-т. 1970. № 207. С. 184–191. Работа в материалах конференции: Карпенко А.П., Селиверстов Е.Ю. Глобальная оптимизация методом роя частиц на графических процессорах // Всерос. суперкомпьютерная конференция «Научный сервис в сети Интернет: масштабируемость, параллельность, эффективность»: труды. М.: Изд-во МГУ, 2009. С. 188–191. Симонов А. Очистка сточных вод: проектирование технических устройств // 7-я региональная конференция молодых исследователей Волгоградской области (Волгоград, 12–15 мая 2002 г.): тез. докл. Волгоград, 2002. С. 13–15.&lt;/p&gt;
-&lt;p&gt;Глава в книге: Берлинер Э.М., Глазырина И.Б., Глазырин Б.Э. Автоматизация выполнения отдельных операций в Word 2000 // Office 2000: 5 кн. в 1: самоучитель. 2-е изд., перераб. М., 2002. Гл. 14. С. 281–298. Статья в многотомном издании: Кулаков В.А. Викторианский стиль // БРЭ. М., 2006. Т. 5. С. 308–309.&lt;/p&gt;
-&lt;p&gt;В отчете не рекомендуется пересказывать содержание учебников, учебных пособий, нормативной и специальной литературы. Эта информация должна быть переработана и представлена в содержании работы. Недопустимо прямое заимствование из источников без ссылки на автора или нормативный документ. При использовании цифровых данных, положений из официальных документов, цитат и других опубликованных материалов студент должен указывать источник и делать ссылку в квадратных скобках. Пример: [12, с. 34], что означает: 12 - номер источника в списке литературы, 34 - номер страницы. В приложение помещаются материалы, дополняющие текст отчета. Например, использованные для расчетов данные; промежуточные таблицы и диаграммы, которые повлияли на построение окончательных таблиц и рисунков; промежуточные расчеты, показывающие динамику развития доказательств студента; описание алгоритмов; таблицы и рисунки нестандартного формата и т.д. Приложения помещаются в работе после списка литературы. Каждое приложение последовательно нумеруется арабскими цифрами. Если приложение больше одной страницы, то оно переносится на другую страницу и вверху обозначается как «Продолжение приложения …». В тексте отчета на все приложения должны быть приведены ссылки. Расположение приложений в конце документа должно соответствовать порядку появления ссылок на них в тексте. Каждое приложение начинается с новой страницы. В верхнем правом углу страницы указывается слово «ПРИЛОЖЕНИЕ» и ставится его порядковый номер (например, «ПРИЛОЖЕНИЕ 1»). Каждое приложение должно иметь заголовок, который указывается на следующей строке после слова «ПРИЛОЖЕНИЕ», и этот заголовок центруется относительно текста. Если документы имеют большой формат, они должны быть сложены по формату А4. При этом одна страница такой нестандартной величины нумеруется как одна страница приложения (без учета ее сложения).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Как прошла моя неделя? x3</title>
-      <link>https://neve7mind.github.io/ru/post/post5_last-week/</link>
-      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://neve7mind.github.io/ru/post/post5_last-week/</guid>
-      <description>&lt;h2 id=&#34;начало&#34;&gt;Начало&lt;/h2&gt;
-&lt;p&gt;DD.MM.YY Пн&lt;/p&gt;
-&lt;p&gt;[00:24]&lt;/p&gt;
-&lt;p&gt;        Посмотрев &amp;ldquo;Побег из Шоушенка&amp;rdquo;, я переосознал себя и свою жизнь, как часто бывает после подобных фильмов или спектаклей. Пожалуй, это временное ощущение и да, через пару дней, а может быть, даже часов это чувство снова накроется толстым беспросветным слоем рутины, которая всеобъемлюще пожирает то, что раньше было принято называть жизнью.&lt;/p&gt;
-&lt;p&gt;        Почему мы так не ценим то время, которое нам отведено? Ту, единственную для всех нас песчинку, во время которой мы можем дышать, любить и умирать за любовь. Пожалуй, сегодня время - это единственная форма материи, заставляющая человека обернуться назад и спросить себя - себя тогдашнего, не угнетаемого мелочами, не поглощённого бессмысленностью: &amp;ldquo;А так ли я представлял себе свою жизнь?&amp;rdquo;. Наверняка большинство задавшихся впервые этим вопросом с громкой уверенностью ответят: &amp;ldquo;Что? Так ли я представлял свою жизнь? Что за вздор!.. Конечно, так. Как же иначе? А что, кто-то думает, что я недоволен своей жизнью, что я несчастлив?&amp;rdquo;. Но звенящая тишина пустых комнат даст более точный ответ, и встреча с этим ответом будет неизбежна, подобно тому, как неукоснительно упал взор Гая Монтэга на вентиляционную решётку, где хранились ответы на все все вопросы, когда-либо заданные.&lt;/p&gt;
-&lt;p&gt;        Так рассуждал, потягивая сигарету, молодой студент второго курса престижного столичного университета со странноватым названием &amp;ldquo;Технический университет имени Фредерика Тэйлора&amp;rdquo;, ну или как его называли сами студенты - ТУФТа. Частенько Николай, убегая от так надоевших ему математики и программирования, погружался в подобные рассуждения, коротая одинокие ночи. И эта ночь не стала исключением. Ну вот, Коля собрался с мыслями и снова задерживает дыхание для того, чтобы нырнуть в недра своих воспоминаний, и мы безвольно следуем за ним.&lt;/p&gt;
-&lt;img src=&#34;1.jpg&#34; alt=&#34;drawing&#34; width=100%/&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Как прошла моя неделя? x2</title>
-      <link>https://neve7mind.github.io/ru/post/post3_last-week/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://neve7mind.github.io/ru/post/post3_last-week/</guid>
-      <description>&lt;h2 id=&#34;лонгрида-не-будет&#34;&gt;Лонгрида не будет&lt;/h2&gt;
-&lt;p&gt;Моя неделя прошла супер непродуктивно, а все попытки прерывания прокрастинации выливались лишь в рефлексию на тему &amp;ldquo;На что я трачу свою жизнь&amp;rdquo;. Грустно и невкусно. Единственное, что как-то скрашивало бренность бытия - несколько встреч с друзьями. На этом и закончим.&lt;/p&gt;
-&lt;img src=&#34;1.jpeg&#34; alt=&#34;drawing&#34; width=55%/&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Язык разметки Markdown</title>
       <link>https://neve7mind.github.io/ru/post/post4_markdown/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
@@ -464,7 +1442,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-423561789&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-162897435&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -474,7 +1452,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-423561789&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-162897435&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

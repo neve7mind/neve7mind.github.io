@@ -1,0 +1,2693 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: 17 мая 2025 г. --><html lang="ru-ru" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.f6689966c0a10712f95f034011917db0.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Мурашов И.В." />
+
+
+
+
+
+  
+
+<meta name="description" content="В данном проекте я опишу выполнение курса &#34;Основы кибербезопасности&#34; на платформе Stepik" />
+
+
+
+<link rel="alternate" hreflang="ru-ru" href="https://neve7mind.github.io/ru/project/project2_infosec_course/" />
+<link rel="canonical" href="https://neve7mind.github.io/ru/project/project2_infosec_course/" />
+
+
+
+  <link rel="manifest" href="/ru/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://neve7mind.github.io/ru/project/project2_infosec_course/featured.jpg" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Murashov I.V." />
+<meta property="og:url" content="https://neve7mind.github.io/ru/project/project2_infosec_course/" />
+<meta property="og:title" content="Внешний курс. Основы Кибербезопасности | Murashov I.V." />
+<meta property="og:description" content="В данном проекте я опишу выполнение курса &#34;Основы кибербезопасности&#34; на платформе Stepik" /><meta property="og:image" content="https://neve7mind.github.io/ru/project/project2_infosec_course/featured.jpg" /><meta property="og:locale" content="ru-ru" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2025-05-17T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-05-17T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://neve7mind.github.io/ru/project/project2_infosec_course/"
+  },
+  "headline": "Внешний курс. Основы Кибербезопасности",
+  
+  "image": [
+    "https://neve7mind.github.io/ru/project/project2_infosec_course/featured.jpg"
+  ],
+  
+  "datePublished": "2025-05-17T00:00:00Z",
+  "dateModified": "2025-05-17T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Мурашов И.В."
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Murashov I.V.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "В данном проекте я опишу выполнение курса \"Основы кибербезопасности\" на платформе Stepik"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Внешний курс. Основы Кибербезопасности | Murashov I.V.</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1662b7ed5335e63a6f1d7719e8c392ba" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Поиск</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Поиск ..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Поиск ...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/ru/">Murashov I.V.</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Переключить навигацию">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/ru/">Murashov I.V.</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#about"><span>Обо мне</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#posts"><span>Посты</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#projects"><span>Проекты</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#talks"><span>Выступления</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#publication"><span>Публикации</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#biography"><span>Биография</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/ru/#contact"><span>Контакты</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Поиск"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+<div class="article-container pt-3">
+  <h1>Внешний курс. Основы Кибербезопасности</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    мая 17, 2025
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/neve7mind" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Follow</a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 326px;">
+  <div style="position: relative">
+    <img src="/ru/project/project2_infosec_course/featured_hu10f2528493171cd4d424128623870439_39225_adc1b19d9c431a92c5de3c492c227afc.webp" width="720" height="326" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="цель-работы">Цель работы</h2>
+<p>Выполнение контрольных заданий внешнего курса &ldquo;Основы Кибербезопасности&rdquo;.</p>
+<h2 id="как-работает-интернет-базовые-сетевые-протоколы">Как работает интернет: базовые сетевые протоколы</h2>
+<p>UDP - протокол сетевого уровня
+TCP - протокол транспортного уровня
+HTTPS - протокол прикладного уровня
+IP - протокол сетевого уровня,
+поэтому ответ HTTPS.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.1" srcset="
+               /ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_ac5caad090cf8205a23fca7e1e67fa2d.webp 400w,
+               /ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_372d34a2ac5c264379af210cf7906cb9.webp 760w,
+               /ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_ac5caad090cf8205a23fca7e1e67fa2d.webp"
+               width="760"
+               height="385"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Ранее было упомянуто, что протокол TCP - transmission control protocol - работает на транспортном уровне.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.2" srcset="
+               /ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_22782ec86d3e55c785eb07a00f054dbd.webp 400w,
+               /ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_b5e8163e7671927f2f4cb51e75317d3b.webp 760w,
+               /ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_22782ec86d3e55c785eb07a00f054dbd.webp"
+               width="760"
+               height="388"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>В адресе типа IPv4 не может быть чисел больше 255, поэтому первые два варианта не подходят.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.3" srcset="
+               /ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_abeb8c22386756c1ce9c3505e35dde14.webp 400w,
+               /ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_0a194d0ff2a4ff8a6615d8e58cdac7c7.webp 760w,
+               /ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_abeb8c22386756c1ce9c3505e35dde14.webp"
+               width="760"
+               height="433"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>DNS-сервер, Domain name server — приложение, предназначенное для ответов на DNS-запросы по соответствующему протоколу Обязательное условие – Сопоставление сервером доменных имен доменного имени с IP-адресом называется разрешением имени и адреса.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.4" srcset="
+               /ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_96ece955a034e53d340bada0003ad385.webp 400w,
+               /ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_978804ea0d1ac650211d8e89049da4b6.webp 760w,
+               /ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_96ece955a034e53d340bada0003ad385.webp"
+               width="760"
+               height="345"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Распределение протоколов в модели TCP/IP:</p>
+<ul>
+<li>
+<p>Прикладной уровень (Application Layer): HTTP, RTSP, FTP, DNS.</p>
+</li>
+<li>
+<p>Транспортный уровень (Transport Layer): TCP, UDP, SCTP, DCCP.</p>
+</li>
+<li>
+<p>Сетевой (Межсетевой) уровень (Network Layer): IP.</p>
+</li>
+<li>
+<p>Уровень сетевого доступа (Канальный) (Link Layer): Ethernet, IEEE 802.11, WLAN, SLIP, Token Ring, ATM и MPLS.</p>
+</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.5" srcset="
+               /ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_954c38d5053c95751be973b84dd3a3fe.webp 400w,
+               /ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_528430753047a68bf5e58c55f8875ee4.webp 760w,
+               /ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_954c38d5053c95751be973b84dd3a3fe.webp"
+               width="760"
+               height="325"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Протокол http передает не зашифрованные данные, а протокол https уже будет передавать зашифрованные данные.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.6" srcset="
+               /ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_508ec31bbc30a4061bdd879ca8a1f967.webp 400w,
+               /ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_69e0c93897770ae133eb3abfd0f04bf1.webp 760w,
+               /ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_508ec31bbc30a4061bdd879ca8a1f967.webp"
+               width="760"
+               height="355"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>https передает зашифрованные данные, одна из фаз - передача данных, другая должна быть рукопожатием.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.7" srcset="
+               /ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_b8dbc8a68b15bb349e7426d07334b6cb.webp 400w,
+               /ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_665e5fb7987359d74e6a24701520df32.webp 760w,
+               /ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_b8dbc8a68b15bb349e7426d07334b6cb.webp"
+               width="760"
+               height="374"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>TLS определяется и клиентом, и сервером, чтобы было возможно подключиться.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.8" srcset="
+               /ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_3d66a0f17f470b25c0824e326a40ffa8.webp 400w,
+               /ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_8d6dcded4afb73344dc52d04d71b87c9.webp 760w,
+               /ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_3d66a0f17f470b25c0824e326a40ffa8.webp"
+               width="760"
+               height="385"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Ответ на изобрадении, остальные варианты в протоколе предусмотрены.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.1.9" srcset="
+               /ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_15204098632d3d526b3ea8f2a64f2eeb.webp 400w,
+               /ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_ff7a6f080eb3dd2e248173857daa7e5c.webp 760w,
+               /ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_15204098632d3d526b3ea8f2a64f2eeb.webp"
+               width="760"
+               height="329"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="персонализация-сети">Персонализация сети</h2>
+<p>Куки точно не хранят пароли и IP-адреса, а id ceccии и идентификатор хранят.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.2.1" srcset="
+               /ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_c58f183f1100a4eb2ab9f632a951cba7.webp 400w,
+               /ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_a3e9ef300ca9e925abf71f08c540ed6a.webp 760w,
+               /ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_c58f183f1100a4eb2ab9f632a951cba7.webp"
+               width="760"
+               height="440"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Конечно же, куки не делают соединение более надежным.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.2.2" srcset="
+               /ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_83ff543cc29ceb3ca3086e8e0f7225fc.webp 400w,
+               /ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_0d61de8ce2249ba596c5e9b93a08c3ed.webp 760w,
+               /ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_83ff543cc29ceb3ca3086e8e0f7225fc.webp"
+               width="760"
+               height="404"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Ответ на изображении.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.2.3" srcset="
+               /ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_c298404ffe206e0972477a7161572e78.webp 400w,
+               /ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_8ec9c336da1847af569819507f09919b.webp 760w,
+               /ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_c298404ffe206e0972477a7161572e78.webp"
+               width="760"
+               height="342"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Сессионные куки хранятся в течение сессии, то есть пока используется веб-сайт.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.2.4" srcset="
+               /ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_b58575f8c986a99d38ca19db62a58763.webp 400w,
+               /ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_4972527ecc2801179260981e3188005d.webp 760w,
+               /ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_b58575f8c986a99d38ca19db62a58763.webp"
+               width="760"
+               height="359"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Необходимо три узла - входной, промежуточный и выходной.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.3.1" srcset="
+               /ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_20a00a6a51018e3970cc78d080c44336.webp 400w,
+               /ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_333580ff04c9dc37fb2f7502ca3d3dfc.webp 760w,
+               /ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_20a00a6a51018e3970cc78d080c44336.webp"
+               width="760"
+               height="362"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="браузер-tor-анонимизация">Браузер TOR. Анонимизация</h2>
+<p>IP-адрес не должен быть известен охранному и промежуточному узлам.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.3.2" srcset="
+               /ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_74208d6f323bb8ab152bb65953947ea2.webp 400w,
+               /ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_b451e1ea001f1d7f4a36b1601efca8b2.webp 760w,
+               /ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_74208d6f323bb8ab152bb65953947ea2.webp"
+               width="760"
+               height="436"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Отправитель генерирует общий секретный ключ со узлами, через которые идет передача, то есть со всеми.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.3.3" srcset="
+               /ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_446c78cc69fae55b01ce1511202df8bd.webp 400w,
+               /ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_8e942e7542ed41811cb9eb9caf422778.webp 760w,
+               /ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_446c78cc69fae55b01ce1511202df8bd.webp"
+               width="760"
+               height="390"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Для получаения пакетов не нужно использовать TOR. TOR — это технология, которая позволяет с некоторым успехом скрыть личность человека в интернете.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.3.4" srcset="
+               /ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_3596b243b49c7958a108a652f3cfd58c.webp 400w,
+               /ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_632bee3c3db6058fe947da266fdef5a2.webp 760w,
+               /ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_3596b243b49c7958a108a652f3cfd58c.webp"
+               width="760"
+               height="368"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+{#fig:017 width=70%}</p>
+<h2 id="беспроводные-сети-wi-fi">Беспроводные сети Wi-fi</h2>
+<p>Действительно, это определение Wi-Fi.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.4.1" srcset="
+               /ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_e0fe32f26882d6240dfbfb4db371e457.webp 400w,
+               /ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_ef838618bd276729605991952e4fea58.webp 760w,
+               /ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_e0fe32f26882d6240dfbfb4db371e457.webp"
+               width="760"
+               height="378"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Для целей работы в Интернете Wi-Fi обычно располагается как канальный уровень (эквивалентный физическому и канальному уровням модели OSI) ниже интернет-уровня интернет-протокола. Это означает, что узлы имеют связанный интернет-адрес, и при подходящем подключении это обеспечивает полный доступ в Интернет.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.4.2" srcset="
+               /ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_3cc9ff4560ff916508e068959dc08c26.webp 400w,
+               /ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_595e6cacffdde2beb6a8343dc72127dc.webp 760w,
+               /ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_3cc9ff4560ff916508e068959dc08c26.webp"
+               width="760"
+               height="380"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>WEP (Wired Equivalent Privacy) – устаревший и небезопасный метод проверки подлинности. Это первый и не очень удачный метод защиты. Злоумышленники без проблем получают доступ к беспроводным сетям, которые защищены с помощью WEP, был заменен остальными представленными.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.4.3" srcset="
+               /ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_dc26e961af8b425375a99d6ba65170a6.webp 400w,
+               /ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_c1a8210813b82f79e66b743b09d55f4f.webp 760w,
+               /ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_dc26e961af8b425375a99d6ba65170a6.webp"
+               width="760"
+               height="396"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Нужно аутентифицировать устройства и позже передаются зашифрованные данные.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.4.4" srcset="
+               /ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_e1489ec8edea9a2da2f8fecb9a0c32eb.webp 400w,
+               /ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_60a83f4ccb4ed5f7122176490bf3d614.webp 760w,
+               /ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_e1489ec8edea9a2da2f8fecb9a0c32eb.webp"
+               width="760"
+               height="382"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>В целом, понятно по названию, что WPA2 Personal для личного использования, то есть для домашней сети, enterprise - для предпиятий.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 2.4.5" srcset="
+               /ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1682e20c03d7ba2674f95e72e9490f72.webp 400w,
+               /ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_67bf654e7210ac21cd529f60fdaeacfb.webp 760w,
+               /ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1682e20c03d7ba2674f95e72e9490f72.webp"
+               width="760"
+               height="348"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="шифрование-диска">Шифрование диска</h2>
+<p>Шифрование  диска - технология защиты информации, которая переводит данные на диске в нечитаемый код. Само собой можно зашифровать загрузочный сектор диска.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.1.1" srcset="
+               /ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_5b7b79f65addfd9658103e02b7cd2df2.webp 400w,
+               /ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_9822b5da05cfb2f6f6000a7ba6f59f78.webp 760w,
+               /ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_5b7b79f65addfd9658103e02b7cd2df2.webp"
+               width="760"
+               height="355"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Шифрование диска основано на симметричном шифровании.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.1.2" srcset="
+               /ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_e0e90f6f22c6c407f3a70dccd260051a.webp 400w,
+               /ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_453d7c0e3dd7f98f75ef63f0e01c446f.webp 760w,
+               /ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_e0e90f6f22c6c407f3a70dccd260051a.webp"
+               width="760"
+               height="371"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Отмечены программы, с помощью которых можно зашифровать жетский диск.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.1.3" srcset="
+               /ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_8a8fd894a579ac9534be32d0c391bad3.webp 400w,
+               /ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_cdc1c4b551a0c6ec06b8bed189e79638.webp 760w,
+               /ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_8a8fd894a579ac9534be32d0c391bad3.webp"
+               width="760"
+               height="450"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="пароли">Пароли</h2>
+<p>Стойкий пароль - тот, который тяжлее подобрать, он должен быть со спец. символами и длинный.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.2.1" srcset="
+               /ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_399d6270e8603f839ff2987f7e929409.webp 400w,
+               /ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_3178808434f59832cfb9b202be13db4e.webp 760w,
+               /ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_399d6270e8603f839ff2987f7e929409.webp"
+               width="760"
+               height="393"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Все варианты, кроме менеджера паролей, совершенно не надежные.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.2.2" srcset="
+               /ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_16d13a8f5cf061c709db93727e0114f4.webp 400w,
+               /ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_a79486835870a0750d60ea004d2e4acf.webp 760w,
+               /ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_16d13a8f5cf061c709db93727e0114f4.webp"
+               width="760"
+               height="405"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Капча нужна для проверки на то, что за экраном &ldquo;не робот&rdquo;.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.2.3" srcset="
+               /ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_2ba6a57e57dcc5f438a79b1425969b86.webp 400w,
+               /ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_89062628279ab9da614ca225be6285ef.webp 760w,
+               /ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_2ba6a57e57dcc5f438a79b1425969b86.webp"
+               width="760"
+               height="388"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Опасно хранить пароли в открытом виде, поэтому хранят их хэши.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.2.4" srcset="
+               /ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_4bdbccede152b2ffcdc70b4d29ec0ad6.webp 400w,
+               /ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_96aef433993a09e842a5924664f4a8ff.webp 760w,
+               /ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_4bdbccede152b2ffcdc70b4d29ec0ad6.webp"
+               width="760"
+               height="386"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Соль не поможет.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.2.5" srcset="
+               /ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_fa4f238533bbddf470a1e3f97096d7f9.webp 400w,
+               /ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_24b3f3ccab38481cbc82939a17d29537.webp 760w,
+               /ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_fa4f238533bbddf470a1e3f97096d7f9.webp"
+               width="760"
+               height="350"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Все приведенные меры защищают от утечек данных.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.2.6" srcset="
+               /ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_52f5617da1050909d6b6d803e11a5cdb.webp 400w,
+               /ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_adba720d680541c94703d715f30a5d1f.webp 760w,
+               /ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_52f5617da1050909d6b6d803e11a5cdb.webp"
+               width="760"
+               height="429"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="фишинг">Фишинг</h2>
+<p>Фишинговые ссылки очень похожи на ссылки известных сервисов, но с некоторыми отличиями.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.3.1" srcset="
+               /ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_a3845c650096618f5e9f1d50c8ab33f2.webp 400w,
+               /ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_e6b13a160324297c8a810e72ff2a0128.webp 760w,
+               /ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_a3845c650096618f5e9f1d50c8ab33f2.webp"
+               width="760"
+               height="436"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Да, может, например, если пользователя со знакомым адресом взломали.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.3.2" srcset="
+               /ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_83578d490a7a9c15bca1cc92880d26a7.webp 400w,
+               /ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_211bd9b51177f667d5bb0d4c8c4195ce.webp 760w,
+               /ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_83578d490a7a9c15bca1cc92880d26a7.webp"
+               width="760"
+               height="354"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="вирусы-примеры">Вирусы. Примеры</h2>
+<p>Ответ дан в соответствии с определением.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.4.1" srcset="
+               /ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_360c6e7feabfacf2eeb083d4b0b028be.webp 400w,
+               /ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_bd6ae4e003a0d8e65b3859e0ad3ce313.webp 760w,
+               /ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_360c6e7feabfacf2eeb083d4b0b028be.webp"
+               width="760"
+               height="391"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+Троян маскируется под обычную программу.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.4.2" srcset="
+               /ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_3509ddd523508f786575ac4ad5c10bba.webp 400w,
+               /ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_fdec7b6af56b6f8f64a9dd9d6ed8d1d4.webp 760w,
+               /ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_3509ddd523508f786575ac4ad5c10bba.webp"
+               width="760"
+               height="381"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="безопасность-мессенджеров">Безопасность мессенджеров</h2>
+<p>При установке первого сообщения отправителем формируется ключ шифрования.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.5.1" srcset="
+               /ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_2d6c86a4108da2db935b2024955924c7.webp 400w,
+               /ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_8f94e2a3003003e6e7935a8ae9ff2f31.webp 760w,
+               /ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_2d6c86a4108da2db935b2024955924c7.webp"
+               width="760"
+               height="395"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Суть сквозного шифрования состоит в том, что сообзения передаются по узлам связи в зашифрованном виде.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Вопрос 3.5.2" srcset="
+               /ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_6a86eac59c14ef5ea11209df651283ab.webp 400w,
+               /ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_d836339c1c5b8845ce75b66fcfd62fad.webp 760w,
+               /ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/ru/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_6a86eac59c14ef5ea11209df651283ab.webp"
+               width="760"
+               height="389"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>И в конце хотелось бы напомнить, что весь проект можно будет лицезреть в самое ближайшее время <strong><a href="https://github.com/neve7mind/Software-engineering-Cpp/tree/main/Lab01" target="_blank" rel="noopener">ЗДЕСЬ</a></strong>.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/ru/tag/deep-learning/">Deep Learning</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fneve7mind.github.io%2Fru%2Fproject%2Fproject2_infosec_course%2F&amp;text=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9&#43;%D0%BA%D1%83%D1%80%D1%81.&#43;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B&#43;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fneve7mind.github.io%2Fru%2Fproject%2Fproject2_infosec_course%2F&amp;t=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9&#43;%D0%BA%D1%83%D1%80%D1%81.&#43;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B&#43;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9%20%D0%BA%D1%83%D1%80%D1%81.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8&amp;body=https%3A%2F%2Fneve7mind.github.io%2Fru%2Fproject%2Fproject2_infosec_course%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fneve7mind.github.io%2Fru%2Fproject%2Fproject2_infosec_course%2F&amp;title=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9&#43;%D0%BA%D1%83%D1%80%D1%81.&#43;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B&#43;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9&#43;%D0%BA%D1%83%D1%80%D1%81.&#43;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B&#43;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20https%3A%2F%2Fneve7mind.github.io%2Fru%2Fproject%2Fproject2_infosec_course%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fneve7mind.github.io%2Fru%2Fproject%2Fproject2_infosec_course%2F&amp;title=%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B9&#43;%D0%BA%D1%83%D1%80%D1%81.&#43;%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B&#43;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://neve7mind.github.io/"><img class="avatar mr-3 avatar-circle" src="/ru/authors/admin/avatar_hu6f715f5833e84d28114d2e2342f33656_1075024_270x270_fill_lanczos_center_3.png" alt="Мурашов И.В."></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://neve7mind.github.io/">Мурашов И.В.</a></h5>
+      <h6 class="card-subtitle">Студент</h6>
+      <p class="card-text">Меня увлекают музыка, математика, программирование и размышления о бренности бытия.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/ru/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://elibrary.ru/" target="_blank" rel="noopener">
+        <i class="fas fa-etsy"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.mendeley.com/" target="_blank" rel="noopener">
+        <i class="fab fa-mendeley"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0009-0001-2785-8088" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Ivan-Murashov" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://independent.academia.edu/MurashovI" target="_blank" rel="noopener">
+        <i class="fab fa-autoprefixer"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/" target="_blank" rel="noopener">
+        <i class="fas fa-archive"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/neve7mind" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.391d344a129df56f7ad674c2c2ed04e8.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/ru/js/wowchemy.min.38bc0c3a6a7eed1b35a03377dafb000b.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Процитировать</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Копия
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Скачать
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
