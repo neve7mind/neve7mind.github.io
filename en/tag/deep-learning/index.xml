@@ -5,12 +5,1595 @@
     <link>https://neve7mind.github.io/en/tag/deep-learning/</link>
       <atom:link href="https://neve7mind.github.io/en/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://neve7mind.github.io/media/icon_hu26bb6856b9ac2495d8c3fccce32364c5_204127_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://neve7mind.github.io/en/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>External course. Cybersecurity basics</title>
+      <link>https://neve7mind.github.io/en/project/project2_infosec_course/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://neve7mind.github.io/en/project/project2_infosec_course/</guid>
+      <description>&lt;h2 id=&#34;aim-of-the-work&#34;&gt;Aim of the work&lt;/h2&gt;
+&lt;p&gt;Completion of external course control assignments &lt;a href=&#34;https://stepik.org/course/111512/info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Cybersecurity basics&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-the-internet-works-basic-network-protocols&#34;&gt;How the internet works: basic network protocols&lt;/h2&gt;
+&lt;p&gt;UDP - network layer protocol
+TCP - transport level protocol
+HTTPS - application level protocol
+IP - network layer protocol,
+therefore the response is HTTPS.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_f42a04ec136a74354ea044ee0034e6a8.webp 400w,
+               /en/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_372d34a2ac5c264379af210cf7906cb9.webp 760w,
+               /en/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/1_hub769f06920d0dcbc6441af7c959ad55a_42707_f42a04ec136a74354ea044ee0034e6a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;It was mentioned earlier that the TCP protocol - transmission control protocol - works at the transport level.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_9fe1d076212ddc07d0a1a0894191c80d.webp 400w,
+               /en/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_b5e8163e7671927f2f4cb51e75317d3b.webp 760w,
+               /en/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/2_huc3bb090ade1ed167bce8b3e2009c545f_47400_9fe1d076212ddc07d0a1a0894191c80d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;An IPv4 address cannot be more than 255, so the first two options are not suitable.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_cae60822f766989b6a6e6d823393bc8f.webp 400w,
+               /en/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_0a194d0ff2a4ff8a6615d8e58cdac7c7.webp 760w,
+               /en/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/3_hu92b46a079c1e6727b2b9bff8ecf2f944_61743_cae60822f766989b6a6e6d823393bc8f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;433&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;DNS server, Domain name server - application designed to answer DNS requests according to the appropriate protocol Mandatory condition - The server mapping of domain names to an IP address is called name and address resolution.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_744e3f60bc1fc18c170fe36589bd1eb4.webp 400w,
+               /en/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_978804ea0d1ac650211d8e89049da4b6.webp 760w,
+               /en/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/4_hu3be06dcd0b5cddaeffc1733cd34171a7_42996_744e3f60bc1fc18c170fe36589bd1eb4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Distribution of protocols in TCP/IP models:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Application layer (HTTP, RTSP, FTP, DNS).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transport layer (TCP, UDP, SCTP, DCCP).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Network (Interconnect) level (Network Layer): IP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Network access level (Channel) (Link Layer): Ethernet, IEEE 802.11, WLAN, SLIP, Token Ring, ATM and MPLS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.5&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_14dbd17f4b607e37aab4df62fefd6c34.webp 400w,
+               /en/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_528430753047a68bf5e58c55f8875ee4.webp 760w,
+               /en/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/5_hud1811904718db8f35882621cd7ecf704_47342_14dbd17f4b607e37aab4df62fefd6c34.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;325&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The http protocol does not transmit encrypted data, and the https protocol will already transmit encrypted data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.6&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_beedfd478f539963daf0978568196478.webp 400w,
+               /en/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_69e0c93897770ae133eb3abfd0f04bf1.webp 760w,
+               /en/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/6_hu20b38d19b7da54eb4009b871ebf876e2_49848_beedfd478f539963daf0978568196478.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;https transmits encrypted data, one phase is data transmission, the other should be a handshake.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.7&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_fba929179c63c5d3a4247c3eaaa0b487.webp 400w,
+               /en/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_665e5fb7987359d74e6a24701520df32.webp 760w,
+               /en/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/7_hu2b5b868f4346ea12206c6fa1a2abe1e0_61010_fba929179c63c5d3a4247c3eaaa0b487.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;374&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TLS is defined by both the client and the server to be able to connect.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.8&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_7a578fc0eb4dd00ef8d502730a2d24e5.webp 400w,
+               /en/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_8d6dcded4afb73344dc52d04d71b87c9.webp 760w,
+               /en/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/8_huea7ccd6f6cb8c3daef6b41dfe27de4bc_51176_7a578fc0eb4dd00ef8d502730a2d24e5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The answer to the picture, the other options in the protocol are provided.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.1.9&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_d336c29e5a33bcffe0d345256b04b3e5.webp 400w,
+               /en/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_ff7a6f080eb3dd2e248173857daa7e5c.webp 760w,
+               /en/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/9_hu426bd5f2ad444136249f4d3238721640_49350_d336c29e5a33bcffe0d345256b04b3e5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;329&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;network-personalization&#34;&gt;Network personalization&lt;/h2&gt;
+&lt;p&gt;Cookies do not store passwords and IP addresses, but id ceccии and identifier are stored.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.2.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_eaf1b048ca92f3e23e0379b0c2b03452.webp 400w,
+               /en/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_a3e9ef300ca9e925abf71f08c540ed6a.webp 760w,
+               /en/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/10_huee43aa3561a3f34d8b9009213455b253_58464_eaf1b048ca92f3e23e0379b0c2b03452.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;440&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Of course, cookies do not make the connection more reliable.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.2.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_3a153c259702064a3aa6d29850f681d5.webp 400w,
+               /en/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_0d61de8ce2249ba596c5e9b93a08c3ed.webp 760w,
+               /en/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/11_hua8e74fade5dcd568ac8c8875e105a8b7_56743_3a153c259702064a3aa6d29850f681d5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;404&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The answer is in the image.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.2.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_19e5209507eb00df5697f3ed42bc09c2.webp 400w,
+               /en/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_8ec9c336da1847af569819507f09919b.webp 760w,
+               /en/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/12_hub244b77efdbd73dbddb1a5470f40a08c_37722_19e5209507eb00df5697f3ed42bc09c2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;342&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Session cookies are stored for the duration of the session, that is, while the website is in use.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.2.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_21f2468816142bf22edea8bfbe4fd746.webp 400w,
+               /en/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_4972527ecc2801179260981e3188005d.webp 760w,
+               /en/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/13_hu56350b4cad217a68b0f8f66df7b44acb_48469_21f2468816142bf22edea8bfbe4fd746.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;359&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;There are three nodes - input, intermediate and output.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.3.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_82573edf301ad54cd985426939700aa4.webp 400w,
+               /en/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_333580ff04c9dc37fb2f7502ca3d3dfc.webp 760w,
+               /en/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/14_hu6ac9ef0a8fbac85e054fa198620f7085_40225_82573edf301ad54cd985426939700aa4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;tor-browser-anonymization&#34;&gt;TOR Browser. Anonymization&lt;/h2&gt;
+&lt;p&gt;The IP address should not be known to the security and intermediate nodes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.3.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_9fc69fb16f0d1064bdda72ed6374f086.webp 400w,
+               /en/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_b451e1ea001f1d7f4a36b1601efca8b2.webp 760w,
+               /en/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/15_hu0c1a6df26eef196c6e1791e83a804ed7_60656_9fc69fb16f0d1064bdda72ed6374f086.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The sender generates a common secret key with nodes through which the transfer is going, that is to say with all.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.3.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_bfa55ba89651e9c4ebe90748900781df.webp 400w,
+               /en/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_8e942e7542ed41811cb9eb9caf422778.webp 760w,
+               /en/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/16_hu5802d2a5be38e73c0c4a3823bc396188_55222_bfa55ba89651e9c4ebe90748900781df.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;You do not need to use TOR to receive packages. TOR is a technology that allows you to hide the identity of a person on the Internet with some success.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.3.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_be6bd7e60bdd19881ad02b2118d1cc0f.webp 400w,
+               /en/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_632bee3c3db6058fe947da266fdef5a2.webp 760w,
+               /en/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/17_huc55591b96ea374696c5db26d6b2e7393_46404_be6bd7e60bdd19881ad02b2118d1cc0f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;368&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;wi-fi-wireless-networks&#34;&gt;Wi-fi wireless networks&lt;/h2&gt;
+&lt;p&gt;Indeed, this is the definition of WiFi.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.4.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_90610b2016c304057844a6aacc8e4490.webp 400w,
+               /en/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_ef838618bd276729605991952e4fea58.webp 760w,
+               /en/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/18_hued8c447538335b23b5ab66c5818185ab_57246_90610b2016c304057844a6aacc8e4490.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;378&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For the purpose of working on the Internet, Wi-Fi is usually located as a channel level (equivalent to the physical and channel levels of the OSI model) below the Internet level of the Internet protocol. This means that the nodes have a linked Internet address, and if properly connected, it provides full access to the Internet.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.4.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_e05b40cf51a5a48b5a1e50cbdd093f85.webp 400w,
+               /en/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_595e6cacffdde2beb6a8343dc72127dc.webp 760w,
+               /en/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/19_hu32df3a360c8c414b074263ccc8441c1b_45310_e05b40cf51a5a48b5a1e50cbdd093f85.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WEP (Wired Equivalent Privacy) is an outdated and insecure authentication method. It is the first and not a very successful protection method. Intruders without problems gain access to wireless networks that are protected with WEP, has been replaced by the others presented.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.4.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_27c7dfdd0e1309383fa04e0838e151e3.webp 400w,
+               /en/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_c1a8210813b82f79e66b743b09d55f4f.webp 760w,
+               /en/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/20_hu61cd8e0836346eb229bc3eea1a74d277_44404_27c7dfdd0e1309383fa04e0838e151e3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;396&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Need to authenticate the devices and later encrypted data is transmitted.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.4.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_90ad224385f4fa644fd43aa5cd8bcfe8.webp 400w,
+               /en/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_60a83f4ccb4ed5f7122176490bf3d614.webp 760w,
+               /en/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/21_hu357f927f78ae6424f6d4a15f81e58dca_60314_90ad224385f4fa644fd43aa5cd8bcfe8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In general, it is clear from the name that WPA2 Personal for personal use, that is to say for home network, enterprise - for preferences.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 2.4.5&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_9200c2cd4b34549a982d61f488a59a3d.webp 400w,
+               /en/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_67bf654e7210ac21cd529f60fdaeacfb.webp 760w,
+               /en/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/22_hu2b3826f1b768589f28dfbdfc5299c128_44014_9200c2cd4b34549a982d61f488a59a3d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;disk-encryption&#34;&gt;Disk encryption&lt;/h2&gt;
+&lt;p&gt;Disk encryption is an information protection technology that converts data on the disk into unreadable code. It is possible to encrypt the boot sector of the disk.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.1.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_b8ce578b0b885b546aad70e407089184.webp 400w,
+               /en/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_9822b5da05cfb2f6f6000a7ba6f59f78.webp 760w,
+               /en/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/1s_hu71684c7990af1dcbafd91ba1e4febba4_39111_b8ce578b0b885b546aad70e407089184.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;355&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Disk encryption is based on symmetric encryption.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.1.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_1aea0f95102d1e1a90f5707edf1fe1e4.webp 400w,
+               /en/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_453d7c0e3dd7f98f75ef63f0e01c446f.webp 760w,
+               /en/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/2s_hu6ecd34798e5fc60d5e55502d5b054283_43856_1aea0f95102d1e1a90f5707edf1fe1e4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The programs with which it is possible to encrypt a disk are marked.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.1.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_16d10ae13e0e7881ff987fd20c42974a.webp 400w,
+               /en/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_cdc1c4b551a0c6ec06b8bed189e79638.webp 760w,
+               /en/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/3s_hue0e74141bdf25ed5646c59d1cc84cac3_59956_16d10ae13e0e7881ff987fd20c42974a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;passwords&#34;&gt;Passwords&lt;/h2&gt;
+&lt;p&gt;Strong password - the one that is more difficult to pick up, it should be with special. symbols and long.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.2.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_56458a6ac536875fa3d959d7e111766e.webp 400w,
+               /en/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_3178808434f59832cfb9b202be13db4e.webp 760w,
+               /en/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/4s_hu80e29c1ec811ff06be46c757ed6a9f13_45821_56458a6ac536875fa3d959d7e111766e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;393&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;All options, except the password manager, are completely unreliable.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.2.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_9607df8be62d66fc299af43c6533f121.webp 400w,
+               /en/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_a79486835870a0750d60ea004d2e4acf.webp 760w,
+               /en/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/5s_hu932a69a37e0eb1f6131cdfde6c64ba46_50527_9607df8be62d66fc299af43c6533f121.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Kapcha is needed to check that behind the screen is &amp;ldquo;not a robot&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.2.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_7c7c4ae0ca7aeb41345fd990d559af1f.webp 400w,
+               /en/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_89062628279ab9da614ca225be6285ef.webp 760w,
+               /en/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/6s_hu74fa39cf2a4ca653dcd224c7fd75eb3b_52703_7c7c4ae0ca7aeb41345fd990d559af1f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;388&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;It is dangerous to keep passwords in open form, so their hash is kept.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.2.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_5be4a1d20e8647db48864cf3f991a9a4.webp 400w,
+               /en/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_96aef433993a09e842a5924664f4a8ff.webp 760w,
+               /en/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/7s_hu6c978723b244f185ee9ea148963910f2_56597_5be4a1d20e8647db48864cf3f991a9a4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Salt won’t help.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.2.5&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_0ddcaad9f47fce23e7b8addf1a6897ea.webp 400w,
+               /en/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_24b3f3ccab38481cbc82939a17d29537.webp 760w,
+               /en/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/8s_hu6034e0c14f8a3a4a808bfd0525351b7e_41625_0ddcaad9f47fce23e7b8addf1a6897ea.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;All the above measures protect against data leakage.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.2.6&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_77e4ee916a87b2b00ec30f9daaeb1250.webp 400w,
+               /en/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_adba720d680541c94703d715f30a5d1f.webp 760w,
+               /en/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/9s_hue51edaf993866a705573e4e8ff17c16a_64504_77e4ee916a87b2b00ec30f9daaeb1250.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;429&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;fishing&#34;&gt;Fishing&lt;/h2&gt;
+&lt;p&gt;The phishing links are very similar to the links of known services, but with some differences.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.3.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_4f0d5c176f6211d4f761741e3dcd679c.webp 400w,
+               /en/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_e6b13a160324297c8a810e72ff2a0128.webp 760w,
+               /en/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/10s_hu469ae9636133727d5d5ce3ce8bd283b8_82111_4f0d5c176f6211d4f761741e3dcd679c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;436&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Yes, maybe, for example, if the user has been hacked with a familiar address.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.3.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_f7cf76923cbfabe20f159b91fe37cdd4.webp 400w,
+               /en/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_211bd9b51177f667d5bb0d4c8c4195ce.webp 760w,
+               /en/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/11s_hub4e121a682610cedb56beb96e96c4034_38677_f7cf76923cbfabe20f159b91fe37cdd4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;354&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;viruses-examples&#34;&gt;Viruses. Examples&lt;/h2&gt;
+&lt;p&gt;Answer given according to definition.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.4.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_c92985988d2f1200cd6f63fc6d073293.webp 400w,
+               /en/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_bd6ae4e003a0d8e65b3859e0ad3ce313.webp 760w,
+               /en/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/12s_hu27b321b7e71695698b72e42d2609328f_49450_c92985988d2f1200cd6f63fc6d073293.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;391&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+The Trojan is disguised as a regular program.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.4.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_1be8b3c6e1a177c36007fd6fc03dc362.webp 400w,
+               /en/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_fdec7b6af56b6f8f64a9dd9d6ed8d1d4.webp 760w,
+               /en/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/13s_hub1d2c61cfe487be4b0326b574ba5d919_54083_1be8b3c6e1a177c36007fd6fc03dc362.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;security-of-messengers&#34;&gt;Security of messengers&lt;/h2&gt;
+&lt;p&gt;When the first message is installed by the sender, the encryption key is generated.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.5.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_bfffd1b1566335d765d7a26faf200c63.webp 400w,
+               /en/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_8f94e2a3003003e6e7935a8ae9ff2f31.webp 760w,
+               /en/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/14s_hu311d851198184dcf0b3194e77cb8e18d_57582_bfffd1b1566335d765d7a26faf200c63.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;395&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The essence of end-to-end encryption is that messages are transmitted over nodes in encrypted form.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 3.5.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_8bad2b16474c6baf6e70f2f1b6e4eaa5.webp 400w,
+               /en/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_d836339c1c5b8845ce75b66fcfd62fad.webp 760w,
+               /en/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/15s_hu3ed2ce95de14b2cdb2cae32637077682_65959_8bad2b16474c6baf6e70f2f1b6e4eaa5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-cryptography&#34;&gt;Introduction to cryptography&lt;/h2&gt;
+&lt;p&gt;Asymmetric cryptographic systems imply that a pair of keys is on both sides.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.1.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_2ff3f16fd93815b6ca7ddc7576c80cad.webp 400w,
+               /en/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_1751f7dd65d6f0266008d139dca99598.webp 760w,
+               /en/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/1w_hued51a5b194506a1832691450fc09ccd5_60394_2ff3f16fd93815b6ca7ddc7576c80cad.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;370&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The basic conditions for cryptographic hash function have been noted.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.1.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_e7acc9d868c7312387847f5d42857613.webp 400w,
+               /en/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_e027558b2a6488714836e86a0f09ee40.webp 760w,
+               /en/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/2w_hu71115714768b4efeb50902c2029e89f3_70642_e7acc9d868c7312387847f5d42857613.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;451&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The algorithms of digital signature are marked.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.1.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_f3749404339909c150218c01abaa9254.webp 400w,
+               /en/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_ba4ca439c3e2762ca2bf045698ec9c70.webp 760w,
+               /en/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/3w_hu66cdd2057ae21d9aaf6b06ca8dfe2340_61164_f3749404339909c150218c01abaa9254.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In information security, message authentication or data source authentication is a property that ensures that the message has not been modified during transmission (data integrity) and that the recipient can verify the source of the message.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.1.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_93749c35c3dded59b5824289a67d278d.webp 400w,
+               /en/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_5aee5035c86621a6b4bbbeedfff11ae0.webp 760w,
+               /en/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/4w_hu6a4e156de1da80aa24832f8a36b78851_42905_93749c35c3dded59b5824289a67d278d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Diffie-Hellman key exchange definition.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.1.5&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_e00a7a4059e82ad1b903e1b25d67532a.webp 400w,
+               /en/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_cd775a99e9df14aea425fe7e84e49cb7.webp 760w,
+               /en/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/5w_hue71cd3424235865be0b2e36fcaa3d4ef_57807_e00a7a4059e82ad1b903e1b25d67532a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;digital-signature&#34;&gt;Digital signature&lt;/h2&gt;
+&lt;p&gt;By definition, the digital signature of the EDP protocol refers to protocols with a public key.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.2.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_b9c4c32e275c09809b9b05b9574191d9.webp 400w,
+               /en/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_15cf0ab15b43e548bed1f956874cb969.webp 760w,
+               /en/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/6w_hu5842d073b8a07fa42e7a073e67156760_51845_b9c4c32e275c09809b9b05b9574191d9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;398&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The verification of an electronic signature is as follows. In the first step, the recipient of the message builds its own version of the signed document hash function. The second step is deciphering the hash function contained in the message using the sender’s public key. In the third step, two hash functions are compared. Their coincidence guarantees both the authenticity of the document content and its authorship.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.2.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_98be1cf8bef7e475fa3b2d18e385ef57.webp 400w,
+               /en/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_5ffb5bd238ce7d0ee42278142504af7b.webp 760w,
+               /en/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/7w_hu02a93e1fb7ba13f4de2b1b423078231c_58846_98be1cf8bef7e475fa3b2d18e385ef57.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;440&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The electronic signature ensures all specified except confidentiality.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.2.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_7a4e5e3ed234551201ec1b9b3b65697a.webp 400w,
+               /en/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_f43a5ed91f655a17b16757a47cb29772.webp 760w,
+               /en/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/8w_huf83916dd87fe02ee7f4a3cae47570e2e_54329_7a4e5e3ed234551201ec1b9b3b65697a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;An enhanced qualified electronic signature is used to send tax returns to the FNS.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.2.4&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_2a4f2b55d5e2955a00c76b579c16a774.webp 400w,
+               /en/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_fe661aadf118d391c6a7b81e3cef7263.webp 760w,
+               /en/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/9w_hu4de68db4bf7da2e365a8ae2a7dfb57b5_53544_2a4f2b55d5e2955a00c76b579c16a774.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;409&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The correct answer is in the picture.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.2.5&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_f93925c859911a18b5c2b3a4f42e2d71.webp 400w,
+               /en/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_8c74d4628dc3f96cc391539bbd22db6e.webp 760w,
+               /en/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/10w_hu888375e7fdbe601a06612e0710919ba8_65255_f93925c859911a18b5c2b3a4f42e2d71.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;415&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;electronic-payments&#34;&gt;Electronic payments&lt;/h2&gt;
+&lt;p&gt;Well-known payment systems - Visa, MasterCard, MIR.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.3.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_1501d281134b651792841d09ba63dbac.webp 400w,
+               /en/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_daae8665444fae63337c4650d5be6aac.webp 760w,
+               /en/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/11w_hu7026004081b96a2eca33911c308eeac1_68968_1501d281134b651792841d09ba63dbac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;519&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The correct answer to the picture.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.3.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_65bee23b41a3d1285b11e2102a9c9fdb.webp 400w,
+               /en/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_dd3d32f698fb0ebb69d993d5e39e8717.webp 760w,
+               /en/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/12w_hu20504f0595d83381e1c4aff9a505906e_71991_65bee23b41a3d1285b11e2102a9c9fdb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;448&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Multi-factor authentication is used for online payments.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.3.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_a5713cad09324da5f8862215e840b7f9.webp 400w,
+               /en/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_c7f5efc8cac8bbdd3044e00aee140395.webp 760w,
+               /en/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/13w_hue911f0cb64e6a0639c6b201753ff94cc_63305_a5713cad09324da5f8862215e840b7f9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;blockchain&#34;&gt;Blockchain&lt;/h2&gt;
+&lt;p&gt;Proof-of-Work, or PoW (proof of performance) is a consensus algorithm in a blockchain; it is used to confirm transactions and create new blocks. With PoW, miners compete against each other for online transactions and rewards.
+Users of the network send each other digital tokens, after which all transactions are collected in blocks and recorded in a distributed registry, that is, in a blockchain.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.4.1&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_9a4740a46e11a1b90dfddd89d48ff049.webp 400w,
+               /en/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_f67120bc00b7894b1edee094b4425904.webp 760w,
+               /en/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/14w_hu824dd7688b3ff01e5cf097b7185c37e7_54735_9a4740a46e11a1b90dfddd89d48ff049.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Blockchain consensus is a procedure in which the network members agree on the current state of data in the network. This allows consensus algorithms to establish the reliability and credibility of the network’s identity.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.4.2&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_7a8e5dba8dbf42a3f72ac9136c13beca.webp 400w,
+               /en/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_b817eb2cbe5225fa78a4e7f31a192d9a.webp 760w,
+               /en/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/15w_hu10b09e9e7f9dc1dd3dead9326a3580f2_60227_7a8e5dba8dbf42a3f72ac9136c13beca.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;437&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The answer is a digital signature.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Question 4.4.3&#34; srcset=&#34;
+               /en/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_5d724442971b6e9e656e24533bebd865.webp 400w,
+               /en/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_1f363bb47e6a6bbdc4884e222312da2e.webp 760w,
+               /en/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://neve7mind.github.io/en/project/project2_infosec_course/image/16w_huc9c178d45025ad1989d7993a616c84c5_48089_5d724442971b6e9e656e24533bebd865.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;395&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;The course &amp;ldquo;Basics of cyber security&amp;rdquo; was completed. Knowledge obtained.&lt;/p&gt;
+&lt;p&gt;And at the end I would like to mention that the whole project can be seen &lt;strong&gt;&lt;a href=&#34;https://github.com/neve7mind/study_2024-2025_infosec/tree/master/external-course&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HERE&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Course link: &lt;a href=&#34;https://stepik.org/course/111512/info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Implementation of Simply Linked Lists in C&#43;&#43;</title>

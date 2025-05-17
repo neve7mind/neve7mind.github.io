@@ -75,6 +75,16 @@
     <loc>https://neve7mind.github.io/ru/project/project2_infosec_course/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://neve7mind.github.io/en/project/project2_infosec_course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://neve7mind.github.io/ru/project/project2_infosec_course/"
+                />
   </url><url>
     <loc>https://neve7mind.github.io/ru/project/project1_soft_eng_lab1/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
